@@ -1,0 +1,1882 @@
+[
+  {
+    "id": "FRR",
+    "name": "AMIGO",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "FRRIGEN",
+        "name": "Gerais",
+        "requirements": [
+          {
+            "id": "FRRIGEN1",
+            "quest": "Ter, no mínimo, dez anos de idade."
+          },
+          {
+            "id": "FRRIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "FRRIGEN3",
+            "quest": "Memorizar e explicar o Voto e a Lei dos Desbravadores."
+          },
+          {
+            "id": "FRRIGEN4",
+            "quest": "Ler o livro dos Clube de Leitura do ano em curso."
+          },
+          {
+            "id": "FRRIGEN5",
+            "quest": "Ler o livro Vaso de Barro."
+          },
+          {
+            "id": "FRRIGEN6",
+            "quest": "Participar ativamente da classe bíblica do seu Clube."
+          }
+        ]
+      },
+      {
+        "id": "FRRIISPD",
+        "name": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "FRRIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "Criação: O que Deus criou em cada dia da Criação.",
+              "10 Pragas: Quais as pragas que caíram sobre o Egito.",
+              "12 Tribos: O nome de cada uma das 12 tribos de Israel.",
+              "39 livros do Antigo Testamento e demonstrar habilidade para encontrar qualquer um deles."
+            ]
+          },
+          {
+            "id": "FRRIISPD2",
+            "quest": "Ler e explicar os versos abaixo:",
+            "options": [
+              "João 3:16",
+              "Efésios 6:1-3",
+              "II Timóteo 3:16",
+              "Salmo 1"
+            ]
+          },
+          {
+            "id": "FRRIISPD3",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "Gênesis",
+                "capítulos": ["1", "2", "3", "4:1-16", "6:11-22", "8", "9:1-19", "11:1-9", "12:1-10", "14:18-24", "15", "17:1-8", "17:11-22", "18", "19:1-29", "21:1-21", "22:1-19", "23", "24:1-46, 48", "24:52-67", "27", "28", "29", "30:25-31", "31:2-3", "31:17-18", "32", "33", "37", "39", "40", "41", "42", "43", "44", "45", "47", "50"]
+              },
+              {
+                "livro": "Êxodo",
+                "capítulos": ["1", "2", "3", "4:1-17", "4:27-31", "5", "7", "8", "9", "10", "11", "12", "13:17-22", "14", "15:22-27", "16", "17", "18", "19", "20", "24", "32", "33", "34:1-14", "34:29-35", "35:4-29", "40"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "FRRIIICOO",
+        "name": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "FRRIIICOO1",
+            "quest": "Dedicar duas horas ajudando alguém em sua comunidade, através de duas das seguintes atividades:",
+            "options": [
+              "Visitar alguém que precisa de amizade e orar com essa pessoa.",
+              "Oferecer alimento a alguém carente.",
+              "Participar de um projeto ecológico ou educativo."
+            ]
+          },
+          {
+            "id": "FRRIIICOO2",
+            "quest": "Escrever uma redação explicando como ser um bom cidadão no lar e na escola."
+          }
+        ]
+      },
+      {
+        "id": "FRRIVFRD",
+        "name": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "FRRIVFRD1",
+            "quest": "Mencionar dez qualidades de um bom amigo e apresentar quatro situações diárias onde você praticou a Regra Áurea de Mateus 7:12."
+          },
+          {
+            "id": "FRRIVFRD2",
+            "quest": "Saber cantar o hino nacional de seu país e conhecer sua história. Saber o nome do autor da letra e da música do hino."
+          }
+        ]
+      },
+      {
+        "id": "FRRVHEF",
+        "name": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "FRRVHEF1",
+            "quest": "Completar uma das seguintes especialidades:",
+            "options": [
+              "Natação Principiante I",
+              "Cultura física",
+              "Nós e amarras",
+              "Segurança básica na água"
+            ]
+          },
+          {
+            "id": "FRRVHEF2",
+            "quest": "Utilizando a experiência de Daniel:",
+            "options": [
+              "Explicar os princípios de temperança que ele defendeu ou participar em uma apresentação ou encenação sobre Daniel 1.",
+              "Memorizar e explicar Daniel 1:8.",
+              "Escrever seu compromisso pessoal de seguir um estilo de vida saudável."
+            ]
+          },
+          {
+            "id": "FRRVHEF3",
+            "quest": "Aprender os princípios de uma dieta saudável e ajudar a preparar um quadro com os grupos básicos de alimentos."
+          }
+        ]
+      },
+      {
+        "id": "FRRVIOLD",
+        "name": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "FRRVIOLD1",
+            "quest": "Através da observação, acompanhar todo o processo de planejamento até a execução de uma caminhada de 5 quilômetros."
+          }
+        ]
+      },
+      {
+        "id": "FRRVIINAS",
+        "name": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "FRRVIINAS1",
+            "quest": "Completar uma das seguintes especialidades:",
+            "options": [
+              "Felinos",
+              "Cães",
+              "Mamíferos",
+              "Sementes",
+              "Aves de estimação"
+            ]
+          },
+          {
+            "id": "FRRVIINAS2",
+            "quest": "Aprender e demonstrar uma maneira para purificar a água e escrever um parágrafo destacando o significado de Jesus como a água da vida."
+          },
+          {
+            "id": "FRRVIINAS3",
+            "quest": "Aprender e montar três diferentes tipos de barracas em locais apropriados."
+          }
+        ]
+      },
+      {
+        "id": "FRRVIIIOUL",
+        "name": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "FRRVIIIOUL1",
+            "quest": "Demonstrar como cuidar corretamente de uma corda. Fazer e explicar o uso prático dos seguintes nós:",
+            "options": [
+              "Simples",
+              "Cego",
+              "Direito",
+              "Cirurgião",
+              "Lais de guia",
+              "Lais de guia duplo",
+              "Escota",
+              "Catau",
+              "Pescador",
+              "Fateixa",
+              "Volta do fiel",
+              "Nó de gancho",
+              "Volta da ribeira",
+              "Ordinário"
+            ]
+          },
+          {
+            "id": "FRRVIIIOUL2",
+            "quest": "Completar a especialidade de Acampamento I."
+          },
+          {
+            "id": "FRRVIIIOUL3",
+            "quest": "Apresentar 10 regras para uma caminhada e explicar o que fazer quando estiver perdido."
+          },
+          {
+            "id": "FRRVIIIOUL4",
+            "quest": "Aprender os sinais para seguir uma pista. Preparar e seguir uma pista de no mínimo, 10 sinais, que também possa ser seguida por outros."
+          }
+        ]
+      },
+      {
+        "id": "FRRIXLEN",
+        "name": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "FRRIXLEN1",
+            "quest": "Completar uma especialidade na área de Artes e Habilidades Manuais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "FRA",
+    "name": "AMIGO DA NATUREZA",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "FRA1",
+        "quest": "Memorizar, cantar ou tocar o Hino dos Desbravadores e conhecer a história do hino."
+      },
+      {
+        "id": "FRA2",
+        "quest": "Em consulta com seu líder, escolher um dos seguintes personagens do Antigo Testamento e conversar com seu grupo sobre o amor e cuidado de Deus e o livramento demonstrado na vida do personagem escolhido.",
+        "options": [
+          "José",
+          "Jonas",
+          "Ester",
+          "Rute"
+        ]
+      },
+      {
+        "id": "FRA3",
+        "quest": "Levar pelo menos dois amigos não adventistas à Escola Sabatina ou ao Clube de Desbravadores."
+      },
+      {
+        "id": "FRA4",
+        "quest": "Conhecer os princípios de higiene, de boas maneiras à mesa e como se comportar diante de pessoas que tenham diferentes idades. Demonstrar e explicar como estas boas maneiras podem ser úteis nas reuniões e acampamentos do clube."
+      },
+      {
+        "id": "FRA5",
+        "quest": "Fazer a especialidade de Arte de acampar."
+      },
+      {
+        "id": "FRA6",
+        "quest": "Conhecer e identificar 10 flores silvestres e 10 insetos de sua região."
+      },
+      {
+        "id": "FRA7",
+        "quest": "Começar uma fogueira com apenas um fósforo, usando materiais naturais, e mantê-la acesa."
+      },
+      {
+        "id": "FRA8",
+        "quest": "Usar corretamente uma faca, facão ou uma machadinha e conhecer dez regras para usá-los com segurança."
+      },
+      {
+        "id": "FRA9",
+        "quest": "Escolher e completar uma especialidade em uma das áreas abaixo:",
+        "options": [
+          "Atividades Missionárias e Comunitárias",
+          "Atividades Agrícolas e Afins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "COR",
+    "name": "COMPANHEIRO",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "CORIGEN",
+        "name": "Gerais",
+        "requirements": [
+          {
+            "id": "CORIGEN1",
+            "quest": "Ter, no mínimo, 11 anos de idade."
+          },
+          {
+            "id": "CORIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "CORIGEN3",
+            "quest": "Ilustrar de forma criativa o significado do Voto do Desbravador."
+          },
+          {
+            "id": "CORIGEN4",
+            "quest": "Ler o livro do Clube de Leitura do ano em curso e escrever um parágrafo sobre o que mais lhe chamou atenção ou considerou importante."
+          },
+          {
+            "id": "CORIGEN5",
+            "quest": "Ler o livro Caminho a Cristo."
+          },
+          {
+            "id": "CORIGEN6",
+            "quest": "Participar ativamente da classe bíblica do seu clube."
+          }
+        ]
+      },
+      {
+        "id": "CORIISPD",
+        "name": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "CORIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "10 Mandamentos: A Lei de Deus dada a Moisés.",
+              "27 livros do Novo Testamento e demonstrar habilidade para encontrar qualquer um deles."
+            ]
+          },
+          {
+            "id": "CORIISPD2",
+            "quest": "Memorizar e recitar os versos abaixo:",
+            "options": [
+              "Isaías 41:9-10",
+              "Hebreus 13:5",
+              "Provérbios 22:6",
+              "I João 1:9",
+              "Salmo 8"
+            ]
+          },
+          {
+            "id": "CORIISPD3",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "Levítico",
+                "capítulos": ["11"]
+              },
+              {
+                "livro": "Números",
+                "capítulos": ["9:15-23", "11", "12", "13", "14:1-38", "16", "17", "20:1-13", "20:22-29", "21:4-9", "22", "23", "24:1-10"]
+              },
+              {
+                "livro": "Deuteronômio",
+                "capítulos": ["1:1-17", "4:1-8", "32:1-43", "33", "34"]
+              },
+              {
+                "livro": "Josué",
+                "capítulos": ["1", "2", "3", "4", "5:10", "6", "7", "9", "24:1-15", "24:29"]
+              },
+              {
+                "livro": "Juízes",
+                "capítulos": ["6", "7", "13:1-18", "14", "15", "16"]
+              },
+              {
+                "livro": "Rute",
+                "capítulos": ["1", "2", "3", "4"]
+              },
+              {
+                "livro": "I Samuel",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "8", "9", "10", "11:12-15", "12", "13", "15", "16", "17", "18:1-19", "20", "21:1-7", "22", "24", "25", "26", "31"]
+              },
+              {
+                "livro": "II Samuel",
+                "capítulos": ["1", "5", "6", "7", "9", "11", "12:1-25", "15", "18"]
+              }
+            ]
+          },
+          {
+            "id": "CORIISPD4",
+            "quest": "Em consulta com o seu conselheiro, escolher um dos seguintes temas e escolher um dos itens abaixo para demonstrar seu conhecimento sobre o tema escolhido:",
+            "options": [
+              {
+                "temas": [
+                  "Uma parábola de Jesus",
+                  "Um milagre de Jesus",
+                  "O Sermão da Montanha",
+                  "Um sermão sobre a segunda vinda de Cristo"
+                ]
+              },
+              {
+                "itens": [
+                  "Troca de ideias com o seu conselheiro",
+                  "Atividade que integre todo o grupo",
+                  "Redação"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CORIIICOO",
+        "name": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "CORIIICOO1",
+            "quest": "Planejar e dedicar pelo menos duas horas servindo sua comunidade e demonstrando companheirismo a alguém, de maneira prática."
+          },
+          {
+            "id": "CORIIICOO2",
+            "quest": "Participar de um projeto que beneficiará sua comunidade ou igreja."
+          }
+        ]
+      },
+      {
+        "id": "CORIVFRD",
+        "name": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "CORIVFRD1",
+            "quest": "Conversar com seu conselheiro ou unidade sobre como respeitar pessoas de diferentes culturas, raça e sexo."
+          }
+        ]
+      },
+      {
+        "id": "CORVHEF",
+        "name": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "CORVHEF1",
+            "quest": "Memorizar e explicar I Coríntios 9:24-27."
+          },
+          {
+            "id": "CORVHEF2",
+            "quest": "Conversar com seu líder sobre a aptidão física e os exercícios físicos regulares que se relacionam com uma vida saudável."
+          },
+          {
+            "id": "CORVHEF3",
+            "quest": "Aprender sobre os prejuízos que o cigarro causa à saúde e escrever seu compromisso de não fazer uso do fumo."
+          },
+          {
+            "id": "CORVHEF4",
+            "quest": "Completar uma das seguintes especialidades:",
+            "options": [
+              "Natação principiante II",
+              "Acampamento II"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CORVIOLD",
+        "name": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "CORVIOLD1",
+            "quest": "Dirigir ou colaborar em uma meditação criativa para sua unidade ou Clube."
+          },
+          {
+            "id": "CORVIOLD2",
+            "quest": "Ajudar no planejamento de uma excursão ou acampamento com sua unidade ou clube, envolvendo pelo menos um pernoite."
+          }
+        ]
+      },
+      {
+        "id": "CORVIINAS",
+        "name": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "CORVIINAS1",
+            "quest": "Participar de jogos na natureza ou caminhada ecológica, pelo período de uma hora."
+          },
+          {
+            "id": "CORVIINAS2",
+            "quest": "Completar duas das seguintes especialidades:",
+            "options": [
+              "Anfíbios",
+              "Aves",
+              "Aves domésticas",
+              "Pecuária",
+              "Répteis",
+              "Moluscos",
+              "Árvores",
+              "Arbustos"
+            ]
+          },
+          {
+            "id": "CORVIINAS3",
+            "quest": "Recapitular o estudo da Criação e fazer um diário por sete dias registrando suas observações do que foi criado em cada dia correspondente."
+          }
+        ]
+      },
+      {
+        "id": "CORVIIIOUL",
+        "name": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "CORVIIIOUL1",
+            "quest": "Descobrir os pontos cardeais sem a ajuda de uma bússola e desenhar a Rosa dos Ventos."
+          },
+          {
+            "id": "CORVIIIOUL2",
+            "quest": "Participar de um acampamento de final de semana e fazer um relatório destacando o que mais lhe impressionou positivamente."
+          },
+          {
+            "id": "CORVIIIOUL3",
+            "quest": "Aprender ou recapitular os seguintes nós:",
+            "options": [
+              "Oito",
+              "Volta do salteador",
+              "Duplo",
+              "Caminhoneiro",
+              "Direito",
+              "Volta do Fiel",
+              "Escota",
+              "Lais de Guia",
+              "Simples"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "CORIXLEN",
+        "name": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "CORIXLEN1",
+            "quest": "Completar uma especialidade não realizada anteriormente na seção de Artes e Habilidades manuais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "COA",
+    "name": "COMPANHEIRO DE EXCURSIONISMO",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "COA1",
+        "quest": "Aprender e demonstrar a composição, significado e uso correto da Bandeira Nacional."
+      },
+      {
+        "id": "COA2",
+        "quest": "Ler a primeira visão de Ellen White e discutir como Deus usa os profetas para apresentar Sua mensagem à igreja (ver Primeiros Escritos, p. 13 a 20)."
+      },
+      {
+        "id": "COA3",
+        "quest": "Participar de uma atividade missionária ou comunitária, envolvendo também um amigo."
+      },
+      {
+        "id": "COA4",
+        "quest": "Conversar com seu conselheiro ou unidade sobre como demonstrar respeito pelos seus pais ou responsáveis e fazer uma lista mostrando como cuidam de você."
+      },
+      {
+        "id": "COA5",
+        "quest": "Participar de uma caminhada de 6 quilômetros, preparando, ao final, um relatório de uma página."
+      },
+      {
+        "id": "COA6",
+        "quest": "Escolher um dos seguintes itens:",
+        "options": [
+          "Assistir a um Curso como deixar de fumar.",
+          "Assistir a dois filmes sobre saúde.",
+          "Elaborar um cartaz sobre o prejuízo das drogas.",
+          "Ajudar a preparar material para uma exposição ou passeata sobre saúde.",
+          "Pesquisar na internet informações sobre saúde e escrever uma página sobre os resultados encontrados."
+        ]
+      },
+      {
+        "id": "COA7",
+        "quest": "Identificar e descrever 12 aves nativas e 12 árvores nativas."
+      },
+      {
+        "id": "COA8",
+        "quest": "Participar de uma das seguintes cerimônias e sugerir ideias criativas e como realizá-las.",
+        "options": [
+          "Investidura",
+          "Admissão em lenço",
+          "Dia Mundial do Desbravador"
+        ]
+      },
+      {
+        "id": "COA9",
+        "quest": "Preparar uma refeição em uma fogueira durante um acampamento do clube ou unidade."
+      },
+      {
+        "id": "COA10",
+        "quest": "Preparar um quadro com 15 nós diferentes."
+      },
+      {
+        "id": "COA11",
+        "quest": "Completar a especialidade de Excursionismo pedestre com mochila."
+      },
+      {
+        "id": "COA12",
+        "quest": "Completar uma especialidade não realizada anteriormente.",
+        "options": [
+          "Habilidades domésticas",
+          "Ciência e saúde",
+          "Atividades Missionárias e Comunitárias",
+          "Atividades Agrícolas e Afins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "EXR",
+    "name": "PESQUISADOR",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "EXRIGEN",
+        "nome": "Gerais",
+        "requirements": [
+          {
+            "id": "EXRIGEN1",
+            "quest": "Ter, no mínimo, 12 anos de idade."
+          },
+          {
+            "id": "EXRIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "EXRIGEN3",
+            "quest": "Demonstrar sua compreensão do significado da Lei do Desbravador através de uma das seguintes atividades:",
+            "options": [
+              "Representação",
+              "Debate",
+              "Redação"
+            ]
+          },
+          {
+            "id": "EXRIGEN4",
+            "quest": "Ler o livro do Clube de Leitura do ano em curso e escrever dois parágrafos sobre o que mais lhe chamou atenção ou considerou importante."
+          },
+          {
+            "id": "EXRIGEN5",
+            "quest": "Ler o livro Além da Magia."
+          },
+          {
+            "id": "EXRIGEN6",
+            "quest": "Participar ativamente da classe bíblica do seu clube."
+          }
+        ]
+      },
+      {
+        "id": "EXRIISPD",
+        "nome": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "EXRIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "Levítico 11: Quais as regras dos alimentos considerados comestíveis e não comestíveis."
+            ]
+          },
+          {
+            "id": "EXRIISPD2",
+            "quest": "Ler e explicar os versos abaixo:",
+            "options": [
+              "Eclesiastes 12:13-14",
+              "Romanos 6:23",
+              "Apocalipse 1:3",
+              "Isaías 43:1-2",
+              "Salmo 51:10",
+              "Salmo 16"
+            ]
+          },
+          {
+            "id": "EXRIISPD3",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "I Reis",
+                "capítulos": ["1:28-53", "3", "4:20-34", "5", "6", "8:12-60", "10", "11:6-43", "12", "16:29-33", "17", "18", "19", "21"]
+              },
+              {
+                "livro": "II Reis",
+                "capítulos": ["2", "4:1-41", "5", "6", "7", "20", "22", "23:36-37", "24", "25:1-7"]
+              },
+              {
+                "livro": "II Crônicas",
+                "capítulos": ["24:1-14", "36"]
+              },
+              {
+                "livro": "Esdras",
+                "capítulos": ["1", "3", "6:14-15"]
+              },
+              {
+                "livro": "Neemias",
+                "capítulos": ["1", "2", "4", "8"]
+              },
+              {
+                "livro": "Ester",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "7", "8"]
+              },
+              {
+                "livro": "Jó",
+                "capítulos": ["1", "2", "42"]
+              },
+              {
+                "livro": "Salmos",
+                "capítulos": ["1", "15", "19", "23", "24", "27", "37", "39", "42", "46", "67", "90", "91", "92", "97", "98", "100", "117", "119", "121", "125", "150"]
+              },
+              {
+                "livro": "Provérbios",
+                "capítulos": ["1", "3", "4", "10", "15", "20", "25"]
+              },
+              {
+                "livro": "Eclesiastes",
+                "capítulos": ["1"]
+              }
+            ]
+          },
+          {
+            "id": "EXRIISPD4",
+            "quest": "Conversar com seu líder e escolher uma das seguintes histórias e através da história escolhida, demonstrar sua compreensão em como Jesus salva as pessoas, usando um dos métodos abaixo:",
+            "options": [
+              {
+                "histórias": [
+                  "João 3 – Nicodemos",
+                  "João 4 – A mulher samaritana",
+                  "Lucas 10 – O bom samaritano",
+                  "Lucas 15 – O filho pródigo",
+                  "Lucas 19 – Zaqueu"
+                ]
+              },
+              {
+                "métodos": [
+                  "Conversar em grupo com a participação de seu líder.",
+                  "Apresentar uma mensagem em uma reunião do Clube.",
+                  "Fazer uma série de cartazes ou uma maquete.",
+                  "Escrever uma poesia ou hino."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EXRIIICOO",
+        "nome": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "EXRIIICOO1",
+            "quest": "Conhecer os projetos comunitários desenvolvidos em sua cidade e participar em pelo menos um deles com sua unidade ou Clube."
+          },
+          {
+            "id": "EXRIIICOO2",
+            "quest": "Participar em três atividades missionárias da igreja."
+          }
+        ]
+      },
+      {
+        "id": "EXRIVFRD",
+        "nome": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "EXRIVFRD1",
+            "quest": "Participar de um debate ou representação sobre a pressão de grupo e identificar a influência que isto exerce sobre suas decisões."
+          },
+          {
+            "id": "EXRIVFRD2",
+            "quest": "Visitar um órgão público de sua cidade ou bairro e descobrir de que maneiras o clube pode ser útil à sua comunidade."
+          }
+        ]
+      },
+      {
+        "id": "EXRVHEF",
+        "nome": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "EXRVHEF1",
+            "quest": "Escolher uma das atividades abaixo e escrever um texto pessoal para um estilo de vida livre do álcool:",
+            "options": [
+              "Participar de uma discussão em classe sobre os efeitos do álcool no organismo.",
+              "Assistir a um vídeo sobre o efeito do álcool ou outras drogas no corpo humano e conversar sobre o assunto."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EXRVIOLD",
+        "nome": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "EXRVIOLD1",
+            "quest": "Dirigir uma cerimônia de abertura da reunião semanal em seu clube ou um programa de Escola Sabatina."
+          },
+          {
+            "id": "EXRVIOLD2",
+            "quest": "Ajudar a organizar a classe bíblica do seu clube."
+          }
+        ]
+      },
+      {
+        "id": "EXRVIINAS",
+        "nome": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "EXRVIINAS1",
+            "quest": "Identificar a estrela Alfa da constelação do Centauro e a constelação de Órion. Conhecer o significado espiritual de Órion, como descrito no livro Primeiros Escritos, de Ellen White, pág. 41."
+          },
+          {
+            "id": "EXRVIINAS2",
+            "quest": "Completar uma das especialidades a seguir:",
+            "options": [
+              "Astronomia",
+              "Cactos",
+              "Climatologia",
+              "Flores",
+              "Rastreio de animais"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EXRVIIIOUL",
+        "nome": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "EXRVIIIOUL1",
+            "quest": "Apresentar seis segredos para um bom acampamento. Participar de um acampamento de final de semana, planejando e cozinhando duas refeições."
+          },
+          {
+            "id": "EXRVIIIOUL2",
+            "quest": "Completar as seguintes especialidades:",
+            "options": [
+              "Acampamento III",
+              "Primeiros socorros – básico"
+            ]
+          },
+          {
+            "id": "EXRVIIIOUL3",
+            "quest": "Aprender a usar uma bússola ou um GPS (urbano ou campo), e demonstrar sua habilidade encontrando endereços em uma zona urbana."
+          }
+        ]
+      },
+      {
+        "id": "EXRIXLEN",
+        "nome": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "EXRIXLEN1",
+            "quest": "Completar uma especialidade não realizada anteriormente na seção de Artes e Habilidades Manuais."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "EXA",
+    "name": "PESQUISADOR DE CAMPO E BOSQUE",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "EXA1",
+        "quest": "Conhecer e saber usar de forma adequada a bandeira dos Desbravadores e o bandeirim de unidade e os comandos de ordem unida."
+      },
+      {
+        "id": "EXA2",
+        "quest": "Ler a história de J. N. Andrews ou um pioneiro de seu país e discutir a importância do trabalho de missionários, e por que Cristo ordenou a Grande Comissão (Mateus 28:18-20)."
+      },
+      {
+        "id": "EXA3",
+        "quest": "Convidar uma pessoa para assistir um dos seguintes programas:",
+        "options": [
+          "Clube de Desbravadores",
+          "Classe bíblica",
+          "Pequenos grupos"
+        ]
+      },
+      {
+        "id": "EXA4",
+        "quest": "Fazer uma das seguintes especialidades:",
+        "options": [
+          "Asseio e cortesia cristã",
+          "Vida familiar"
+        ]
+      },
+      {
+        "id": "EXA5",
+        "quest": "Participar de uma caminhada de 10 quilômetros e fazer uma lista dos equipamentos necessários, incluindo a roupa e o calçado que devem ser usados."
+      },
+      {
+        "id": "EXA6",
+        "quest": "Participar na organização de um dos eventos especiais do Clube:",
+        "options": [
+          "Investidura",
+          "Admissão em lenço",
+          "Dia Mundial do Desbravador"
+        ]
+      },
+      {
+        "id": "EXA7",
+        "quest": "Identificar seis pegadas de animais ou aves. Fazer um modelo em gesso, massa de modelar ou biscuit de três dessas pegadas."
+      },
+      {
+        "id": "EXA8",
+        "quest": "Aprender a fazer as quatro amarras básicas e construir um móvel de acampamento."
+      },
+      {
+        "id": "EXA9",
+        "quest": "Planejar um cardápio vegetariano para sua unidade, para um acampamento de 3 dias e apresentar ao seu instrutor."
+      },
+      {
+        "id": "EXA10",
+        "quest": "Enviar e receber uma mensagem através das formas de comunicação abaixo:",
+        "options": [
+          "Alfabeto com semáforos",
+          "Código Morse, com lanterna",
+          "Alfabeto LIBRAS (língua de sinais)",
+          "Alfabeto Braile"
+        ]
+      },
+      {
+        "id": "EXA11",
+        "quest": "Completar duas especialidades, não realizadas anteriormente, em uma das áreas abaixo:",
+        "options": [
+          "Habilidades domésticas",
+          "Ciência e saúde",
+          "Atividades missionárias e comunitárias",
+          "Atividades agrícolas e afins"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "RGR",
+    "name": "PIONEIRO",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "RGRIGEN",
+        "name": "Gerais",
+        "requirements": [
+          {
+            "id": "RGRIGEN1",
+            "quest": "Ter, no mínimo, 13 anos de idade."
+          },
+          {
+            "id": "RGRIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "RGRIGEN3",
+            "quest": "Memorizar e entender o Alvo e o Lema JA."
+          },
+          {
+            "id": "RGRIGEN4",
+            "quest": "Ler o livro do Clube de Leitura do ano em curso e resumi-lo em uma página."
+          },
+          {
+            "id": "RGRIGEN5",
+            "quest": "Ler o livro A história da vida."
+          }
+        ]
+      },
+      {
+        "id": "RGRIISPD",
+        "name": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "RGRIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "Bem-Aventuranças: O Sermão da Montanha."
+            ]
+          },
+          {
+            "id": "RGRIISPD2",
+            "quest": "Ler e explicar os versos abaixo:",
+            "options": [
+              "Isaías 26:3",
+              "Romanos 12:12",
+              "João 14:1-3",
+              "Salmo 37:5",
+              "Filipenses 3:12-14",
+              "Salmo 23",
+              "I Samuel 15:22"
+            ]
+          },
+          {
+            "id": "RGRIISPD3",
+            "quest": "Conversar em seu clube ou unidade sobre:",
+            "options": [
+              "O que é o cristianismo?",
+              "Quais são as características de um verdadeiro discípulo?",
+              "O que fazer para ser um cristão verdadeiro?"
+            ]
+          },
+          {
+            "id": "RGRIISPD4",
+            "quest": "Participar de um estudo especial sobre a inspiração da Bíblia, com a ajuda de um pastor, trabalhando os conceitos de inspiração, revelação e iluminação."
+          },
+          {
+            "id": "RGRIISPD5",
+            "quest": "Convidar três ou mais pessoas para assistirem a uma classe bíblica ou pequeno grupo."
+          },
+          {
+            "id": "RGRIISPD6",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "Eclesiastes",
+                "capítulos": ["3", "5", "7", "11", "12"]
+              },
+              {
+                "livro": "Isaías",
+                "capítulos": ["5", "11", "26:1-12", "35", "40", "43", "52:13-15", "53", "58", "60", "61"]
+              },
+              {
+                "livro": "Jeremias",
+                "capítulos": ["9:23-26", "10:1-16", "18:1-6", "26", "36", "52:1-11"]
+              },
+              {
+                "livro": "Daniel",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12"]
+              },
+              {
+                "livro": "Joel",
+                "capítulos": ["2:12-31"]
+              },
+              {
+                "livro": "Amós",
+                "capítulos": ["7:10-16", "8:4-11"]
+              },
+              {
+                "livro": "Jonas",
+                "capítulos": ["1", "2", "3", "4"]
+              },
+              {
+                "livro": "Miqueias",
+                "capítulos": ["4"]
+              },
+              {
+                "livro": "Ageu",
+                "capítulos": ["2"]
+              },
+              {
+                "livro": "Zacarias",
+                "capítulos": ["4"]
+              },
+              {
+                "livro": "Malaquias",
+                "capítulos": ["3", "4"]
+              }
+              ,
+              {
+                "livro": "Mateus",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "RGRIIICOO",
+        "name": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "RGRIIICOO1",
+            "quest": "Participar em dois projetos missionários definidos por seu Clube."
+          },
+          {
+            "id": "RGRIIICOO2",
+            "quest": "Trabalhar em um projeto comunitário de sua igreja, escola ou comunidade."
+          }
+        ]
+      },
+      {
+        "id": "RGRIVFRD",
+        "name": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "RGRIVFRD1",
+            "quest": "Participar de um debate e fazer uma avaliação pessoal sobre suas atitudes em dois dos seguintes temas:",
+            "options": [
+              "Autoestima",
+              "Amizade",
+              "Relacionamentos",
+              "Otimismo e pessimismo"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "RGRVHEF",
+        "name": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "RGRVHEF1",
+            "quest": "Preparar um programa pessoal de exercícios físicos diários e conversar com seu líder ou conselheiro sobre os princípios de aptidão física. Fazer e assinar um compromisso pessoal de realizar exercícios físicos regularmente."
+          },
+          {
+            "id": "RGRVHEF2",
+            "quest": "Discutir as vantagens do estilo de vida adventista de acordo com o que a Bíblia ensina."
+          }
+        ]
+      },
+      {
+        "id": "RGRVIOLD",
+        "name": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "RGRVIOLD1",
+            "quest": "Assistir a um seminário ou treinamento, oferecido pela sua igreja ou distrito nos departamentos abaixo:",
+            "options": [
+              "Ministério Pessoal",
+              "Evangelismo"
+            ]
+          },
+          {
+            "id": "RGRVIOLD2",
+            "quest": "Participar de uma atividade social de sua igreja."
+          }
+        ]
+      },
+      {
+        "id": "RGRVIINAS",
+        "name": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "RGRVIINAS1",
+            "quest": "Estudar a história do dilúvio e estudar o processo de fossilização."
+          },
+          {
+            "id": "RGRVIINAS2",
+            "quest": "Completar uma especialidade, não realizada anteriormente, em Estudo da natureza."
+          }
+        ]
+      },
+      {
+        "id": "RGRVIIIOUL",
+        "name": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "RGRVIIIOUL1",
+            "quest": "Fazer um fogo refletor e demonstrar seu uso."
+          },
+          {
+            "id": "RGRVIIIOUL2",
+            "quest": "Participar de um acampamento de final de semana, arrumando de forma apropriada sua bolsa ou mochila com o equipamento pessoal necessário."
+          },
+          {
+            "id": "RGRVIIIOUL3",
+            "quest": "Completar a especialidade de Resgate básico."
+          }
+        ]
+      },
+      {
+        "id": "RGRIXLEN",
+        "name": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "RGRIXLEN1",
+            "quest": "Completar uma especialidade não realizada anteriormente em uma das seguintes áreas:",
+            "options": [
+              "Atividades Missionárias e Comunitárias",
+              "Atividades Profissionais",
+              "Atividades Agrícolas e Afins"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "RGA",
+    "name": "PIONEIRO DE NOVAS FRONTEIRAS",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "RGA1",
+        "quest": "Completar a especialidade de Cidadania cristã, caso não tenha sido realizada anteriormente."
+      },
+      {
+        "id": "RGA2",
+        "quest": "Dar dois estudos bíblicos a uma pessoa não batizada na Igreja Adventista."
+      },
+      {
+        "id": "RGA3",
+        "quest": "Encenar a história do bom samaritano, demonstrando como ajudar as pessoas e auxiliar de forma prática três pessoas ou mais."
+      },
+      {
+        "id": "RGA4",
+        "quest": "Participar de uma das seguintes atividades, apresentando ao final um relatório escrito contendo no mínimo duas páginas:",
+        "options": [
+          "Caminhar 10 quilômetros.",
+          "Cavalgar 2 quilômetros.",
+          "Viajar de canoa durante 2 horas.",
+          "Praticar 15 quilômetros de ciclismo.",
+          "Nadar 200 metros.",
+          "Correr 1500m.",
+          "Rodar 2 km de patins ou roller."
+        ]
+      },
+      {
+        "id": "RGA5",
+        "quest": "Completar a especialidade de Mapa e bússola."
+      },
+      {
+        "id": "RGA6",
+        "quest": "Demonstrar habilidade no uso correto de uma machadinha."
+      },
+      {
+        "id": "RGA7",
+        "quest": "Ser capaz de acender uma fogueira em dia de chuva, saber como conseguir lenha seca e manter o fogo aceso."
+      },
+      {
+        "id": "RGA8",
+        "quest": "Completar um dos seguintes itens:",
+        "options": [
+          "Pesquisar e identificar dez variedades de plantas silvestres comestíveis.",
+          "Ser capaz de enviar e receber 35 letras por minuto pelo código semafórico.",
+          "Ser capaz de enviar e receber 35 letras por minuto através do código náutico, usando o código internacional.",
+          "Ser capaz de apresentar e entender Mateus 24 em LIBRAS (língua de sinais).",
+          "Preparar o salmo 23 em braile."
+        ]
+      },
+      {
+        "id": "RGA9",
+        "quest": "Completar uma especialidade, não realizada anteriormente, em Atividades recreativas."
+      },
+      {
+        "id": "RGA10",
+        "quest": "Pesquisar e identificar, através de fotografia, exposição ou ao vivo, um dos seguintes itens:",
+        "options": [
+          "25 folhas de árvores",
+          "25 rochas e minerais",
+          "25 flores silvestres",
+          "25 borboletas e mariposas",
+          "25 conchas"
+        ]
+      },
+      {
+        "id": "RGA11",
+        "quest": "Completar a especialidade de Fogueiras e cozinha ao ar livre."
+      }
+    ]
+  },
+  {
+    "id": "VYR",
+    "name": "EXCURSIONISTA",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "VYRIGEN",
+        "name": "Gerais",
+        "requirements": [
+          {
+            "id": "VYRIGEN1",
+            "quest": "Ter, no mínimo, 14 anos de idade."
+          },
+          {
+            "id": "VYRIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "VYRIGEN3",
+            "quest": "Memorizar e explicar o significado do Objetivo JA."
+          },
+          {
+            "id": "VYRIGEN4",
+            "quest": "Ler o livro do Clube de Leitura do ano em curso e resumi-lo em uma página."
+          },
+          {
+            "id": "VYRIGEN5",
+            "quest": "Ler o livro Nos bastidores da mídia."
+          }
+        ]
+      },
+      {
+        "id": "VYRIISPD",
+        "name": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "VYRIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "12 Apóstolos: O nome dos 12 apóstolos de Cristo.",
+              "O Fruto do Espírito: A relação de adjetivos do caráter do cristão."
+            ]
+          },
+          {
+            "id": "VYRIISPD2",
+            "quest": "Memorizar e recitar os versos abaixo:",
+            "options": [
+              "Romanos 12:12",
+              "Apocalipse 21:1-3",
+              "II Pedro 1:20-21",
+              "I João 2:14",
+              "II Crônicas 20:20",
+              "Salmo 46"
+            ]
+          },
+          {
+            "id": "VYRIISPD3",
+            "quest": "Estudar e entender a pessoa do Espírito Santo, como Ele se relaciona, e qual o Seu papel no crescimento espiritual de cada ser humano."
+          },
+          {
+            "id": "VYRIISPD4",
+            "quest": "Estude, com a sua unidade, os eventos finais e a segunda vinda de Cristo."
+          },
+          {
+            "id": "VYRIISPD5",
+            "quest": "Através do estudo da Bíblia, descobrir o verdadeiro significado da observância do sábado."
+          },
+          {
+            "id": "VYRIISPD6",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "Mateus",
+                "capítulos": ["24", "25", "26", "27", "28"]
+              },
+              {
+                "livro": "Marcos",
+                "capítulos": ["7", "9", "10", "11", "12", "16"]
+              },
+              {
+                "livro": "Lucas",
+                "capítulos": ["1:4-66", "2:21-52", "7:18-28", "8", "10", "11:1-13", "12", "13", "14", "15", "16:1-17", "17", "18", "19", "21", "22", "23", "24"]
+              },
+              {
+                "livro": "João",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "8:1-38", "9", "10", "11:1-46", "12", "13", "14", "15", "17", "18", "19", "20", "21"]
+              },
+              {
+                "livro": "Atos",
+                "capítulos": ["1", "2", "3", "4", "5", "6", "7", "8"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "VYRIIICOO",
+        "name": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "VYRIIICOO1",
+            "quest": "Convidar um amigo para participar de uma atividade social de sua igreja ou da Associação/Missão."
+          },
+          {
+            "id": "VYRIIICOO2",
+            "quest": "Participar de um projeto comunitário desde o planejamento, organização até a execução."
+          },
+          {
+            "id": "VYRIIICOO3",
+            "quest": "Discutir como os jovens adventistas devem se relacionar com as pessoas nas diferentes situações do dia a dia, tais como:",
+            "options": [
+              "Vizinhança",
+              "Escola",
+              "Atividades sociais",
+              "Atividades recreativas"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "VYRIVFRD",
+        "name": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "VYRIVFRD1",
+            "quest": "Através de uma conversa em grupo ou avaliação pessoal, examinar suas atitudes em dois dos seguintes temas:",
+            "options": [
+              "Autoestima",
+              "Relacionamento familiar.",
+              "Finanças pessoais.",
+              "Pressão de grupo."
+            ]
+          },
+          {
+            "id": "VYRIVFRD2",
+            "quest": "Preparar uma lista contendo cinco sugestões de atividades recreativas para ajudar pessoas com necessidades especificas e colaborar na organização de uma atividade para essas pessoas."
+          }
+        ]
+      },
+      {
+        "id": "VYRVHEF",
+        "name": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "VYRVHEF1",
+            "quest": "Completar a especialidade de Temperança."
+          }
+        ]
+      },
+      {
+        "id": "VYRVIOLD",
+        "name": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "VYRVIOLD1",
+            "quest": "Preparar um organograma da igreja local e relacionar as funções dos departamentos."
+          },
+          {
+            "id": "VYRVIOLD2",
+            "quest": "Participar de dois programas envolvendo diferentes departamentos da igreja local."
+          },
+          {
+            "id": "VYRVIOLD3",
+            "quest": "Completar a especialidade de Aventuras com Cristo."
+          }
+        ]
+      },
+      {
+        "id": "VYRVIINAS",
+        "name": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "VYRVIINAS1",
+            "quest": "Recapitular a história de Nicodemos e relacioná-la com o ciclo de vida da lagarta ou borboleta, acrescentando um significado espiritual."
+          },
+          {
+            "id": "VYRVIINAS2",
+            "quest": "Completar uma especialidade em Estudo da natureza, não realizada anteriormente."
+          }
+        ]
+      },
+      {
+        "id": "VYRVIIIOUL",
+        "name": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "VYRVIIIOUL1",
+            "quest": "Com um grupo de, no mínimo, quatro pessoas e com a presença de um conselheiro adulto e experiente, andar pelo menos 20 quilômetros numa área rural ou deserta, incluindo uma noite ao ar livre ou em barraca. Planejar a expedição em detalhes antes da saída. Durante a caminhada, efetuar anotações sobre o terreno, flora e fauna observados. Depois, usando as anotações, participar de uma discussão em grupo, dirigida por seu conselheiro."
+          },
+          {
+            "id": "VYRVIIIOUL2",
+            "quest": "Completar a especialidade de Pioneirias."
+          }
+        ]
+      },
+      {
+        "id": "VYRIXLEN",
+        "name": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "VYRIXLEN1",
+            "quest": "Completar uma especialidade não realizada anteriormente em uma das seguintes áreas:",
+            "options": [
+              "Atividades Missionárias e Comunitárias",
+              "Atividades Agrícolas e Afins",
+              "Ciência e saúde",
+              "Habilidades domésticas"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "VYA",
+    "name": "EXCURSIONISTA NA MATA",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "VYA1",
+        "quest": "Fazer uma apresentação escrita ou falada sobre o respeito que devemos ter com a Lei de Deus e as autoridades civis, enumerando 10 princípios de comportamento moral."
+      },
+      {
+        "id": "VYA2",
+        "quest": "Acompanhar seu pastor ou ancião numa visita missionária ou estudo bíblico."
+      },
+      {
+        "id": "VYA3",
+        "quest": "Completar a especialidade de Testemunho juvenil."
+      },
+      {
+        "id": "VYA4",
+        "quest": "Apresentar cinco atividades na natureza, para serem realizadas no sábado à tarde."
+      },
+      {
+        "id": "VYA5",
+        "quest": "Com sua unidade, construir cinco móveis de acampamento e um portal para o clube."
+      },
+      {
+        "id": "VYA6",
+        "quest": "Sob a supervisão de seu líder ou conselheiro, conversar em sua unidade ou clube sobre um dos seguintes temas:",
+        "options": [
+          "Modéstia cristã",
+          "Recreação",
+          "Saúde",
+          "Observância do sábado"
+        ]
+      },
+      {
+        "id": "VYA7",
+        "quest": "Demonstrar conhecimento para encontrar alimentos, através de plantas silvestres de sua região e saber diferenciá-las de plantas tóxicas/venenosas."
+      },
+      {
+        "id": "VYA8",
+        "quest": "Demonstrar conhecimento quanto aos procedimentos necessários em caso de ferimentos por diferentes animais peçonhentos e não peçonhentos."
+      },
+      {
+        "id": "VYA9",
+        "quest": "Demonstrar técnicas para percorrer trilhas em diferentes tipos de terrenos, como: desertos, florestas, pântanos e rios."
+      },
+      {
+        "id": "VYA10",
+        "quest": "Completar a especialidade de Ordem unida, caso não tenha sido realizada anteriormente."
+      },
+      {
+        "id": "VYA11",
+        "quest": "Completar a especialidade de Vida silvestre."
+      }
+    ]
+  },
+  {
+    "id": "GUR",
+    "name": "GUIA",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "GURIGEN",
+        "name": "Gerais",
+        "requirements": [
+          {
+            "id": "GURIGEN1",
+            "quest": "Ter, no mínimo, 15 anos de idade."
+          },
+          {
+            "id": "GURIGEN2",
+            "quest": "Ser membro ativo do Clube de Desbravadores."
+          },
+          {
+            "id": "GURIGEN3",
+            "quest": "Memorizar e explicar o Voto de Fidelidade à Bíblia."
+          },
+          {
+            "id": "GURIGEN4",
+            "quest": "Ler o livro do Clube de Leitura do ano em curso e resumi-lo em uma página."
+          },
+          {
+            "id": "GURIGEN5",
+            "quest": "Ler o livro Nossa Herança."
+          }
+        ]
+      },
+      {
+        "id": "GURIISPD",
+        "name": "Descoberta Espiritual",
+        "requirements": [
+          {
+            "id": "GURIISPD1",
+            "quest": "Memorizar e demonstrar o seu conhecimento sobre:",
+            "options": [
+              "As 3 Mensagens Angélicas: Reveladas em Apocalipse 14:6-12.",
+              "7 Igrejas: O nome das igrejas do Apocalipse.",
+              "Pedras preciosas: Quais as pedras preciosas dos 12 fundamentos da cidade santa – a nova Jerusalém."
+            ]
+          },
+          {
+            "id": "GURIISPD2",
+            "quest": "Ler e explicar os versos abaixo:",
+            "options": [
+              "I Coríntios 13",
+              "II Crônicas 7:14",
+              "Apocalipse 22:18-20",
+              "II Timóteo 4:6-7",
+              "Romanos 8:38-39",
+              "Mateus 6:33-34"
+            ]
+          },
+          {
+            "id": "GURIISPD3",
+            "quest": "Descrever os dons espirituais mencionados nos escritos de Paulo (Coríntios, Efésios, Filipenses) e para que a igreja recebe estes dons."
+          },
+          {
+            "id": "GURIISPD4",
+            "quest": "Estudar a estrutura e serviço do santuário no Antigo Testamento e relacionar com o ministério pessoal de Jesus e a cruz."
+          },
+          {
+            "id": "GURIISPD5",
+            "quest": "Ler e resumir três histórias de pioneiros adventistas. Contar estas histórias na reunião do Clube, no culto JA ou na escola sabatina."
+          },
+          {
+            "id": "GURIISPD6",
+            "quest": "Leitura bíblica:",
+            "options": [
+              {
+                "livro": "Atos",
+                "capítulos": ["9", "10", "11", "12", "13", "14", "16", "17", "18", "19", "20", "21:17-40", "22:1-16", "23", "24", "25", "26", "27", "28"]
+              },
+              {
+                "livro": "Romanos",
+                "capítulos": ["12", "13", "14"]
+              },
+              {
+                "livro": "I Coríntios",
+                "capítulos": ["13"]
+              },
+              {
+                "livro": "II Coríntios",
+                "capítulos": ["5:11-21", "11:16-33", "12:1-10"]
+              },
+              {
+                "livro": "Gálatas",
+                "capítulos": ["5:16-26", "6:1-10"]
+              },
+              {
+                "livro": "Efésios",
+                "capítulos": ["5:1-21", "6"]
+              },
+              {
+                "livro": "Filipenses",
+                "capítulos": ["4"]
+              },
+              {
+                "livro": "Colossenses",
+                "capítulos": ["3"]
+              },
+              {
+                "livro": "I Tessalonicenses ",
+                "capítulos": ["4:13-18", "5"]
+              },
+              {
+                "livro": "II Tessalonicenses",
+                "capítulos": ["2", "3"]
+              },
+              {
+                "livro": "I Timóteo",
+                "capítulos": ["4:6-16", "5:1-16", "6:11-21"]
+              },
+              {
+                "livro": "II Timóteo",
+                "capítulos": ["2", "3"]
+              },
+              {
+                "livro": "Filemon",
+                "capítulos": ["1"]
+              },
+              {
+                "livro": "Hebreus",
+                "capítulos": ["11"]
+              },
+              {
+                "livro": "Tiago",
+                "capítulos": ["1", "3", "5:7-20"]
+              },
+              {
+                "livro": "I Pedro",
+                "capítulos": ["1", "5:1-11"]
+              },
+              {
+                "livro": "II Pedro",
+                "capítulos": ["3"]
+              },
+              {
+                "livro": "I João",
+                "capítulos": ["2", "3", "4", "5"]
+              },
+              {
+                "livro": "Judas",
+                "capítulos": ["1:17-25"]
+              },
+              {
+                "livro": "Apocalipse",
+                "capítulos": ["1", "2", "3", "7:9-17", "12", "13", "14", "19", "20", "21"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GURIIICOO",
+        "name": "Servindo a Outros",
+        "requirements": [
+          {
+            "id": "GURIIICOO1",
+            "quest": "Ajudar a organizar e participar de uma das seguintes atividades:",
+            "options": [
+              "Fazer uma visita de cortesia a uma pessoa doente.",
+              "Adotar uma pessoa ou família em necessidade.",
+              "Um projeto de sua escolha aprovado por seu líder."
+            ]
+          },
+          {
+            "id": "GURIIICOO2",
+            "quest": "Discutir com sua unidade os métodos de evangelismo pessoal e colocar alguns princípios em prática."
+          }
+        ]
+      },
+      {
+        "id": "GURIVFRD",
+        "name": "Desenvolvendo Amizade",
+        "requirements": [
+          {
+            "id": "GURIVFRD1",
+            "quest": "Assistir a uma palestra ou aula e examinar suas atitudes em relação a dois dos seguintes temas:",
+            "options": [
+              "A importância da escolha profissional.",
+              "Como se relacionar com os pais.",
+              "A escolha da pessoa certa para namorar.",
+              "O plano de Deus para o sexo."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GURVHEF",
+        "name": "Saúde e Aptidão Física",
+        "requirements": [
+          {
+            "id": "GURVHEF1",
+            "quest": "Fazer uma apresentação, para os alunos do ensino fundamental, sobre os oito remédios naturais dados por Deus."
+          },
+          {
+            "id": "GURVHEF2",
+            "quest": "Completar uma das seguintes atividades:",
+            "options": [
+              "Escrever uma poesia ou artigo sobre saúde para ser divulgado em uma revista, boletim ou jornal da igreja.",
+              "Individualmente ou em grupo, organizar e participar de uma corrida ou atividade similar e apresentar com antecedência um programa de treinamento físico para este evento.",
+              "Ler as páginas 102-125 do livro Temperança, de Ellen White, e apresentar em uma página ou mais, 10 textos selecionados da leitura.",
+              "Completar a especialidade de Nutrição ou liderar um grupo para a especialidade de Cultura física."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GURVIOLD",
+        "name": "Organização e Liderança",
+        "requirements": [
+          {
+            "id": "GURVIOLD1",
+            "quest": "Preparar um organograma da estrutura administrativa da Igreja Adventista em sua Divisão."
+          },
+          {
+            "id": "GURVIOLD2",
+            "quest": "Participar em um dos itens abaixo:",
+            "options": [
+              "Curso para conselheiros.",
+              "Convenção de liderança da Associação/Missão.",
+              "6 reuniões de diretoria do seu Clube."
+            ]
+          },
+          {
+            "id": "GURVIOLD3",
+            "quest": "Planejar e ensinar, no mínimo, dois requisitos de uma especialidade para um grupo ou unidade de desbravadores."
+          }
+        ]
+      },
+      {
+        "id": "GURVIINAS",
+        "name": "ESTUDO DA NATUREZA",
+        "requirements": [
+          {
+            "id": "GURVIINAS1",
+            "quest": "Ler o capítulo 7 do livro O Desejado de Todas as Nações sobre a infância de Jesus. Apresentar para um grupo, clube ou unidade as lições encontradas, demonstrando a importância que o estudo da natureza exerceu na educação e ministério de Jesus."
+          },
+          {
+            "id": "GURVIINAS2",
+            "quest": "Completar uma das seguintes especialidades:",
+            "options": [
+              "Ecologia",
+              "Conservação ambiental"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GURVIIIOUL",
+        "name": "Arte de Acampar",
+        "requirements": [
+          {
+            "id": "GURVIIIOUL1",
+            "quest": "Participar com sua unidade de um acampamento com estrutura de pioneiria, planejar o que deve ser levado e o que vai acontecer neste acampamento."
+          },
+          {
+            "id": "GURVIIIOUL2",
+            "quest": "Planejar, preparar e cozinhar três refeições ao ar livre."
+          },
+          {
+            "id": "GURVIIIOUL3",
+            "quest": "Construir e utilizar um móvel de acampamento em tamanho real, com nós e amarras."
+          },
+          {
+            "id": "GURVIIIOUL4",
+            "quest": "CCompletar uma especialidade, não realizada anteriormente, que possa ser contada para um dos Mestrados a seguir:",
+            "options": [
+              "Aquática",
+              "Esportes",
+              "Atividades recreativas",
+              "Vida campestre"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "GURIXLEN",
+        "name": "Estilo de Vida",
+        "requirements": [
+          {
+            "id": "GURIXLEN1",
+            "quest": "Completar uma especialidade não realizada anteriormente em uma das seguintes áreas:",
+            "options": [
+              "Atividades Recreativas",
+              "Ciência e saúde",
+              "Habilidades domésticas",
+              "Atividades Profissionais"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "GUA",
+    "name": "GUIA DE EXPLORAÇÃO",
+    "badge": "null",
+    "pin": "null",
+    "challenges": [
+      {
+        "id": "GUA1",
+        "quest": "Completar a especialidade de Mordomia."
+      },
+      {
+        "id": "GUA2",
+        "quest": "Ler o livro O Maior Discurso de Cristo e escrever uma página sobre o efeito da leitura em sua vida."
+      },
+      {
+        "id": "GUA3",
+        "quest": "Cumprir um dos seguintes itens:",
+        "options": [
+          "Trazer dois amigos para assistir a duas diferentes reuniões da igreja.",
+          "Ajudar a planejar e participar de, no mínimo, quatro domingos em uma série de evangelismo jovem."
+        ]
+      },
+      {
+        "id": "GUA4",
+        "quest": "Escrever uma página ou apresentar uma palestra de como influenciar amigos para Cristo."
+      },
+      {
+        "id": "GUA5",
+        "quest": "Observar durante o período de dois meses o trabalho dos diáconos, apresentando um relatório detalhado de suas atividades, contendo:",
+        "options": [
+          "Cuidado da propriedade da igreja",
+          "Cerimônia de lava-pés",
+          "Cerimônia de batismo",
+          "Recolhimento dos dízimos e ofertas"
+        ]
+      },
+      {
+        "id": "GUA6",
+        "quest": "Completar o mestrado em Vida campestre."
+      },
+      {
+        "id": "GUA7",
+        "quest": "Projetar três tipos diferentes de abrigo, explicar seu uso e utilizar um deles em um acampamento."
+      },
+      {
+        "id": "GUA8",
+        "quest": "Assistir a um seminário ou apresentar uma palestra sobre dois dos seguintes temas:",
+        "options": [
+          "Aborto",
+          "Bullying",
+          "Violência",
+          "Drogas",
+          "Doenças sexualmente transmissíveis"
+        ]
+      },
+      {
+        "id": "GUA9",
+        "quest": "Completar a especialidade de Liderança campestre."
+      },
+      {
+        "id": "GUA10",
+        "quest": "Completar a especialidade de Orçamento familiar."
+      }
+    ]
+  }
+]
