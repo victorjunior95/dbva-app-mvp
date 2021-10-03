@@ -380,9 +380,521 @@
   {
     "id": "HM",
     "name": "Artes e Habilidades Manuais",
-    "honors": []
+    "honors": [
+      {
+        "id": "HM001",
+        "name": "Automodelismo",
+        "badge": "null",
+        "level": 2,
+        "year": 1928,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM001-R1",
+            "quest": "Construir pelo menos um modelo de plástico, a partir de um kit. O carro deve seguir, tanto quanto possível, o padrão original."
+          },
+          {
+            "id": "HM001-R2",
+            "quest": "Escolha um:",
+            "options": [
+              "Construir um segundo modelo usando acessórios opcionais incluídos no kit, ou criar alterações usando massa de vidraceiro e/ou partes de outros kits. (Decalques não contam.) Pintar o modelo.",
+              "Construir um modelo de corrida de acordo com as normas do Campeonato de Automodelismo e participar de uma corrida."
+            ]
+          },
+          {
+            "id": "HM001-R3",
+            "quest": "Escrever ou apresentar oralmente a história do automóvel. Não deixar de incluir passos interessantes no processo de desenvolvimento, como, por exemplo, tamanho dos motores, transmissão automática, volantes, controles computadorizados, etc."
+          }
+        ]
+      },
+      {
+        "id": "HM002",
+        "name": "Alívio da Fome",
+        "badge": "null",
+        "level": 2,
+        "year": 1928,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM002-R1",
+            "quest": "Apresentar artigos que tenham sido feitos por você usando os pontos a seguir:",
+            "options": [
+              "Ponto contorno",
+              "Ponto margarida",
+              "Ponto corrente (correntinha ou ponto cadeia)",
+              "Ponto-cruz",
+              "Bordado richelieu",
+              "Ponto cheio",
+              "Chuleio (chuleado)",
+              "Nó francês",
+              "Ponto caseado",
+              "Ponto pena",
+              "Ponto atrás",
+              "Ponto espinha de peixe ou ponto folha",
+              "Ponto matiz",
+              "Ponto vagonite"
+            ]
+          },
+          {
+            "id": "HM002-R2",
+            "quest": "Fazer duas das seguintes atividades:",
+            "options": [
+              "Bordar um dos itens a seguir: par de fronhas, pano de prato, ou outro artigo equivalente.",
+              "Fazer uma capa de almofada",
+              "Bordar um jogo de cozinha",
+              "Fazer uma toalha ou caminho de mesa",
+              "Fazer um artigo usando qualquer um dos métodos a seguir: Patchwork, Franzido casa de abelha, Richelieu, Ponto russo."
+            ]
+          },
+          {
+            "id": "HM002-R3",
+            "quest": "Quais são os tipos de renda mais comuns em sua região e quais os cuidados de conservação de cada uma delas?"
+          },
+          {
+            "id": "HM002-R4",
+            "quest": "Descrever um método satisfatório de manter seus utensílios para bordar em boas condições."
+          },
+          {
+            "id": "HM002-R5",
+            "quest": "Explicar quais são os cuidados necessários com as peças bordadas em relação à limpeza e conservação."
+          },
+          {
+            "id": "HM002-R6",
+            "quest": "Quais são os tipos de tecido mais adequados para se fazer os seguintes trabalhos:",
+            "options": [
+              "Bordado richelieu",
+              "Franzido casa de abelha",
+              "Patchwork",
+              "Ponto russo",
+              "Ponto cruz",
+              "Ponto vagonite",
+              "Ponto matiz"
+            ]
+          },
+          {
+            "id": "HM002-R7",
+            "quest": "Demonstrar como engomar e passar corretamente um artigo bordado."
+          }
+        ]
+      },
+      {
+        "id": "HM003",
+        "name": "Desenho e Pintura",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM003-R1",
+            "quest": "Fazer e apresentar um desenho à mão de um animal, demonstrando a distribuição equilibrada das cores."
+          },
+          {
+            "id": "HM003-R2",
+            "quest": "Desenhar um objeto cilíndrico e outro retangular juntos, demonstrando perspectiva e equilíbrio de luz e sombras."
+          },
+          {
+            "id": "HM003-R3",
+            "quest": "Preparar e apresentar um desenho de alguma paisagem da natureza que haja perto de sua casa."
+          },
+          {
+            "id": "HM003-R4",
+            "quest": "Fazer, em cores, um desenho decorativo, usando qualquer técnica e motivo. Mencionar o uso que pretende dar para ele."
+          },
+          {
+            "id": "HM003-R5",
+            "quest": "Pintar um “tapete” de flores, ou de folhas, caídas no chão demonstrando riqueza de cores e detalhes."
+          },
+          {
+            "id": "HM003-R6",
+            "quest": "Pintar uma cena ao ar livre em aquarela ou óleo."
+          },
+          {
+            "id": "HM003-R7",
+            "quest": "Organizar uma exposição dos trabalhos feitos no decorrer desta especialidade no Clube, Escola ou Igreja. Convidar os pais e apoiadores do Clube e presenteá-los com algum dos desenhos produzidos."
+          }
+        ]
+      },
+      {
+        "id": "HM004",
+        "name": "Música Básico",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM004-R1",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Qual a definição básica de música?"
+          },
+          {
+            "id": "HM004-R2",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Explicar o que é harmonia, melodia e ritmo."
+          },
+          {
+            "id": "HM004-R3",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. O que é Clave? Escrever uma escala completa (de Dó a Dó, por exemplo) nas claves de Sol, Fá e Dó."
+          },
+          {
+            "id": "HM004-R4",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Definir o que é timbre, altura, duração e intensidade de um som."
+          },
+          {
+            "id": "HM004-R5",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Saber o que significa a palavra “Intervalo” na música. Explicar o seguinte:",
+            "options": [
+              "Um intervalo de meio tom",
+              "Um intervalo de um tom",
+              "Um intervalo de uma terça",
+              "Um intervalo de uma quinta",
+              "Um intervalo de uma oitava"
+            ]
+          },
+          {
+            "id": "HM004-R6",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Conhecer os tons e semitons naturais. Com auxílio de uma partitura, ser capaz de reconhecer as notas de um verso ou coro de um hino da sua Igreja."
+          },
+          {
+            "id": "HM004-R7",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Definir o que é uma orquestra e citar, pelo menos, 2 instrumentos de cada classe de instrumentos usados em uma orquestra (Cordas, madeiras, metais, percussão e teclas)."
+          },
+          {
+            "id": "HM004-R8",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Tocar ou cantar, com ou sem auxílio de partitura, um hino de sua igreja ou música sacra e apresentar satisfatoriamente para um grupo de pessoas."
+          },
+          {
+            "id": "HM004-R9",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Fazer um resumo bibliográfico de um famoso compositor de hinos e apresente em forma de palestra para um grupo de pessoas."
+          }
+        ]
+      },
+      {
+        "id": "HM005",
+        "name": "Música Intermediário",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "HM005-R1",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Ter a especialidade de Música Básico."
+          },
+          {
+            "id": "HM005-R2",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Tocar ou cantar um escala e citar todas as notas de sua composição."
+          },
+          {
+            "id": "HM005-R3",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. O que é Semibreve? Mínima? Colcheia? Desenhar cada um dos símbolos."
+          },
+          {
+            "id": "HM005-R4",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Saber a diferença entre música sacra e secular e citar um grande compositor musical de cada tipo de música."
+          },
+          {
+            "id": "HM005-R5",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Saber o que é o compasso de uma música. Ser capaz de diferenciar uma marcha de uma valsa e dar o compasso de cada uma delas."
+          },
+          {
+            "id": "HM005-R6",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Citar 5 grandes compositores de música erudita e, pelo menos, uma composição de cada um deles, incluindo um Oratório, uma peça para piano e uma canção."
+          },
+          {
+            "id": "HM005-R7",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Tocar, com ou sem ajuda de um livro de partitura, ou cantar de memória 15 hinos ou corinhos de sua igreja, pelo menos, um verso ou estrofe e listar o compositor de cada um deles."
+          },
+          {
+            "id": "HM005-R8",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Tocar ou cantar de memória uma peça musical de qualidade, diferente das que foram apresentadas no requisito 7 e apresentá-la para um grupo de pessoas."
+          },
+          {
+            "id": "HM005-R9",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Saber a função do maestro de uma orquestra e compreender o significado dos principais gestos que ele faz, ou com uma batuta, ou com as mãos."
+          },
+          {
+            "id": "HM005-R10",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Ser capaz de ensinar um grupo pequeno de pessoas a tocar ou cantar um hino ou coro da sua igreja, com ou sem auxílio de partitura, e apresentar satisfatoriamente para um grupo de pessoas."
+          }
+        ]
+      },
+      {
+        "id": "HM006",
+        "name": "Música Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 0,
+        "originatingInstitution": "null",
+        "requirements": [
+          {
+            "id": "HM006-R1",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Ter a especialidade de Música Intermediário."
+          },
+          {
+            "id": "HM006-R2",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Estudar a biografia de um compositor do Hinário Adventista à sua escolha. Dizer como se deu o início de sua vida musical, quais oportunidades teve, onde estudou música, qual instrumento dominava, principais obras e como foi sua morte/o que faz atualmente."
+          },
+          {
+            "id": "HM006-R3",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Cumprir um dos itens abaixo:",
+            "options": [
+              "Para instrumentistas: com auxílio de uma partitura, tocar um trecho de música moderadamente difícil e saber todos os símbolos e termos contidos na partitura deste trecho.",
+              "Para cantores: Demonstrar, usando uma batuta ou as mãos, como liderar um coral para interpretar, pelo menos, uma composição em 3/4 e uma em 4/4."
+            ]
+          },
+          {
+            "id": "HM006-R4",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Ser capaz de tocar ou cantar, com ou sem auxílio de partitura, qualquer hino aleatoriamente a partir do hinário ou de algum livro de corinhos de sua igreja."
+          },
+          {
+            "id": "HM006-R5",
+            "quest": "NOTA: Necessário acompanhamento de instrutor músico. Ser aprovado no teste de nível para curso superior de música, ou avaliação equivalente, realizada por instrutor igualmente capacitado."
+          }
+        ]
+      },
+      {
+        "id": "HM007",
+        "name": "Letreiros e Cartazes",
+        "badge": "null",
+        "level": 2,
+        "year": 1933,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM007-R1",
+            "quest": "Escrever de memória o alfabeto completo, maiúsculas e minúsculas, de 2 dos seguintes tipos de fontes:",
+            "options": [
+              "Gótico",
+              "Times New Roman",
+              "Itálico",
+              "Arial",
+              "Calibri",
+              "Verdana"
+            ]
+          },
+          {
+            "id": "HM007-R2",
+            "quest": "Demonstrar os diferentes tipos de tamanhos de letras e canetas a serem utilizadas ao se fazer um cartaz."
+          },
+          {
+            "id": "HM007-R3",
+            "quest": "Citar, pelo menos, 4 princípios básicos ao se fazer um cartaz atraente e diversificado."
+          },
+          {
+            "id": "HM007-R4",
+            "quest": "Fazer, pelo menos, 3 cartazes demonstrando a variedade de tamanho das fontes a serem utilizadas. Escolher um departamento da igreja para realizar esta tarefa."
+          },
+          {
+            "id": "HM007-R5",
+            "quest": "Fazer 5 cartazes com temas diferenciados da nossa atualidade, onde os mesmos serão avaliados de acordo com os seguintes critérios: capricho, criatividade e tipos de letra usados."
+          },
+          {
+            "id": "HM007-R6",
+            "quest": "Praticar com precisão todas as letras do nosso alfabeto até demonstrar um domínio da mesma."
+          }
+        ]
+      },
+      {
+        "id": "HM008",
+        "name": "Cestaria",
+        "badge": "null",
+        "level": 2,
+        "year": 1937,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM008-R1",
+            "quest": "Apresentar para o examinador (Escrito ou oralmente) um trabalho sobre 2 países onde cresce o junco."
+          },
+          {
+            "id": "HM008-R2",
+            "quest": "Explicar como tratar o junco antes do trançamento."
+          },
+          {
+            "id": "HM008-R3",
+            "quest": "Conhecer outros tipos de fibras vegetais que podem ser usadas na cestaria e que são comuns em sua região."
+          },
+          {
+            "id": "HM008-R4",
+            "quest": "Que ferramentas você usaria para:",
+            "options": [
+              "Fazer cestas de junco?",
+              "Fazer cestas de raffia?"
+            ]
+          },
+          {
+            "id": "HM008-R5",
+            "quest": "Definir:",
+            "options": [
+              "Trançamento chamuscado",
+              "Achatamento"
+            ]
+          },
+          {
+            "id": "HM008-R6",
+            "quest": "Explicar como:",
+            "options": [
+              "Consertar uma estaca quebrada da roda de trançar",
+              "Emendar o junco."
+            ]
+          },
+          {
+            "id": "HM008-R7",
+            "quest": "Citar 2 tipos de bases usadas em cestas e especificar em qual tipo de cesta cada base pode ser usada."
+          },
+          {
+            "id": "HM008-R8",
+            "quest": "Descrever como fazer:",
+            "options": [
+              "Um trançamento duplo",
+              "Uma tripla guarnição de raios"
+            ]
+          },
+          {
+            "id": "HM008-R9",
+            "quest": "Fazer uma bandeja para lanches, com base de madeira."
+          },
+          {
+            "id": "HM008-R10",
+            "quest": "Fazer algum objeto simples com base trançada."
+          },
+          {
+            "id": "HM008-R11",
+            "quest": "Fazer um descanso de panelas redondo, de 15 centímetros de diâmetro, de Raffia ou similar."
+          }
+        ]
+      },
+      {
+        "id": "HM009",
+        "name": "Trabalhos em Metal",
+        "badge": "null",
+        "level": 2,
+        "year": 1937,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM009-R1",
+            "quest": "Conhecer, pelo menos, 3 tipos de metais que são utilizados em trabalhos com metal."
+          },
+          {
+            "id": "HM009-R2",
+            "quest": "Realizar um trabalho em metal utilizando as ferramentas apropriadas para o trabalho e escolhendo um dos acabamentos finais:",
+            "options": [
+              "Envelhecimento",
+              "Repuxado ou cinzelado"
+            ]
+          },
+          {
+            "id": "HM009-R3",
+            "quest": "Completar um projeto usando um perfurador de metal."
+          },
+          {
+            "id": "HM009-R4",
+            "quest": "Completar um projeto usando perfuração, rebitagem e dobra de metal."
+          },
+          {
+            "id": "HM009-R5",
+            "quest": "Demonstrar capacidade de usar corretamente os seguintes equipamentos com segurança:",
+            "options": [
+              "Esquadro",
+              "Serra de joalheiro",
+              "Martelo de bola",
+              "Rebitadeira",
+              "Morsa ou mini torno",
+              "Suta",
+              "Riscador e punção de bico",
+              "Alicates de ponta redonda,chata e universal",
+              "Tesoura de cortar metal",
+              "Escopro",
+              "Serrinha",
+              "Cinzéis",
+              "Lima",
+              "Furadeira"
+            ]
+          },
+          {
+            "id": "HM009-R6",
+            "quest": "Quais são os EPIs (equipamentos de proteção individual) necessários para se trabalhar com metais?"
+          }
+        ]
+      },
+      {
+        "id": "HM010",
+        "name": "Arte de Oleiro",
+        "badge": "null",
+        "level": 2,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM010-R1",
+            "quest": "Escrever ou explicar oralmente os diferentes tipos e usos da arte em louça e dos materiais usados em sua confecção."
+          },
+          {
+            "id": "HM010-R2",
+            "quest": "Qual é o propósito de um vitrificado? Descreva os perigos específicos a serem evitados."
+          },
+          {
+            "id": "HM010-R3",
+            "quest": "Projetar e desenhar 2 louças de barro, uma das quais deve ser decorada."
+          },
+          {
+            "id": "HM010-R4",
+            "quest": "Fazer 3 dos objetos a seguir. Cada projeto deve ser decorado com, por exemplo, pintura, vitrificado ou entalhe.",
+            "options": [
+              "Um jarro ou vaso.",
+              "Uma caixa.",
+              "Outro objeto semelhante.",
+              "Desenhar e fabricar quatro azulejos diferentes.",
+              "Uma bandeja ou prato.",
+              "Na roda do oleiro, fazer um vaso simples."
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
