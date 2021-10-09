@@ -851,33 +851,518 @@
             ]
           }
         ]
+      },
+      {
+        "id": "HM011",
+        "name": "Entalhe em Madeira",
+        "badge": "null",
+        "level": 2,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM011-R1",
+            "quest": "Explique as características das madeiras de coníferas e folhosas. Faça uma lista com, ao menos, 5 tipos de madeira ideais para trabalhos de entalhe."
+          },
+          {
+            "id": "HM011-R2",
+            "quest": "Descrever os diferentes instrumentos usados no entalhe de madeira e explicar como afiá-los."
+          },
+          {
+            "id": "HM011-R3",
+            "quest": "Explicar os melhores métodos de lidar com a fibra da madeira."
+          },
+          {
+            "id": "HM011-R4",
+            "quest": "Desenhar e entalhar uma placa em baixo-relevo dois dos itens a seguir:",
+            "options": [
+              "Uma bandeja",
+              "Suporte de livros",
+              "Um apito",
+              "Abridor de cartas",
+              "Outro item equivalente de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM012",
+        "name": "Ornamentação com Flores",
+        "badge": "null",
+        "level": 2,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM012-R1",
+            "quest": "Cite seis plantas perenes e seis anuais adequadas para arranjos de flores em ambientes internos."
+          },
+          {
+            "id": "HM012-R2",
+            "quest": "Cite pelo menos três flores que florescem na primavera ou no início do verão, adequadas para arranjos de flores em ambientes internos."
+          },
+          {
+            "id": "HM012-R3",
+            "quest": "Cite pelo menos três flores que não se conservam bem ao serem cortadas e três que sim."
+          },
+          {
+            "id": "HM012-R4",
+            "quest": "Dê seis sugestões sobre o corte de flores e seus cuidados posteriores, como quando cortar, como cortar e como guardar."
+          },
+          {
+            "id": "HM012-R5",
+            "quest": "Em que estágio de desenvolvimento devemos cortar rosas, gladíolos e dálias?"
+          },
+          {
+            "id": "HM012-R6",
+            "quest": "Dê três sugestões sobre a relação dos recipientes com as flores usadas e três sobre a relação do arranjo com o ambiente e os móveis."
+          },
+          {
+            "id": "HM012-R7",
+            "quest": "No arranjo de flores, qual deve ser a relação entre tons escuros e claros, flores grandes e pequenas, flores abertas e parcialmente abertas?"
+          },
+          {
+            "id": "HM012-R8",
+            "quest": "Faça dois arranjos de flores artísticas em cada uma das seguintes áreas:",
+            "options": [
+              "Decoração de mesa",
+              "Uso geral da casa",
+              "Serviço público"
+            ]
+          },
+          {
+            "id": "HM012-R9",
+            "quest": "Quais são algumas flores silvestres que poderiam ser usadas em arranjos para a casa? Que combinações dessas flores podem ser usadas?"
+          }
+        ]
+      },
+      {
+        "id": "HM013",
+        "name": "Pintura em Vidro",
+        "badge": "null",
+        "level": 1,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM013-R1",
+            "quest": "Listar e descrever, no mínimo, 3 técnicas distintas de pintura em vidro, diferentes das citadas nessa especialidade."
+          },
+          {
+            "id": "HM013-R2",
+            "quest": "Listar, ao menos, 3 tipos de tintas especializadas para pintura em vidro."
+          },
+          {
+            "id": "HM013-R3",
+            "quest": "Conhecer as cores primárias e as secundárias; saber como misturar as cores primárias para obter as cores secundárias. Que misturas de tintas devem ser evitadas e por quê?"
+          },
+          {
+            "id": "HM013-R4",
+            "quest": "Conhecer o material usado para pintar, montar e pendurar os vidros pintados."
+          },
+          {
+            "id": "HM013-R5",
+            "quest": "Qual a importância de fazer uma boa limpeza e secagem do vidro antes de iniciar alguma técnica de pintura?"
+          },
+          {
+            "id": "HM013-R6",
+            "quest": "Explicar como é feita a técnica de transparência utilizada na pintura em vidro."
+          },
+          {
+            "id": "HM013-R7",
+            "quest": "Fazer uma silhueta em vidro e prepará-la para ser pendurada."
+          },
+          {
+            "id": "HM013-R8",
+            "quest": "Fazer uma pintura com as mãos, num espelho."
+          },
+          {
+            "id": "HM013-R9",
+            "quest": "Fazer e expor uma pintura em vidro para cada um dos motivos de desenho a seguir:",
+            "options": [
+              "Animal",
+              "Flor",
+              "Paisagem"
+            ]
+          },
+          {
+            "id": "HM013-R10",
+            "quest": "Completar pinturas em vidro utilizando 2 dos seguintes:",
+            "options": [
+              "Serigrafia",
+              "Rolo e Pincel",
+              "Mosaico (com papel contato)"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM014",
+        "name": "Tecelagem",
+        "badge": "null",
+        "level": 2,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM014-R1",
+            "quest": "Definir o que é tecelagem. Qual a origem dessa antiga forma de artesanato?"
+          },
+          {
+            "id": "HM014-R2",
+            "quest": "Descrever e exemplificar os processos de preparação básicos para a tecelagem."
+          },
+          {
+            "id": "HM014-R3",
+            "quest": "Citar, pelo menos, 3 matérias-primas que são muito usadas para a tecelagem."
+          },
+          {
+            "id": "HM014-R4",
+            "quest": "Definir os seguintes termos:",
+            "options": [
+              "Teia ou Urdume",
+              "Trama",
+              "Lançadeira de tear",
+              "Cilindro do tear",
+              "Tear de pente liço (Fios que guiam o Urdume)",
+              "Cilindro para Tecido"
+            ]
+          },
+          {
+            "id": "HM014-R5",
+            "quest": "Por quais outros nomes o Urdume pode ser chamado?"
+          },
+          {
+            "id": "HM014-R6",
+            "quest": "O que é urdidura direta? Que processos e equipamentos são necessários para a sua realização?"
+          },
+          {
+            "id": "HM014-R7",
+            "quest": "Desenhar, pelo menos, 3 estruturas diferentes de tecidos, demonstrando como acontece o entrelaçamento do urdume com a trama."
+          },
+          {
+            "id": "HM014-R8",
+            "quest": "Fazer um tear à mão em um papelão e em seguida desenvolver uma bolsa simples."
+          },
+          {
+            "id": "HM014-R9",
+            "quest": "Desenhar e tecer uma toalha de mesa, utilizando, pelo menos, 3 cores diferentes."
+          },
+          {
+            "id": "HM014-R10",
+            "quest": "Cumprir um dos seguintes:",
+            "options": [
+              "Identificar cada uma das partes de um tear e explicar a função de cada uma delas.",
+              "Fazer um simples tear de madeira, no qual possa tecer uma camisa básica."
+            ]
+          },
+          {
+            "id": "HM014-R11",
+            "quest": "Fazer um pegador de panela com alça."
+          }
+        ]
+      },
+      {
+        "id": "HM015",
+        "name": "Trabalhos em Madeira",
+        "badge": "null",
+        "level": 2,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM015-R1",
+            "quest": "Identificar, pelo menos, 5 tipos comuns de madeira, tais como: pinho, peroba, mogno, maçaranduba e jacarandá."
+          },
+          {
+            "id": "HM015-R2",
+            "quest": "Conhecer as características das madeiras identificadas e conhecer, ao menos, uma utilidade para cada exemplo dado."
+          },
+          {
+            "id": "HM015-R3",
+            "quest": "Quais as diferenças entre coníferas e folhosas? Essa classificação indica que espécies são melhores para trabalhos em madeira? Justifique sua resposta."
+          },
+          {
+            "id": "HM015-R4",
+            "quest": "Saber como usar adequadamente as seguintes ferramentas em trabalhos com madeira:",
+            "options": [
+              "Serra tico-tico",
+              "Lima ou grosa",
+              "Plaina",
+              "Faca",
+              "Talhadeira/formão",
+              "Lixas"
+            ]
+          },
+          {
+            "id": "HM015-R5",
+            "quest": "Conhecer, pelo menos, 2 procedimentos de segurança para cada uma das ferramentas acima."
+          },
+          {
+            "id": "HM015-R6",
+            "quest": "Cortar, montar e dar acabamento em um suporte de livros ou peso para portas."
+          },
+          {
+            "id": "HM015-R7",
+            "quest": "Entalhar e terminar uma estaca de jardim ou uma placa para o gramado, dando alguma forma, tal como de uma criança, pássaro, flor ou árvore."
+          },
+          {
+            "id": "HM015-R8",
+            "quest": "Fazer uma placa, uma bandeja, ou algum outro objeto útil em que a madeira é usada."
+          }
+        ]
+      },
+      {
+        "id": "HM016",
+        "name": "Aeromodelismo",
+        "badge": "null",
+        "level": 2,
+        "year": 1944,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM016-R1",
+            "quest": "Montar, a partir de um kit, e fazer voar com sucesso um aeroplano de madeira leve, papel de seda e borracha ou outro material movido à gasolina."
+          },
+          {
+            "id": "HM016-R2",
+            "quest": "Montar um planador a partir de um kit, observar suas características de vôo e sua relação com as posições variáveis das asas."
+          },
+          {
+            "id": "HM016-R3",
+            "quest": "Montar e fazer voar, com sucesso, dois diferentes estilos de aeroplanos usando folhas de papel entre 20 e 35 centímetros de comprimento e largura."
+          },
+          {
+            "id": "HM016-R4",
+            "quest": "Definir, localizar e explicar o uso dos seguintes itens básicos:",
+            "options": [
+              "Fuselagem",
+              "Asa",
+              "Leme",
+              "Estabilizador horizontal",
+              "Tirante",
+              "Cockpit",
+              "Motor",
+              "Trem de pouso",
+              "Hélice"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM017",
+        "name": "Cultura Indígena",
+        "badge": "null",
+        "level": 2,
+        "year": 1944,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM017-R1",
+            "quest": "Porque os nativos das Américas foram chamados de índios pelos europeus?"
+          },
+          {
+            "id": "HM017-R2",
+            "quest": "Listar 5 utensílios domésticos produzidos pelos índios de sua região, utilizando materiais naturais. Fazer um destes itens e demonstrar o uso para a seu instrutor."
+          },
+          {
+            "id": "HM017-R3",
+            "quest": "Listar 15 alimentos ou prato típico introduzidos na cultura gastronômica de seus países pelos índios."
+          },
+          {
+            "id": "HM017-R4",
+            "quest": "Citar 5 hábitos culturais da atualidade em seu país herdados dos índios."
+          },
+          {
+            "id": "HM017-R5",
+            "quest": "Listar 10 palavras de origem indígena incorporadas a língua oficial de seu país."
+          },
+          {
+            "id": "HM017-R6",
+            "quest": "Relacionar 5 lugares(estados, cidades, etc.) em seu país que possui nome indígena e dê o significado de cada um deles."
+          },
+          {
+            "id": "HM017-R7",
+            "quest": "Conhecer 5 rochas e/ou minerais e saber como eram usados pelos índios."
+          },
+          {
+            "id": "HM017-R8",
+            "quest": "Explicar como, e com quais materiais, os índios produziam seus arcos e flechas."
+          },
+          {
+            "id": "HM017-R9",
+            "quest": "Listar 5 pratos da culinária indígena feitos com mandioca. Apresentar as receitas e demonstrar habilidade no preparo de, ao menos, 2 desses pratos."
+          },
+          {
+            "id": "HM017-R10",
+            "quest": "O que são pinturas rupestres indígenas? E qual o lugar mais próximo onde podem ser encontradas?"
+          },
+          {
+            "id": "HM017-R11",
+            "quest": "Listar, ao menos, 10 materiais utilizados como matéria-prima pelos índios nativos de seu país na confecção de peças de artesanato e indicar o tipo de peça produzido com cada material citado."
+          },
+          {
+            "id": "HM017-R12",
+            "quest": "Fazer e apresentar a seu instrutor, ao menos, 3 itens de artesanato dentre os listados no requisito anterior."
+          }
+        ]
+      },
+      {
+        "id": "HM018",
+        "name": "Escultura",
+        "badge": "null",
+        "level": 2,
+        "year": 1945,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM018-R1",
+            "quest": "Relacionar as ferramentas e material usados em esculturas simples."
+          },
+          {
+            "id": "HM018-R2",
+            "quest": "Modelar dois ou mais exemplos de animais de brinquedos, empregando uma das técnicas de escultura em materiais como: argila, massa plástica, etc."
+          },
+          {
+            "id": "HM018-R3",
+            "quest": "Fazer um modelo da mão ou pé humano usando uma das técnicas de escultura."
+          },
+          {
+            "id": "HM018-R4",
+            "quest": "A partir de um modelo vivo, fazer uma escultura em relevo da cabeça, empregando uma das técnicas de escultura (Não precisa ser em tamanho natural)."
+          }
+        ]
+      },
+      {
+        "id": "HM019",
+        "name": "Xilogravura",
+        "badge": "null",
+        "level": 2,
+        "year": 1945,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM019-R1",
+            "quest": "Definir o que é xilogravura e onde surgiu essa arte contemporânea."
+          },
+          {
+            "id": "HM019-R2",
+            "quest": "Explicar os princípios básicos da preparação de um desenho e leitura aplicada em uma xilogravura."
+          },
+          {
+            "id": "HM019-R3",
+            "quest": "Fazer uma lista de ferramentas e equipamentos necessários para uma xilogravura."
+          },
+          {
+            "id": "HM019-R4",
+            "quest": "Explique a diferencia entre desenho e matriz. Que tipos de papeis são mais recomendados para a realização de uma xilogravura?"
+          },
+          {
+            "id": "HM019-R5",
+            "quest": "Identificar as ferramentas e materiais que podem ser usados para confeccionar uma matriz. Que preparos e cuidados devem ser tomados com o manuseio da mesma?"
+          },
+          {
+            "id": "HM019-R6",
+            "quest": "Como as modalidades de uma xilogravura são classificadas?"
+          },
+          {
+            "id": "HM019-R7",
+            "quest": "Que tintas são mais adequadas para uma boa impressão em xilogravura?"
+          },
+          {
+            "id": "HM019-R8",
+            "quest": "Pesquisar um tipo de arte ou literatura em que tenha sido utilizada e/ou propagada a xilogravura. Mencionar o local, período e importância histórica."
+          },
+          {
+            "id": "HM019-R9",
+            "quest": "Usando as técnicas da Xilogravura (desenhar, esculpir e imprimir), fazer, pelo menos:",
+            "options": [
+              "Um cartão de saudação",
+              "Uma capa de um livro",
+              "Um objeto de livre escolha diferente dos anteriores"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM020",
+        "name": "Cerâmica",
+        "badge": "null",
+        "level": 2,
+        "year": 1956,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM020-R1",
+            "quest": "Definir o que é cerâmica e qual a sua origem."
+          },
+          {
+            "id": "HM020-R2",
+            "quest": "Como a cerâmica pode ser classificada?"
+          },
+          {
+            "id": "HM020-R3",
+            "quest": "Descrever os seguintes termos:",
+            "options": [
+              "Cerâmica verde",
+              "Esmalte",
+              "Decalcar",
+              "Forno",
+              "Vitrificação",
+              "Torneamento",
+              "Colagem ou Fundição"
+            ]
+          },
+          {
+            "id": "HM020-R4",
+            "quest": "Qual a diferença entre a cerâmica tradicional e a cerâmica avançada? Citar exemplos de cada uma delas."
+          },
+          {
+            "id": "HM020-R5",
+            "quest": "Citar, pelo menos, 2 métodos mais comuns que são utilizados na formação da cerâmica."
+          },
+          {
+            "id": "HM020-R6",
+            "quest": "Descrever o processo de tratamento do barro ou argila. Explicar como evitar que apareçam bolhas durante o cozimento de uma peça."
+          },
+          {
+            "id": "HM020-R7",
+            "quest": "Explicar como são utilizados os cones nos fornos industriais."
+          },
+          {
+            "id": "HM020-R8",
+            "quest": "Saber como e quando utilizar o processo de vitrificação."
+          },
+          {
+            "id": "HM020-R9",
+            "quest": "Citar algumas ferramentas que podem ser usadas para os trabalhos em cerâmica."
+          },
+          {
+            "id": "HM020-R10",
+            "quest": "Através do processo de fabricação da cerâmica, tirar alguma lição espiritual considerando o barro com o ser humano e Deus como o oleiro."
+          },
+          {
+            "id": "HM020-R11",
+            "quest": "NOTA: O cozimento da cerâmica não necessariamente deverá ser feito pelo Desbravador. Fazer um objeto de sua escolha usando o processo de vitrificação."
+          },
+          {
+            "id": "HM020-R12",
+            "quest": "NOTA: O cozimento da cerâmica não necessariamente deverá ser feito pelo Desbravador. Fazer 2 dos seguintes itens onde, pelo menos, um seja feito através do processo de vitrificação:",
+            "options": [
+              "Pote de biscoitos",
+              "Vaso de flores",
+              "Jarro",
+              "Copo ou caneca",
+              "Uma bandeja de frutas",
+              "Travessa de porcelana",
+              "Objeto de sua escolha"
+            ]
+          }
+        ]
       }
     ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
