@@ -1359,10 +1359,694 @@
             ]
           }
         ]
+      },
+      {
+        "id": "HM021",
+        "name": "Pintura em Tecido",
+        "badge": "null",
+        "level": 2,
+        "year": 1956,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM021-R1",
+            "quest": "Listar os materiais utilizados para pintura em tecido."
+          },
+          {
+            "id": "HM021-R2",
+            "quest": "Saber como preparar o material para a pintura."
+          },
+          {
+            "id": "HM021-R3",
+            "quest": "Quais as vantagens e desvantagens dos diferentes tipos de cerdas de pinceis?"
+          },
+          {
+            "id": "HM021-R4",
+            "quest": "Citar os diferentes usos dos diferentes tamanhos de pinceis."
+          },
+          {
+            "id": "HM021-R5",
+            "quest": "Saber como misturar a tinta e limpar e armazenar os pincéis após terem sido usados."
+          },
+          {
+            "id": "HM021-R6",
+            "quest": "Quanto tempo deve-se esperar para que a tintura seque?"
+          },
+          {
+            "id": "HM021-R7",
+            "quest": "Como deve ser feita a conservação e o armazena mento de uma peça pintada?"
+          },
+          {
+            "id": "HM021-R8",
+            "quest": "Saber como traçar e transferir uma figura para o tecido."
+          },
+          {
+            "id": "HM021-R9",
+            "quest": "Demonstrar a centralização da estampa no tecido."
+          },
+          {
+            "id": "HM021-R10",
+            "quest": "O que é um molde vazado ou estêncil?"
+          },
+          {
+            "id": "HM021-R11",
+            "quest": "Quais as diferenças entre as técnicas para pintura à mão livre e com molde vazado?"
+          },
+          {
+            "id": "HM021-R12",
+            "quest": "O que é necessário para fazer um molde vazado em casa?"
+          },
+          {
+            "id": "HM021-R13",
+            "quest": "Fazer um molde vazado a partir de uma figura de sua escolha."
+          },
+          {
+            "id": "HM021-R14",
+            "quest": "Pintar uma estampa de cada fruta (para aprender a realçar luz e sombras); flores (para desenvolver um bom sombreado); e rosto humano (para aprender o uso do pincel fino)."
+          },
+          {
+            "id": "HM021-R15",
+            "quest": "Usando um estêncil, pintar algum objeto com, pelo menos, 2 cores."
+          }
+        ]
+      },
+      {
+        "id": "HM022",
+        "name": "Trabalhos em Feltro",
+        "badge": "null",
+        "level": 1,
+        "year": 1956,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM022-R1",
+            "quest": "A partir de que fibra é feito o feltro? O que lhe dá sua força elástica?"
+          },
+          {
+            "id": "HM022-R2",
+            "quest": "Mencionar 7 utilidades do feltro."
+          },
+          {
+            "id": "HM022-R3",
+            "quest": "Apresentar 3 razões porque o feltro é um bom material para artesanato."
+          },
+          {
+            "id": "HM022-R4",
+            "quest": "Mencionar os passos essenciais na fabricação do feltro."
+          },
+          {
+            "id": "HM022-R5",
+            "quest": "Fazer 2 itens a seguir, usando, pelo menos, 3 cores diferentes de feltro:",
+            "options": [
+              "Figura para a Escola Sabatina",
+              "Marca páginas",
+              "Almofadas de alfinetes",
+              "Bandeirola",
+              "Imã de geladeira"
+            ]
+          },
+          {
+            "id": "HM022-R6",
+            "quest": "Fazer 2 dos itens a seguir:",
+            "options": [
+              "Pequeno mural de parede",
+              "Decoração temática para uma data especial",
+              "Fantoche",
+              "Pegadores de cozinha e descansos de panelas"
+            ]
+          },
+          {
+            "id": "HM022-R7",
+            "quest": "Costurar, em feltro, as seguintes peças:",
+            "options": [
+              "Animal com enchimento",
+              "Boneco ou outro brinquedo com enchimento",
+              "Sacola"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM023",
+        "name": "Trabalhos em Acrílico",
+        "badge": "null",
+        "level": 2,
+        "year": 1961,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM023-R1",
+            "quest": "Fazer uma lista do material e equipamentos necessários para fazer pequenas peças de acrílico fundidas em moldes plásticos."
+          },
+          {
+            "id": "HM023-R2",
+            "quest": "Saber como limpar e cuidar adequadamente dos moldes de plástico."
+          },
+          {
+            "id": "HM023-R3",
+            "quest": "Que precauções de segurança devem ser tomadas ao trabalhar com acrílico?"
+          },
+          {
+            "id": "HM023-R4",
+            "quest": "Explicar como misturar resina para:",
+            "options": [
+              "Fundir",
+              "Fazer camada colorida"
+            ]
+          },
+          {
+            "id": "HM023-R5",
+            "quest": "Qual a finalidade dos seguintes materiais?",
+            "options": [
+              "Catalisador",
+              "Temperador de superfície",
+              "Pigmentos"
+            ]
+          },
+          {
+            "id": "HM023-R6",
+            "quest": "O que significa polimerização?"
+          },
+          {
+            "id": "HM023-R7",
+            "quest": "Fazer 3 peças fundidas com, pelo menos, um item incrustado em cada uma delas."
+          },
+          {
+            "id": "HM023-R8",
+            "quest": "Preparar e incrustar 2 itens da natureza que sejam apropriados para esta técnica. Os itens da natureza podem ser incrustados numa peça fundida ou mais."
+          }
+        ]
+      },
+      {
+        "id": "HM024",
+        "name": "Modelagem e Fabricação de Sabão",
+        "badge": "null",
+        "level": 1,
+        "year": 1964,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM024-R1",
+            "quest": "Quais são os componentes básicos usados para se fazer sabão?"
+          },
+          {
+            "id": "HM024-R2",
+            "quest": "Qual é a diferença entre o sabão e o detergente?"
+          },
+          {
+            "id": "HM024-R3",
+            "quest": "O que causa a ação limpadora do sabão?"
+          },
+          {
+            "id": "HM024-R4",
+            "quest": "Mencionar 7 tipos de sabão. Explicar as vantagens e desvantagens de cada um deles."
+          },
+          {
+            "id": "HM024-R5",
+            "quest": "O que é a espuma? Por que não necessariamente a quantidade de espuma determina a ação limpadora do sabão ou detergente?"
+          },
+          {
+            "id": "HM024-R6",
+            "quest": "Esculpir um objeto numa barra de sabão ou sabonete."
+          },
+          {
+            "id": "HM024-R7",
+            "quest": "Decorar um sabonete para dar de presente."
+          }
+        ]
+      },
+      {
+        "id": "HM025",
+        "name": "Modelagem e Fabricação de Sabão - avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 1964,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM025-R1",
+            "quest": "Ter a especialidade de Modelagem e fabricação de sabão."
+          },
+          {
+            "id": "HM025-R2",
+            "quest": "Que tipos de gorduras podem ser usadas para fazer sabão?"
+          },
+          {
+            "id": "HM025-R3",
+            "quest": "O que deve ser modificado na fórmula do sabão para que ele fique?",
+            "options": [
+              "Transparente",
+              "Tão leve que boie na água",
+              "Mais duro"
+            ]
+          },
+          {
+            "id": "HM025-R4",
+            "quest": "Aprender e explicar os seguintes versos bíblicos: Jeremias 2:22; Malaquias 3:2."
+          },
+          {
+            "id": "HM025-R5",
+            "quest": "Listar 4 técnicas diferentes de fazer sabão. Fazer uma medida de sabão usando 2 destas técnicas."
+          },
+          {
+            "id": "HM025-R6",
+            "quest": "Fazer uma lista dos utensílios necessários para o cumprimento do requisito anterior."
+          },
+          {
+            "id": "HM025-R7",
+            "quest": "Quais são os cuidados necessários durante a fabricação do sabão?"
+          },
+          {
+            "id": "HM025-R8",
+            "quest": "Cumprir um dos requisitos a seguir:",
+            "options": [
+              "Visitar uma fábrica de sabão.",
+              "Obter informações de uma fábrica de sabão, sobre como o mesmo é feito.",
+              "Fazer um relatório de, no mínimo, 2 páginas explicando o processo de fabricação do sabão e como ele age no processo de limpeza."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM026",
+        "name": "Arte de Fazer Esteiras",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "HM026-R1",
+            "quest": "Mencionar, pelo menos, 2 materiais que são usados em seu país para fazer esteiras."
+          },
+          {
+            "id": "HM026-R2",
+            "quest": "Explicar e demonstrar como preparar estes materiais para a confecção de esteiras."
+          },
+          {
+            "id": "HM026-R3",
+            "quest": "Dar o nome de, pelo menos, 2 plantas de seu país que podem ser usadas para fazer tintas. Dizer onde são encontradas e como é feito o preparo da tinta a partir delas."
+          },
+          {
+            "id": "HM026-R4",
+            "quest": "Demonstrar como usar tintas naturais e sintéticas para colorir esteiras."
+          },
+          {
+            "id": "HM026-R5",
+            "quest": "Fazer, pelo menos, 2 esteiras com, ao menos, 2 tipos de trançados diferentes. Uma delas deve ter um trançado bem fino."
+          }
+        ]
+      },
+      {
+        "id": "HM027",
+        "name": "Construção Nativa",
+        "badge": "null",
+        "level": 3,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "HM027-R1",
+            "quest": "Ajudar no planejamento de uma casa simples, bem esquadrada e com precisão."
+          },
+          {
+            "id": "HM027-R2",
+            "quest": "Ajudar na escolha e corte de madeiras adequadas no mato para uso no piso, vigas, placas da parede, pregos, degraus e portas."
+          },
+          {
+            "id": "HM027-R3",
+            "quest": "Fazer o seguinte:",
+            "options": [
+              "Trançar materiais para paredes.",
+              "Fazer seções para a parede, com medidas de 1 m x 1 m. Mostrar 2 padrões diferentes de tranças."
+            ]
+          },
+          {
+            "id": "HM027-R4",
+            "quest": "Mostrar capacidade para cobrir um telhado corretamente, usando sapé, folhas de palmeira, de coqueiro ou outro material."
+          },
+          {
+            "id": "HM027-R5",
+            "quest": "Quando necessário, selecionar, preparar e usar cipós para amarração das vigas e estruturas."
+          },
+          {
+            "id": "HM027-R6",
+            "quest": "Participar da construção de uma casa, com não menos que 4m x 2m com materiais nativos. Na construção da casa, praticar todos os requisitos anteriores (1 a 5). Enquanto construir a casa, mostrar o cuidado necessário para manter o material livre de cupins."
+          },
+          {
+            "id": "HM027-R7",
+            "quest": "Demonstrar capacidade para identificar, usar e os cuidados quanto à segurança no manuseio das seguintes ferramentas: machado, serra, martelo, talhadeira, faca, régua, fita métrica e pá."
+          }
+        ]
+      },
+      {
+        "id": "HM028",
+        "name": "Ferreomodelismo",
+        "badge": "null",
+        "level": 2,
+        "year": 1967,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM028-R1",
+            "quest": "Apresentar a história e desenvolvimento do ferreomodelismo."
+          },
+          {
+            "id": "HM028-R2",
+            "quest": "Identificar a diferença no funcionamento da força motriz dos seguintes protótipos:",
+            "options": [
+              "Vapor",
+              "Diesel",
+              "Elétrico"
+            ]
+          },
+          {
+            "id": "HM028-R3",
+            "quest": "Saber o nome, escala e dimensão de quatro bitolas usadas no ferreomodelismo."
+          },
+          {
+            "id": "HM028-R4",
+            "quest": "Conhecer os formatos e nomes de, pelo menos, 8 tipos de traçados de linhas em protótipos de estrada de ferro."
+          },
+          {
+            "id": "HM028-R5",
+            "quest": "Conhecer, pelo menos, 6 pontos de verificação para a manutenção de um traçado de estrada de ferro."
+          },
+          {
+            "id": "HM028-R6",
+            "quest": "Identificar e explicar o uso de:",
+            "options": [
+              "5 tipos de vagões de carga",
+              "3 tipos de vagões de passageiros",
+              "3 tipos de locomotivas a vapor, de acordo com o tipo de rodas",
+              "2 tipos de mecanismos de alerta para cruzamentos em nível",
+              "2 tipos de sinais próprios para a estrada de ferro",
+              "2 tipos de construções ou estruturas ligadas à estrada de ferro"
+            ]
+          },
+          {
+            "id": "HM028-R7",
+            "quest": "Conhecer o significado dos seguintes termos do ferreomodelismo:",
+            "options": [
+              "Balastro",
+              "Dormente",
+              "Secção",
+              "Intersecção",
+              "Chave intermediária",
+              "Duplex ou múltipla unidade",
+              "Equipamento de tração",
+              "Patilha",
+              "Cruzamento",
+              "Intervalo",
+              "Bitola",
+              "Nível",
+              "Campo de gravidade",
+              "Rolamento superaquecido ou freio dinâmico",
+              "Diário de bordo",
+              "Traçado",
+              "Linha-tronco ou principal",
+              "Protótipo",
+              "Junção de trilhos",
+              "Curva em s",
+              "Desvio",
+              "Ramal",
+              "Chave",
+              "Máquina",
+              "Vagão aberto",
+              "Vagão fechado",
+              "Desvio de linhas ou aparelho de mudança de via (amv)",
+              "Trilhos duplos ou bitola mista",
+              "Chave y",
+              "Pátio de manobras"
+            ]
+          },
+          {
+            "id": "HM028-R8",
+            "quest": "Construir parte de um traçado de linha de trem, incluindo as seguintes atividades:",
+            "options": [
+              "Ajudar a montar a estrutura",
+              "Instalar uma parte do balastro",
+              "Instalar uma parte dos trilhos",
+              "Instalar, pelo menos, um desvio de linhas, inclusive a instalação elétrica",
+              "Ajudar na confecção de um cenário incluindo árvores, pedras, montanhas ou grama",
+              "Fazer uma construção ou estrutura típica de um protótipo de linha de ferro",
+              "Ajudar na instalação de energia elétrica para os trilhos"
+            ]
+          },
+          {
+            "id": "HM028-R9",
+            "quest": "Fazer funcionar um trem no traçado de trilhos que você ajudou a construir."
+          }
+        ]
+      },
+      {
+        "id": "HM029",
+        "name": "Herança Cultural",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "HM029-R1",
+            "quest": "Qual a importância de se conhecer sua herança cultural?"
+          },
+          {
+            "id": "HM029-R2",
+            "quest": "Tendo os princípios bíblicos como base, listar 3 tradições negativas e 5 tradições positivas, encontradas em sua cultura."
+          },
+          {
+            "id": "HM029-R3",
+            "quest": "Listar, ao menos, 5 datas que são feriados culturais oficiais em seu país/estado e informar: data do feriado, data de oficialização, costume para o dia, costume de sua família nesse dia, etc."
+          },
+          {
+            "id": "HM029-R4",
+            "quest": "Fazer o seguinte:",
+            "options": [
+              "Detalhar as maneiras habituais de vestir-se para a vida cotidiana e para 2 ocasiões que, em sua cultura, se use vestimentas especiais (em termos de tradição, modelo, composição ou cor).",
+              "Apresentar e explicar por meio de foto ou desenho essas vestimentas especiais."
+            ]
+          },
+          {
+            "id": "HM029-R5",
+            "quest": "Como funciona a estrutura familiar em sua cultura?"
+          },
+          {
+            "id": "HM029-R6",
+            "quest": "Explicar a estrutura política vigente em seu país e identificar a origem desse sistema."
+          },
+          {
+            "id": "HM029-R7",
+            "quest": "Pesquisar e descrever os costumes, comemorações e/ou cerimônias realizados em sua cultura para as seguintes ocasiões:",
+            "options": [
+              "O nascimento de uma criança",
+              "Tornar-se adulto (comemorações de idades especificas, ritos de passagem, etc.)",
+              "Morte e sepultamento"
+            ]
+          },
+          {
+            "id": "HM029-R8",
+            "quest": "Em sua cultura, como é o sistema de noivado e casamento? Analisar como é feito o pedido aos pais, o noivado, a cerimônia religiosa, a celebração, a legalidade, símbolos culturais utilizados, etc."
+          },
+          {
+            "id": "HM0Escrever 300 palavras sobre um compositor, pintor ou escultor de seu país, que seja internacionalmente reconhecido por sua arte e apresentar em vídeo, áudio ou fotografia uma de suas obras mais conhecidas.29-R9",
+            "quest": ""
+          },
+          {
+            "id": "HM029-R10",
+            "quest": "Listar os povos (nativos e colonizadores) que deram origem à sua sociedade atual. Indicar, ao menos, 2 expressões culturais herdadas de cada um desses povos."
+          },
+          {
+            "id": "HM029-R11",
+            "quest": "Conhecer 10 diferentes formas de arte ou artesanato nativo comuns em seu país. Demonstrar habilidade em produzir 3 destes itens."
+          },
+          {
+            "id": "HM029-R12",
+            "quest": "O que faz um povo perder sua cultura? Analisar se isto é benéfico ou prejudicial."
+          }
+        ]
+      },
+      {
+        "id": "HM030",
+        "name": "Lapidação",
+        "badge": "null",
+        "level": 3,
+        "year": 1967,
+        "originatingInstitution": "Divisão do Norte do Americana",
+        "requirements": [
+          {
+            "id": "HM030-R1",
+            "quest": "Mencionar, pelo menos, 4 precauções de segurança a tomar ao serrar pedras."
+          },
+          {
+            "id": "HM030-R2",
+            "quest": "Mencionar 2 tipos de lubrificação e refrigeração para serra de diamante e qual a finalidade."
+          },
+          {
+            "id": "HM030-R3",
+            "quest": "Explique:",
+            "options": [
+              "Como uma serra de diamante corta pedras",
+              "Como ela perde o diamante",
+              "Como pode ser afiada",
+              "Quais são os tipos de máquinas usadas para corte de pedras"
+            ]
+          },
+          {
+            "id": "HM030-R4",
+            "quest": "Descreva as 5 etapas básicas para se fazer um polimento em uma pedra ou uma superfície plana."
+          },
+          {
+            "id": "HM030-R5",
+            "quest": "Que precaução deve ser tomada entre a fase de lixa mento e polimento?"
+          },
+          {
+            "id": "HM030-R6",
+            "quest": "O que é um gabarito e como ele é usado?"
+          },
+          {
+            "id": "HM030-R7",
+            "quest": "O que é um cabochão e qual a espessura da placa que ela é feita?"
+          },
+          {
+            "id": "HM030-R8",
+            "quest": "Como você decide o melhor ângulo e/ou posição para polimento de pedra?"
+          },
+          {
+            "id": "HM030-R9",
+            "quest": "Mencionar, pelo menos, 2 métodos de lixamento úmido para se moldar e polir uma pedra."
+          },
+          {
+            "id": "HM030-R10",
+            "quest": "De quais materiais são confeccionados os compostos para polimento?",
+            "options": [
+              "Se um arranhão aparece durante o polimento, como é removido?"
+            ]
+          },
+          {
+            "id": "HM030-R11",
+            "quest": "Demonstrar como serrar e desbastar uma pedra bruta. Com um cabochão, através das etapas de retificação, lixamento e polimento de alto brilho ou acabamento vitrificado, dar acabamento na pedra."
+          },
+          {
+            "id": "HM030-R12",
+            "quest": "Monte um cabochão em algum tipo de apoio, como um pino de madeira, alfinete de costura, porta-chaves, etc., com cimento."
+          }
+        ]
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+ 
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
 
 
 
