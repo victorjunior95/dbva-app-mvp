@@ -1577,7 +1577,7 @@
       },
       {
         "id": "HM025",
-        "name": "Modelagem e Fabricação de Sabão - avançado",
+        "name": "Modelagem e Fabricação de Sabão Avançado",
         "badge": "null",
         "level": 2,
         "year": 1964,
@@ -1932,10 +1932,576 @@
             "quest": "Monte um cabochão em algum tipo de apoio, como um pino de madeira, alfinete de costura, porta-chaves, etc., com cimento."
           }
         ]
+      },
+      {
+        "id": "HM031",
+        "name": "Modelagem em Gesso",
+        "badge": "null",
+        "level": 1,
+        "year": 1967,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM031-R1",
+            "quest": "Qual o principal ingrediente do gesso de Paris?"
+          },
+          {
+            "id": "HM031-R2",
+            "quest": "Explicar passo a passo os procedimentos necessários na preparação e pintura para se fazer um objeto em gesso."
+          },
+          {
+            "id": "HM031-R3",
+            "quest": "Saber como remover bolhas de ar ao se colocar o gesso na forma."
+          },
+          {
+            "id": "HM031-R4",
+            "quest": "Saber como o tempo pode contribuir para uma secagem rápida e eficaz na preparação do gesso."
+          },
+          {
+            "id": "HM031-R5",
+            "quest": "Que precauções podem ser tomadas ao se limpar os utensílios para fazer os objetos de gesso?"
+          },
+          {
+            "id": "HM031-R6",
+            "quest": "O que é um selador? Qual sua utilidade para a modelagem em gesso e por quê?"
+          },
+          {
+            "id": "HM031-R7",
+            "quest": "Que tipo de tinta é mais conveniente para a arte em gesso?"
+          },
+          {
+            "id": "HM031-R8",
+            "quest": "Pintar 3 objetos que incluam os seguintes desenhos e técnicas, ou algo equivalente:",
+            "options": [
+              "Floral (para demonstrar técnica de sombreamento)",
+              "Animal (para demonstrar técnica de detalhamento)",
+              "Tema Religioso (para demonstrar técnica de realce nas letras)",
+              "Fruta (para demonstrar técnica de realce entre luz e sobras)"
+            ]
+          },
+          {
+            "id": "HM031-R9",
+            "quest": "Moldar e pintar 2 objetos adicionais, com desenhos diferentes da questão anterior."
+          }
+        ]
+      },
+      {
+        "id": "HM032",
+        "name": "Trabalhos em Couro",
+        "badge": "null",
+        "level": 1,
+        "year": 1967,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM032-R1",
+            "quest": "Qual a utilidade do couro, e onde podemos encontrá-lo?"
+          },
+          {
+            "id": "HM032-R2",
+            "quest": "Fazer uma lista de materiais necessários para a realização do trabalho em couro e demonstrar como manusear cada um dos itens citados."
+          },
+          {
+            "id": "HM032-R3",
+            "quest": "Saber diferenciar os diversos tipos de couro, como os bovinos, caprinos e imitações de couro. Saber qual couro é mais fácil de se trabalhar."
+          },
+          {
+            "id": "HM032-R4",
+            "quest": "Como podemos classificar o couro bovino? Qual a parte do boi mais aproveitada?"
+          },
+          {
+            "id": "HM032-R5",
+            "quest": "Descrever os passos necessários para a preparação do couro."
+          },
+          {
+            "id": "HM032-R6",
+            "quest": "Cite alguns dos defeitos mais comuns que encontramos no couro."
+          },
+          {
+            "id": "HM032-R7",
+            "quest": "Desenhar ou colar figuras/fotos de algumas ferramentas utilizadas nos trabalhos em couro, como, por exemplo, carteira, capa de revista ou cinto."
+          },
+          {
+            "id": "HM032-R8",
+            "quest": "Demonstrar como utilizar uma tintura em couro."
+          },
+          {
+            "id": "HM032-R9",
+            "quest": "Que acabamento é mais recomendado para a finalização de um trabalho em couro?"
+          }
+        ]
+      },
+      {
+        "id": "HM033",
+        "name": "Crochê",
+        "badge": "null",
+        "level": 2,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM033-R1",
+            "quest": "Saber executar os seguintes pontos e mencionar quais são as abreviaturas dos mesmos:",
+            "options": [
+              "Ponto alto",
+              "Ponto alto duplo",
+              "Ponto corrente",
+              "Ponto baixo",
+              "Meio ponto",
+              "Ponto baixíssimo"
+            ]
+          },
+          {
+            "id": "HM033-R2",
+            "quest": "Listas os materiais necessários para fazer uma peça em crochê mencionando quais tipos de linha são os mais adequados a cada tipo de trabalho."
+          },
+          {
+            "id": "HM033-R3",
+            "quest": "Fazer um quadrado de 10X10 cm utilizando um dos pontos indicados no requisito 1."
+          },
+          {
+            "id": "HM033-R4",
+            "quest": "Saber como cuidar de itens feitos de lã, nylon, acrílico e algodão."
+          },
+          {
+            "id": "HM033-R5",
+            "quest": "Saber fazer um quadrado para crochê e mostrar algo que tenha feito usando o mesmo, por exemplo, um boné, cachecol, fronha de almofada."
+          },
+          {
+            "id": "HM033-R6",
+            "quest": "Apresentar uma amostra de barra feita em linha."
+          },
+          {
+            "id": "HM033-R7",
+            "quest": "Fazer, em fio de lã, um dos itens a seguir: boné, cachecol, colete ou um par de chinelos."
+          },
+          {
+            "id": "HM033-R8",
+            "quest": "Fazer um dos itens a seguir:",
+            "options": [
+              "Barrinha de toalha ou de pano de prato com motivo de frutas",
+              "Flor para cabelo",
+              "Chaveiro"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM034",
+        "name": "Crochê Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM034-R1",
+            "quest": "Ter a especialidade de Crochê."
+          },
+          {
+            "id": "HM034-R2",
+            "quest": "Saber interpretar um gráfico que contenha, ao menos, 3 pontos diferentes."
+          },
+          {
+            "id": "HM034-R3",
+            "quest": "Saber pregar uma barrinha de crochê em uma toalha."
+          },
+          {
+            "id": "HM034-R4",
+            "quest": "Fazer uma toalhinha de mesa redonda, de linha."
+          },
+          {
+            "id": "HM034-R5",
+            "quest": "Fazer um rendado mais complexo para cobrir uma almofada, ou objeto semelhante."
+          },
+          {
+            "id": "HM034-R6",
+            "quest": "Fazer um colete de crochê ou um conjunto completo pra bebê."
+          },
+          {
+            "id": "HM034-R7",
+            "quest": "Fazer um xale ou uma passadeira de crochê."
+          },
+          {
+            "id": "HM034-R8",
+            "quest": "Fazer uma peça de crochê à sua escolha usando, ao menos, 3 cores."
+          }
+        ]
+      },
+      {
+        "id": "HM035",
+        "name": "Espaçomodelismo",
+        "badge": "null",
+        "level": 1,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM035-R1",
+            "quest": "Explicar o código de segurança do Missilmodelismo.",
+            "instruction": "Código de Segurança do Missilmodelismo (http://nar.org/NARmrsc.html). 1 - Materiais: As miniaturas de foguetes deverão ser produzidas apenas através de materiais leves como papel, madeira, plástico e folhas de papel alumínio, com a exceção dos suportes de cargas e do mecanismo, feitos de arame ou semelhantes. 2 - Mecanismos: Utilizar apenas mecanismos de miniaturas comprados prontos, e de acordo com as instruções do fabricante. Não mexer com estes motores e utilizá-los somente para fins recomendados pelo fabricante. 3 - Sistema de ignição: Lançar os foguetes com um sistema de lançamento elétrico e ignitores de motores elétricos. O sistema de lançamento deverá possuir uma segurança de encravamento em série com o interruptor de lançamento que usa um interruptor de lançamento que retorne para a posição “OFF” quando lançado. 4 - Falhas de ignição: Se o foguete não lançar quando for acionado o botão do sistema de lançamento elétrico, deve-se retirá-lo do lançador de bloqueio de segurança ou desconectar a bateria, e esperar 60 segundos após o último lançamento, antes de permitir que alguém se aproxime do foguete. 5 - Lançamento de segurança: Iniciar uma contagem regressiva antes do lançamento para garantir que todos prestem atenção e mantenham uma distância segura de pelo menos 4,5 metros de distância para lançamentos de foguetes com motores D ou menor, e 9,5 metros para lançamentos de foguetes maiores. Caso o foguete não tenha sido testado e haja incerteza sobre sua segurança ou estabilidade, verificar a estabilidade de voo antes de permitir que espectadores acompanhem o lançamento. 6 - Lançador: Lançar o foguete a partir de uma haste de lançamento, torre ou ferroviário, apontada a partir de 30 graus da vertical para assegurar que o foguete voe quase em linha reta, usando um defletor para impedir que a explosão escape do motor de bater no chão. Para evitar lesão acidental com os olhos, colocar os lançadores de modo que a extremidade da haste de lançamento esteja acima do nível do olho ou tapar a extremidade da haste, quando não estiver em uso. 7 - Tamanho: O modelo de foguete não pesará mais de 1.500 gramas com o lançamento e não conterá mais de 125 gramas de propelente ou 71,9 segundos de impulso total. Se o modelo de foguete pesa mais de 453 gramas na decolagem ou tem mais de 113 gramas de propelente, verificar e cumprir com os regulamentos da Administração de Avaliação Federal antes de voar. 8 - Segurança de voo: Não lançar o foguete contra ventos fortes, perto de prédios, fios de eletricidade, árvores altas, perto de aeroportos ou heliportos (onde passem aeronaves em voo baixo), ou em quaisquer condições que possam ser perigosas às pessoas ou propriedades, e não colocar qualquer carga inflamável ou explosiva no foguete. 9 - Área de lançamento: Só lançar o foguete numa área aberta, pelo menos, tão grande como mostrado na tabela ( http://nar.org/NARmrsc.html), e em condições de tempo seguros, com velocidades de vento não superior a 32km/h . Assegurar-se de que não há capim seco próximo à plataforma de lançamento, e que o local de lançamento não apresenta risco de incêndios na grama. 10 - Sistema de recuperação: Deve-se usar um sistema de recuperação como uma serpentina ou pára-quedas no foguete para que ele retorne com segurança e sem danos, e então possa ser usado novamente. Usar apenas enchimento resistente a chamas ou recuperação à prova de fogo no foguete. 11 - Recuperação de forma segura: Não tentar recuperar o foguete caso ele caia em rede elétrica, árvores altas, ou outros lugares perigosos."
+          },
+          {
+            "id": "HM035-R2",
+            "quest": "Explicar a importância dos componentes básicos das miniaturas de foguetes."
+          },
+          {
+            "id": "HM035-R3",
+            "quest": "Desenhar o seguinte:",
+            "options": [
+              "Os passos do voo de uma miniatura de foguete.",
+                "Um corte transversal de um foguete em miniatura, identificando cada parte.",
+                "Um plano esquemático de um sistema simples de lançamento, usando os símbolos elétricos apropriados."
+            ]
+          },
+          {
+            "id": "HM035-R4",
+            "quest": "Definir o seguinte:",
+            "options": [
+              "Enchimento",
+              "Planadores de impulso",
+              "Simulador",
+              "Carga útil",
+              "Apogeu",
+              "Centro de gravidade",
+              "Centro de pressão",
+              "Impulso",
+              "Velocidade",
+              "Ejeção"
+            ]
+          },
+          {
+            "id": "HM035-R5",
+            "quest": "Nomear e descrever, pelo menos, 4 diferentes sistemas de resgate."
+          },
+          {
+            "id": "HM035-R6",
+            "quest": "A partir de um kit, montar, fazer acabamento e pintar um foguete de estágio único, que tenha um comprimento mínimo de 15 cm. Lançar o foguete com paraquedas ou outro sistema de resgate."
+          }
+        ]
+      },
+      {
+        "id": "HM036",
+        "name": "Espaçomodelismo Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM036-R1",
+            "quest": "Ter a especialidade de Espaçomodelismo."
+          },
+          {
+            "id": "HM036-R2",
+            "quest": "A partir de um kit, montar, lançar e resgatar um foguete em miniatura."
+          },
+          {
+            "id": "HM036-R3",
+            "quest": "Projetar, construir (mas não a partir de um kit), fazer o acabamento e pintar um foguete de estágio único. Verifique se há estabilidade e, com sucesso, lançar e recuperar este foguete."
+          },
+          {
+            "id": "HM036-R4",
+            "quest": "Faça um dos seguintes itens:",
+            "options": [
+              "A partir de um kit, construir, terminar e pintar um foguete de 2 estágios. Lançar com sucesso e recuperar este foguete.",
+              "A partir de um kit, construir, terminar e pintar um motor de 3 estágios agrupados em um único estágio de foguete. Lançar com sucesso e recuperar este foguete."
+            ]
+          },
+          {
+            "id": "HM036-R5",
+            "quest": "Projetar um sistema de lançamento elétrico. Quando tiver sido aprovado pelo seu instrutor, construir este sistema e usá-lo para o lançamento de foguetes, pelo menos, 5 vezes."
+          },
+          {
+            "id": "HM036-R6",
+            "quest": "Descrever e demonstrar controle de altitude de estação única. Com o auxílio de um instrutor, rastrear o mesmo foguete 3 vezes usando 3 diferentes tamanhos de motores e comparar altitudes com um localizador de altitude."
+          },
+          {
+            "id": "HM036-R7",
+            "quest": "Comparar a velocidade e altitude de 2 pesos diferentes de foguetes usando o mesmo tamanho do motor."
+          }
+        ]
+      },
+      {
+        "id": "HM037",
+        "name": "Tricô",
+        "badge": "null",
+        "level": 2,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM037-R1",
+            "quest": "Saber executar os seguintes pontos e mencionar quais são as abreviaturas dos mesmos:",
+            "options": [
+              "Meia",
+              "Tricô",
+              "Laçada",
+              "Mate simples",
+              "Mate duplo",
+              "Ponto junto"
+            ]
+          },
+          {
+            "id": "HM037-R2",
+            "quest": "Listar 5 diferentes tipos de lãs e explicar quais são as vantagens e desvantagens de cada um."
+          },
+          {
+            "id": "HM037-R3",
+            "quest": "Demonstrar como unir um novelo com outro e fazer com que o nó não seja notado em uma peça simples."
+          },
+          {
+            "id": "HM037-R4",
+            "quest": "Demonstrar como arrematar uma peça de tricô."
+          },
+          {
+            "id": "HM037-R5",
+            "quest": "Mencionar os cuidados necessários na lavagem e armazenamento das peças feitas com lã."
+          },
+          {
+            "id": "HM037-R6",
+            "quest": "Fazer uma peça seguindo uma receita que tenha, ao menos, 3 diferentes pontos."
+          },
+          {
+            "id": "HM037-R7",
+            "quest": "Fazer 2 peças em tricô, dentre as seguintes opções: luvas, sapatinhos de bebê, gorro, cachecol."
+          }
+        ]
+      },
+      {
+        "id": "HM038",
+        "name": "Tricô Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM038-R1",
+            "quest": "Ter a especialidade de Tricô."
+          },
+          {
+            "id": "HM038-R2",
+            "quest": "Saber executar os seguintes pontos e mencionar quais são as abreviaturas dos mesmos:",
+            "options": [
+              "Dois pontos juntos em meia",
+              "Mate duplo vertical",
+              "Mate duplo à esquerda",
+              "Mate duplo à direita"
+            ]
+          },
+          {
+            "id": "HM038-R3",
+            "quest": "Saber fazer o seguinte:",
+            "options": [
+              "Aumento",
+              "Diminuição",
+              "Arremate",
+              "Costura invisível",
+              "Emendar fios com nós simples e nós com fio sobreposto"
+            ]
+          },
+          {
+            "id": "HM038-R4",
+            "quest": "Saber unir 3 malhas de tricô."
+          },
+          {
+            "id": "HM038-R5",
+            "quest": "Fazer, em tricô, um par de sapatos de adulto, sendo que as duas peças devem ser feitas simultaneamente no mesmo par de agulhas."
+          },
+          {
+            "id": "HM038-R6",
+            "quest": "Fazer 2 peças das seguintes:",
+            "options": [
+              "Casaquinho de bebê",
+              "Xale ou poncho",
+              "Suéter adulto",
+              "Vestido",
+              "Casaco"
+            ]
+          },
+          {
+            "id": "HM038-R7",
+            "quest": "Fazer uma peça de tricô usando, ao menos, 3 cores de lã diferentes."
+          },
+          {
+            "id": "HM038-R8",
+            "quest": "Fazer uma peça de tricô à sua escolha que contenha motivo de tranças ou folhas."
+          },
+          {
+            "id": "HM038-R9",
+            "quest": "Demonstrar habilidade em trabalhar com um dos seguintes instrumentos:",
+            "options": [
+              "Tear",
+              "Agulha circular"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM039",
+        "name": "Trabalhos em Vidro",
+        "badge": "null",
+        "level": 1,
+        "year": 1970,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM039-R1",
+            "quest": "Cite o nome de 10 tipos de vidro."
+          },
+          {
+            "id": "HM039-R2",
+            "quest": "Saber que tipos de vidro são utilizados em móveis, isolamento, aviões e automóveis."
+          },
+          {
+            "id": "HM039-R3",
+            "quest": "Coletar e preparar, pelo menos, 3 cores de vidro para fazer um quadro."
+          },
+          {
+            "id": "HM039-R4",
+            "quest": "Saber os passos para fazer uma imagem com vidro e completar esse quadro usando, pelo menos, 3 cores."
+          },
+          {
+            "id": "HM039-R5",
+            "quest": "Pesquisar sobre a história do vidro e como é o processo de fabricação. Escolher um dos seguintes:",
+            "options": [
+              "Relatório de, pelo menos, 300 palavras.",
+              "Fazer uma apresentação oral de, pelo menos, 3 minutos."
+            ]
+          },
+          {
+            "id": "HM039-R6",
+            "quest": "Saber quais são as ferramentas necessárias e quais os cuidados que devemos ter ao trabalhar com vidros."
+          },
+          {
+            "id": "HM039-R7",
+            "quest": "Pesquisar em sua região sobre o seguinte:",
+            "options": [
+              "Como funciona o processo de reciclagem de vidros?",
+              "Que destino têm os retalhos de vidro em vidraçarias?",
+              "Qual o destino mais indicado para vidros quebrados em casa?"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM040",
+        "name": "Arte de Trançar",
+        "badge": "null",
+        "level": 1,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM040-R1",
+            "quest": "Fazer uma trança de três pontas usando cabelo, corda ou cabo."
+          },
+          {
+            "id": "HM040-R2",
+            "quest": "Fazer um puxador de zíper ou um chaveiro usando o trançado redondo ou quadrado de quatro cordões."
+          },
+          {
+            "id": "HM040-R3",
+            "quest": "Fazer um projeto, que não seja um puxador de zíper ou um chaveiro, usando o trançado redondo ou quadrado de quatro cordões."
+          },
+          {
+            "id": "HM040-R4",
+            "quest": "Fazer um cordão com alça usando um trançado redondo de quatro pontas."
+          },
+          {
+            "id": "HM040-R5",
+            "quest": "Saber como iniciar e finalizar cada projeto."
+          },
+          {
+            "id": "HM040-R6",
+            "quest": "Fazer um torçal, trançado com o nó de surrão na parte superior que envolve o braço e nó de surrão invertido no prolongamento até o apito."
+          }
+        ]
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
