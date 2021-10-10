@@ -2418,10 +2418,580 @@
             "quest": "Fazer um torçal, trançado com o nó de surrão na parte superior que envolve o braço e nó de surrão invertido no prolongamento até o apito."
           }
         ]
+      },
+      {
+        "id": "HM041",
+        "name": "Arte de Trançar Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM041-R1",
+            "quest": "Ter a especialidade de Arte de trançar."
+          },
+          {
+            "id": "HM041-R2",
+            "quest": "Fazer um puxador de zíper ou chaveiro usando um trançado de 6 ou 8 cordões."
+          },
+          {
+            "id": "HM041-R3",
+            "quest": "Fazer um puxador de zíper ou chaveiro usando de 6 ou 8 cordões, mostrando a técnica de ziguezague revertendo o sentido do trançado."
+          },
+          {
+            "id": "HM041-R4",
+            "quest": "Fazer um dos seguintes:",
+            "options": [
+              "Cordão com alça de 6 fios ou cordões",
+              "Marca página usando, pelo menos, 6 fios ou cordões",
+              "Coleira de cachorro com trançado de quatro fios ou cordões em torno de um cordão ou cabo"
+            ]
+          },
+          {
+            "id": "HM041-R5",
+            "quest": "Saber como iniciar e finalizar cada projeto."
+          }
+        ]
+      },
+      {
+        "id": "HM042",
+        "name": "Decoração de Bolos",
+        "badge": "null",
+        "level": 2,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM041-R1",
+            "quest": "Fazer uma lista de equipamentos necessários para decorar bolos."
+          },
+          {
+            "id": "HM041-R2",
+            "quest": "Preparar 2 coberturas de bolo e dizer que ingredientes foram utilizados em cada uma."
+          },
+          {
+            "id": "HM041-R3",
+            "quest": "Demonstrar como usar corretamente colheres e xícaras de medidas e a balança culinária (se houver). Qual a importância, na confeitaria, de se seguir a receita corretamente?"
+          },
+          {
+            "id": "HM041-R4",
+            "quest": "Fazer e descrever os procedimentos adequados para a construção de um saco de confeitar."
+          },
+          {
+            "id": "HM041-R5",
+            "quest": "Demonstrar de maneira correta como:",
+            "options": [
+              "Encaixar o bico no saco de confeitar",
+              "Misturar a cor",
+              "Encher com glacê e dobrar a ponta"
+            ]
+          },
+          {
+            "id": "HM041-R6",
+            "quest": "Qual o nome da dobra da ponta do saco de confeitar?"
+          },
+          {
+            "id": "HM041-R7",
+            "quest": "Citar 3 etapas essenciais para um bom trabalho em uma decoração de bolo."
+          },
+          {
+            "id": "HM041-R8",
+            "quest": "Demonstrar habilidade e precisão ao desenhar os seguintes:",
+            "options": [
+              "Chuva de Estrelas",
+              "Rosas",
+              "Bordas em formato de conchas e zigue-zague",
+              "Forma de 'S' e Laços"
+            ]
+          },
+          {
+            "id": "HM041-R9",
+            "quest": "Descrever e explicar 4 técnicas utilizadas na decoração de um bolo."
+          },
+          {
+            "id": "HM041-R10",
+            "quest": "Desenhar 4 flores diferentes, por exemplo: ervilha-de-cheiro, rosa, cravo, margarida, copo de leite, violeta, etc. Uma das 4 flores escolhida deve ser feita inteira."
+          },
+          {
+            "id": "HM041-R11",
+            "quest": "Demonstrar técnicas e métodos de escrever em um bolo, usando 2 bicos de confeitar diferentes."
+          },
+          {
+            "id": "HM041-R12",
+            "quest": "Fazer um bolo em uma fôrma de formato diferente e confeitá-lo."
+          },
+          {
+            "id": "HM041-R13",
+            "quest": "Fazer uma decoração em um bolo para uma cerimônia especial, utilizando, pelo menos, 2 bordas diferentes e um arranjo floral."
+          },
+          {
+            "id": "HM041-R14",
+            "quest": "Fazer um bolo em forma de coração, onde o mesmo deve ter:",
+            "options": [
+              "Bordas",
+              "Flores",
+              "Escrita",
+              "Tranças ornamentais"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM043",
+        "name": "Esmaltado em Cobre",
+        "badge": "null",
+        "level": 1,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM043-R1",
+            "quest": "Conhecer a diferença entre o esmaltado em baixa e em alta temperatura."
+          },
+          {
+            "id": "HM043-R2",
+            "quest": "Citar os materiais que podem ser usados no processo de baixa temperatura."
+          },
+          {
+            "id": "HM043-R3",
+            "quest": "Qual é o método apropriado para a limpeza de objetos que serão esmaltados? Por que esta limpeza é importante?"
+          },
+          {
+            "id": "HM043-R4",
+            "quest": "Que acabamento deve ser dado ao cobre para evitar a perda do brilho?"
+          },
+          {
+            "id": "HM043-R5",
+            "quest": "Dar o nome das ferramentas usadas para fazer o esmaltado."
+          },
+          {
+            "id": "HM043-R6",
+            "quest": "Que fontes de calor podem ser usadas para o processo de baixa temperatura? Que medidas de segurança devem ser seguidas?"
+          },
+          {
+            "id": "HM043-R7",
+            "quest": "Como se prende alfinetes tipo broche e imãs atrás de objetos de metal?"
+          },
+          {
+            "id": "HM043-R8",
+            "quest": "NOTA: A aplicação de fogo aos objetos não precisa ser necessariamente feita pelo desbravador que está completando a especialidade. Esta especialidade pode ser conquistada tanto para pessoas que tenham usado o processo de alta temperatura, como para as que usarem o de baixa temperatura. Fazer, pelo menos, 5 objetos usando as seguintes técnicas:",
+            "options": [
+              "Espiral",
+              "Estêncil",
+              "Filamentos",
+              "Mosaico",
+              "Scraffito"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM044",
+        "name": "Esmaltado em Cobre Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM044-R1",
+            "quest": "Ter a especialidade de Esmaltado em Cobre."
+          },
+          {
+            "id": "HM044-R2",
+            "quest": "Explicar o uso de um tripé."
+          },
+          {
+            "id": "HM044-R3",
+            "quest": "Que materiais podem ser usados para decorar ou ornamentar objetos esmaltados?"
+          },
+          {
+            "id": "HM044-R4",
+            "quest": "NOTA: A aplicação de fogo aos objetos não precisa ser necessariamente feita pelo desbravador que está completando a especialidade. Esta especialidade pode ser conquistada tanto para pessoas que tenham usado o processo de alta temperatura, como para as que usarem o de baixa temperatura. Fazer 4 dos seguintes projetos:",
+            "options": [
+              "Decoração de natal",
+              "Decoração de cozinha",
+              "Flor de metal",
+              "Broche ou pin",
+              "Porta livros de metal",
+              "Placa de metal",
+              "Objeto tridimensional",
+              "Objeto semelhante de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM045",
+        "name": "Estofamento",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "HM045-R1",
+            "quest": "Conhecer os seguintes itens utilizados em estofamento. Descrever as ferramentas e dar seus usos:",
+            "options": [
+              "Pé de cabra",
+              "Removedor de grampos",
+              "Agulhas curvas",
+              "Martelo magnético",
+              "Estilete ou faca afiada",
+              "Mesa de trabalho",
+              "Máquina de costura Industrial",
+              "Grampeador manual"
+            ]
+          },
+          {
+            "id": "HM045-R2",
+            "quest": "Explicar o uso dos seguintes itens:",
+            "options": [
+              "Cintas",
+              "Grampos e tachinhas",
+              "Espuma",
+              "Algodão para tapecaria"
+            ]
+          },
+          {
+            "id": "HM045-R3",
+            "quest": "Conhecer, pelo menos, 3 tipos de tecidos comuns em sua região que são utilizados no estofa mento."
+          },
+          {
+            "id": "HM045-R4",
+            "quest": "Explique como encaixar a tampa traseira para acabamento em um sofá de 3 lugares."
+          },
+          {
+            "id": "HM045-R5",
+            "quest": "Qual o nome do material utilizado para a base de um sofá de sala de estar e qual a sua finalidade?"
+          },
+          {
+            "id": "HM045-R6",
+            "quest": "Conhecer 2 métodos de fixação de capas para cadeiras."
+          },
+          {
+            "id": "HM045-R7",
+            "quest": "Escolher 1 dos seguintes:",
+            "options": [
+              "Estofar uma poltrona ou sofá",
+              "Estofar uma caixa de brinquedos"
+            ]
+          },
+          {
+            "id": "HM045-R8",
+            "quest": "Fazer uma almofada para sofá."
+          }
+        ]
+      },
+      {
+        "id": "HM046",
+        "name": "Fabricação de Velas",
+        "badge": "null",
+        "level": 2,
+        "year": 1972,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM046-R1",
+            "quest": "Fazer, pelo menos, 5 dos itens a seguir:",
+            "options": [
+              "Vela de Areia de forma livre",
+              "Vela em camadas coloridas",
+              "Vela feita em um molde",
+              "Vela de Gelo",
+              "Vela Perfumada",
+              "Um par de velas de cera de abelha"
+            ]
+          },
+          {
+            "id": "HM046-R2",
+            "quest": "Conhecer, pelo menos, 2 tipos de cera utilizados para fazer velas tradicionais e explique o uso de cada uma."
+          },
+          {
+            "id": "HM046-R3",
+            "quest": "Saber a medida de um pavio e por quanto tempo ele ficará queimando."
+          },
+          {
+            "id": "HM046-R4",
+            "quest": "Em qual circunstância deve-se usar um pavio de metal?"
+          },
+          {
+            "id": "HM046-R5",
+            "quest": "Conhecer as medidas de segurança para a fabricação de uma vela."
+          }
+        ]
+      },
+      {
+        "id": "HM047",
+        "name": "Serigrafia",
+        "badge": "null",
+        "level": 2,
+        "year": 1974,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM047-R1",
+            "quest": "Fazer uma lista das ferramentas e equipamentos necessários para fazer serigrafia."
+          },
+          {
+            "id": "HM047-R2",
+            "quest": "Mencionar 3 tipos de tinta adequadas para o trabalho com serigrafia."
+          },
+          {
+            "id": "HM047-R3",
+            "quest": "Relacionar, pelo menos, 3 usos industriais para a serigrafia."
+          },
+          {
+            "id": "HM047-R4",
+            "quest": "Explicar como fazer serigrafia em garrafas e superfícies arredondadas."
+          },
+          {
+            "id": "HM047-R5",
+            "quest": "Fazer uma estampa, transferi-la para uma tela e imprimir um dos projetos a seguir:",
+            "options": [
+              "Pelo menos 10 cartões",
+              "Pelo menos 3 cartazes",
+              "Estampar um desenho em tecido",
+              "Um projeto semelhante, de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM048",
+        "name": "Serigrafia Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 1974,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM048-R1",
+            "quest": "Ter a especialidade de Serigrafia."
+          },
+          {
+            "id": "HM048-R2",
+            "quest": "Estender e prender uma malha num bastidor para fazer uma tela de serigrafia."
+          },
+          {
+            "id": "HM048-R3",
+            "quest": "Saber que tecidos podem ser usados para serigrafia e as vantagens de cada um. Que fatores influenciam na escolha da malha para a tela?"
+          },
+          {
+            "id": "HM048-R4",
+            "quest": "Compreender cada uma das seguintes técnicas de impressão em Serigrafia:",
+            "options": [
+              "Método filme estêncil",
+              "Método fotográfico",
+              "Método resistente"
+            ]
+          },
+          {
+            "id": "HM048-R5",
+            "quest": "Usar duas das técnicas a seguir para cumprir o requisito 4 desta especialidade:",
+            "options": [
+              "Imprimir um desenho usando duas cores ou mais, de acordo com a tabela de cores",
+              "Imprimir um desenho em repetição",
+              "Imprimir um desenho em três cores, usando apenas duas cores de tinta"
+            ]
+          },
+          {
+            "id": "HM048-R6",
+            "quest": "Imprimir, no mínimo, 10 camisetas iguais para sua unidade, Clube ou projeto da Igreja, usando ao menos 5 telas diferentes, sendo, pelo menos, 3 delas de um mesmo desenho (sobrepostas)."
+          },
+          {
+            "id": "HM048-R7",
+            "quest": "Imprimir em um material que não seja papel ou tecido, como, por exemplo, vidro, metal ou couro."
+          }
+        ]
+      },
+      {
+        "id": "HM049",
+        "name": "Arte com Barbante",
+        "badge": "null",
+        "level": 1,
+        "year": 1975,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM049-R1",
+            "quest": "Descrever os itens a seguir: artesanato com barbante, simetria (symmography), ponto geométrico."
+          },
+          {
+            "id": "HM049-R2",
+            "quest": "Desenhar e encordoar sobre papel cartão em pontos igualmente espaçados:",
+            "options": [
+              "Um ângulo reto",
+              "Um ângulo agudo",
+              "Um ângulo obtuso"
+            ]
+          },
+          {
+            "id": "HM049-R3",
+            "quest": "Mencionar três maneiras de preparar a madeira para a arte com barbante."
+          },
+          {
+            "id": "HM049-R4",
+            "quest": "Usando métodos de encordoar em madeira, fazer quatro dos seguintes:",
+            "options": [
+              "Círculo cheio",
+              "Círculo vazado",
+              "Estrela",
+              "Beirada",
+              "Curva de dentro para fora",
+              "Curva de fora para dentro",
+              "Enchimento",
+              "Asa entrelaçada"
+            ]
+          },
+          {
+            "id": "HM049-R5",
+            "quest": "Colocar em exposição um trabalho original de arte com barbante em madeira."
+          },
+          {
+            "id": "HM049-R6",
+            "quest": "Além da madeira, que outros materiais podem ser usados em trabalhos de arte com barbante? Liste, ao menos, 5."
+          }
+        ]
+      },
+      {
+        "id": "HM050",
+        "name": "Decoupage",
+        "badge": "null",
+        "level": 2,
+        "year": 1975,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM050-R",
+            "quest": ""
+          },
+          {
+            "id": "HM050-R1",
+            "quest": "O que é Decoupage?"
+          },
+          {
+            "id": "HM050-R2",
+            "quest": "Apresentar a história desta técnica, incluindo país de origem, desenvolvimento e tantas curiosidades que puderem ser encontradas."
+          },
+          {
+            "id": "HM050-R3",
+            "quest": "Fazer uma lista do material e equipamentos necessários para o decoupage."
+          },
+          {
+            "id": "HM050-R4",
+            "quest": "Descreva a forma apropriada de limpeza de cada ferramenta utilizada."
+          },
+          {
+            "id": "HM050-R5",
+            "quest": "Descrever como preparar a madeira ou objeto de metal para o decoupage."
+          },
+          {
+            "id": "HM050-R6",
+            "quest": "Explique 3 maneiras pelas quais o material impresso pode ser usado no decoupage."
+          },
+          {
+            "id": "HM050-R7",
+            "quest": "Explicar o passo a passo desta técnica."
+          },
+          {
+            "id": "HM050-R8",
+            "quest": "Seguindo os passos básicos, completar 2 dos objetos a seguir:",
+            "options": [
+              "Chaveiro",
+              "Suporte de livros",
+              "Garrafa",
+              "Caixa para lenços de papel",
+              "Objeto de sua escolha"
+            ]
+          },
+          {
+            "id": "HM050-R9",
+            "quest": "Um dos objetos preparados durante o cumprimento do requisito 8 deve ser dado de presente a algum idoso membro da comunidade ou em visita a uma casa de repouso."
+          }
+        ]
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
