@@ -2911,10 +2911,665 @@
             "quest": "Um dos objetos preparados durante o cumprimento do requisito 8 deve ser dado de presente a algum idoso membro da comunidade ou em visita a uma casa de repouso."
           }
         ]
+      },
+      {
+        "id": "HM051",
+        "name": "Macramê",
+        "badge": "null",
+        "level": 1,
+        "year": 1975,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM051-R1",
+            "quest": "Descrever a história do macramê."
+          },
+          {
+            "id": "HM051-R2",
+            "quest": "O que é um fio de macramê?"
+          },
+          {
+            "id": "HM051-R3",
+            "quest": "Citar 3 tipos de fios utilizados no macramê e explicar a qualidade de cada um."
+          },
+          {
+            "id": "HM051-R4",
+            "quest": "Conhecer os nós básicos que são usados no macramê. Saber 2 variações de cada um desses nós citados."
+          },
+          {
+            "id": "HM051-R5",
+            "quest": "Qual a utilidade do nó simples no macramê?"
+          },
+          {
+            "id": "HM051-R6",
+            "quest": "Qual a quantidade necessária para se alcançar o comprimento desejado do produto final."
+          },
+          {
+            "id": "HM051-R7",
+            "quest": "Fazer uma amostra de macramê para exposição ou apresentação em seu Clube, escola ou Igreja, usando os seguintes nós essenciais e, pelo menos, 2 variações: nó Chato, nó Cordonê ou nó Festonê. Fazer 2 outros itens de sua escolha usando os nós essenciais: nó quadrado, Josephine ou nó gravata."
+          },
+          {
+            "id": "HM051-R8",
+            "quest": "Fazer 2 itens diferentes de sua escolha usando o nó quadrado, o ponto meia duplo e 2 variações de cada um em ambos os itens."
+          }
+        ]
+      },
+      {
+        "id": "HM052",
+        "name": "Telhados",
+        "badge": "null",
+        "level": 0,
+        "year": 0,
+        "originatingInstitution": "Divisão Centro Leste Africana",
+        "requirements": [
+          {
+            "id": "HM052-R1",
+            "quest": "Faça uma lista de ferramentas necessárias para se trabalhar em telhados, relacionando o uso e os cuidados de segurança de cada ferramenta."
+          },
+          {
+            "id": "HM052-R2",
+            "quest": "Quais os equipamentos necessários para se fazer um telhado com 'tesouras'? Descrever como você faria para erguê-las em seus lugares."
+          },
+          {
+            "id": "HM052-R3",
+            "quest": "Citar os principais tipos de madeiras usadas em telhados em sua região e sua utilização em vários tipos de telhados, como: meia-água, duas águas, segmentadas, espigão, colonial, etc."
+          },
+          {
+            "id": "HM052-R4",
+            "quest": "Responder o seguinte, com relação ao preparo do material:",
+            "options": [
+              "Como é feito o corte da madeira para telhados e como as madeiras são armazenadas?",
+              "Como é feita a preparação da madeira utilizada em telhados?",
+              "Como é feito um telhado com cabeamento? Quais são os materiais e equipamentos utilizados em sua região?"
+            ]
+          },
+          {
+            "id": "HM052-R5",
+            "quest": "Responder o seguinte, com relação aos telhados de palha:",
+            "options": [
+              "Telhado de palha pode ser feito de qualquer modelo?",
+              "Qual o modelo mais prático de se fazer um telhado de palha?",
+              "Cite algumas vantagens e desvantagens de um telhado de palha.",
+              "Quais são as intempéries que prejudicam um telhado de palha? Como a proteção deve ser feita?"
+
+            ]
+          },
+          {
+            "id": "HM052-R6",
+            "quest": "Ter conhecimento prático em trabalho com palha e demonstrar capacidade em fazer alguns feixes para cobertura."
+          },
+          {
+            "id": "HM052-R7",
+            "quest": "Responda o seguinte, com relação à mão de obra:",
+            "options": [
+              "Quantos trabalhadores são necessários para se construir um telhado com tesouras estilo 2 águas?",
+              "Descrever como iniciar um trabalho na cobertura do item A.",
+              "Dizer e, se possível, demonstrar, como você faria: (1) telhado redondo, (2) telhado colonial."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM053",
+        "name": "Cultura Indígena Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 1976,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM053-R1",
+            "quest": "Ter a especialidade Cultura indígena."
+          },
+          {
+            "id": "HM053-R2",
+            "quest": "Pesquisar se em seu país existe alguma política pública de preservação da cultura indígena. Com base nessa pesquisa, escrever uma redação de 500 palavras sobre 'Direitos das populações indígenas'."
+          },
+          {
+            "id": "HM053-R3",
+            "quest": "Identificar a etnia e apresentar a localização de, pelo menos, 10 tribos ou comunidades indígenas existentes o mais próximo possível de sua cidade, na atualidade."
+          },
+          {
+            "id": "HM053-R4",
+            "quest": "Descobrir como os índios obtinham tintas/corantes vegetais e tentar obter, pelo menos, 2 tons de cores por esse método."
+          },
+          {
+            "id": "HM053-R5",
+            "quest": "Listar 5 medicamentos ou plantas medicinais utilizadas pelos índios e que atualmente tenham sua eficácia comprovada pela ciência."
+          },
+          {
+            "id": "HM053-R6",
+            "quest": "Aprender a contar, ao menos, 3 histórias tradicionais contadas por alguma etnia indígena de sua região, que ensine importantes lições para a vida do Desbravador."
+          },
+          {
+            "id": "HM053-R7",
+            "quest": "Listar 5 diferentes línguas/dialetos indígenas e apresentar o significado de, ao menos, lo palavras em cada um deles."
+          },
+          {
+            "id": "HM053-R8",
+            "quest": "Descobrir que etnia indígena vivia em sua cidade (ou a mais próxima) no período do descobrimento do seu país. Sobre esse grupo, pesquise as seguintes informações:",
+            "options": [
+              "Tamanho da população, na época e atualmente",
+              "Habitações/moradia",
+              "Artesanato nativo como cestaria, cerâmica, tapetes, entalhes, etc.",
+              "Práticas religiosas",
+              "Forma de Governo",
+              "Vestimentas e adornos"
+            ]
+          },
+          {
+            "id": "HM053-R9",
+            "quest": "Participar de uma refeição com diversos alimentos e pratos indígenas, onde tenham sido usados variados métodos de preparo."
+          },
+          {
+            "id": "HM053-R10",
+            "quest": "Como são construídas as habitações indígenas? Com materiais naturais, fazer uma maquete de uma habitação indígena, utilizando os mesmos métodos de construção."
+          },
+          {
+            "id": "HM053-R11",
+            "quest": "Completar um dos seguintes:",
+            "options": [
+              "Visitar um museu indígena ou uma coleção pública/privada. Ao final da visita, preparar um relatório com fotos sobre todas as coisas interessantes que aprendeu.",
+              "Recepcionar um índio em uma reunião do Clube e aprender sobre seu povo e seus costumes. Pedir que ele ensine algum tipo de artesanato de seu grupo. Ao final, apresentar a seu instrutor a peça de artesanato que preparou.",
+              "Fazer uma visita a um índio e aprender sobre seu povo e seus costumes. Fazer um relatório sobre a experiência, contando o que aprendeu. Inserir fotos da visita.",
+              "Visitar uma aldeia indígena ou reserva. Ao final, preparar um álbum de fotos da visita e apresentá-lo a seu instrutor, contando as histórias de cada foto."
+            ]
+          },
+          {
+            "id": "HM053-R12",
+            "quest": "Utilizando apenas materiais encontrados na natureza, fazer um dos seguintes trabalhos artesanais e, em seguida, demonstrar seu uso:",
+            "options": [
+              "Um cocar",
+              "Um instrumento musical",
+              "Um arco e flecha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM054",
+        "name": "Bordado em Ponto Cruz",
+        "badge": "null",
+        "level": 2,
+        "year": 1976,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM054-R1",
+            "quest": "Ter um estojo com material necessário para fazer o ponto cruz, incluindo pelo menos: agulhas para ponto cruz, linha de algodão mercerizada em várias cores, uma tesoura para bordado, retalhos de tecido para ponto cruz e vários gráficos para bordar."
+          },
+          {
+            "id": "HM054-R2",
+            "quest": "Conhecer os tipos de tecido para bordar o ponto cruz que se encontram no mercado."
+          },
+          {
+            "id": "HM054-R3",
+            "quest": "Conhecer os tipos de fios para bordar o ponto cruz que se encontram no mercado e saber como converter a tabela de cores de um fabricante para o outro."
+          },
+          {
+            "id": "HM054-R4",
+            "quest": "Conhecer, pelo menos, quatro pontos usados no ponto cruz e saber interpretar um gráfico."
+          },
+          {
+            "id": "HM054-R5",
+            "quest": "Bordar em ponto cruz um desenho com, pelo menos, três cores em três amostras de tecidos e identificá-los."
+          },
+          {
+            "id": "HM054-R6",
+            "quest": "Fazer dois dos seguintes trabalhos em ponto cruz, usando gráfico:",
+            "options": [
+              "Pano de prato",
+              "Toalha de rosto ou de lavabo",
+              "Jogo americano",
+              "Capa de almofada",
+              "Caminho de mesa"
+            ]
+          },
+          {
+            "id": "HM054-R7",
+            "quest": "Fazer um quadro em ponto cruz de, pelo menos, 30 x 50 pontos com desenho de sua escolha."
+          },
+          {
+            "id": "HM054-R8",
+            "quest": "Fazer um quadro em ponto cruz de, pelo menos, 50 x 90 pontos de uma cena da natureza."
+          }
+        ]
+      },
+      {
+        "id": "HM055",
+        "name": "Biscuit",
+        "badge": "null",
+        "level": 1,
+        "year": 1976,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM055-R1",
+            "quest": "Fazer uma lista dos materiais necessários para a arte em biscuit."
+          },
+          {
+            "id": "HM055-R2",
+            "quest": "Por que é importante estar com as mãos limpas, e usar creme para as mãos ao trabalhar com biscuit?"
+          },
+          {
+            "id": "HM055-R3",
+            "quest": "Explicar as diferentes técnicas de colorir e pintar a massa."
+          },
+          {
+            "id": "HM055-R4",
+            "quest": "Que tipo de acabamento se usa para proteger e dar uma aparência brilhante aos artigos feitos com biscuit?"
+          },
+          {
+            "id": "HM055-R5",
+            "quest": "Fazer, pelo menos, dois objetos a seguir:",
+            "options": [
+              "Joaninha",
+              "Flor",
+              "Menino articulado",
+              "Menina articulada",
+              "Porta recado"
+            ]
+          },
+          {
+            "id": "HM055-R6",
+            "quest": "Fazer um dos itens a seguir usando massa tingida:",
+            "options": [
+              "Lembrança de casamento",
+              "Lembrança de maternidade",
+              "Topo de bolo temático",
+              "Pequeno quadro de parede"
+            ]
+          },
+          {
+            "id": "HM055-R7",
+            "quest": "Fazer um dos itens a seguir:",
+            "options": [
+              "Ímã de geladeira",
+              "Vasinho de flor",
+              "Pote para cozinha",
+              "Porta treco",
+              "Algo de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM056",
+        "name": "Patchwork",
+        "badge": "null",
+        "level": 2,
+        "year": 1976,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM056-R1",
+            "quest": "O que é patchwork?"
+          },
+          {
+            "id": "HM056-R2",
+            "quest": "Fazer uma lista de materiais necessários para confeccionar uma peça em patchwork."
+          },
+          {
+            "id": "HM056-R3",
+            "quest": "Quais são os passos básicos para a confecção de uma peça de patchwork?"
+          },
+          {
+            "id": "HM056-R4",
+            "quest": "Listar 5 tipos de tecidos utilizados para se fazer patchwork e quais as vantagens e desvantagens de cada um."
+          },
+          {
+            "id": "HM056-R5",
+            "quest": "Demonstrar habilidade em medir e cortar corretamente os tecidos."
+          },
+          {
+            "id": "HM056-R6",
+            "quest": "Demonstrar como combinar cores e estampas corretamente."
+          },
+          {
+            "id": "HM056-R7",
+            "quest": "Saber costurar e arrematar corretamente suas peças à mão ou à máquina."
+          },
+          {
+            "id": "HM056-R8",
+            "quest": "Qual a importância de um acabamento bem feito para o valor comercial do seu produto?"
+          },
+          {
+            "id": "HM056-R9",
+            "quest": "Fazer 3 dos seguintes.",
+            "options": [
+              "Trabalhos usando patchwork",
+              "Avental",
+              "Capa de almofada",
+              "Bolsa",
+              "Jogo americano",
+              "Saco de dormir para bebê",
+              "Toalha de mesa",
+              "Tapete"
+            ]
+          },
+          {
+            "id": "HM056-R10",
+            "quest": "Fazer uma peça de sua escolha usando 2 dos seguintes motivos:",
+            "options": [
+              "Animal",
+              "Flor",
+              "Formas geométricas",
+              "Frutas"
+            ]
+          },
+          {
+            "id": "HM056-R11",
+            "quest": "Qual tamanho deve ter uma colcha?",
+            "options": [
+              "Solteiro",
+              "Casal",
+              "King Size"
+            ]
+          },
+          {
+            "id": "HM056-R12",
+            "quest": "Quais são os métodos mais comuns de desenho para uma colcha de retalhos?"
+          },
+          {
+            "id": "HM056-R13",
+            "quest": "Mostrar as 3 principais fibras usadas no enchimento (camada central) de uma colcha de retalhos."
+          },
+          {
+            "id": "HM056-R14",
+            "quest": "Começar e terminar uma colcha de retalhos, seja como um projeto individual ou em grupo."
+          }
+        ]
+      },
+      {
+        "id": "HM057",
+        "name": "Nautimodelismo",
+        "badge": "null",
+        "level": 2,
+        "year": 1977,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM057-R1",
+            "quest": "Cumprir dois dos itens abaixo:",
+            "options": [
+              "Comprar e montar um kit para barco à vela de 25a 40 centímetros de comprimento e cerca de 4 a 5 centímetros de largura. Manobrar o barco na água durante, pelo menos, dois minutos.",
+              "Construir um barco em miniatura, com motor elétrico, a partir de seu próprio projeto ou de um kit (tamanho: 25 a 45 cm de comprimento) e manobrar o barco durante três a cinco minutos.",
+              "Construir um modelo de 45 a 80 centímetros de comprimento a partir de seu próprio projeto ou de um kit comprado. Instalar um motor de combustão interna 0,029 ou 0,049 e manobrar em uma corrida com duração de cinco minuto. Anotar por escrito as características do modelo e o que você fez para melhorar seu desempenho."
+            ]
+          },
+          {
+            "id": "HM057-R2",
+            "quest": "Identificar e definir as seguintes palavras:",
+            "options": [
+              "Deslocamento",
+              "Centro de gravidade",
+              "Nível de propulsão",
+              "Impulso e suspensão",
+              "Casco simples",
+              "Energia hidráulica",
+              "Proa",
+              "Quilha",
+              "Viga",
+              "Cavitação",
+              "Adernar",
+              "Nivelar",
+              "Draga"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM058",
+        "name": "Trabalhos em Couro Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 1977,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM058-R1",
+            "quest": "Ter a especialidade de Trabalhos em couro."
+          },
+          {
+            "id": "HM058-R2",
+            "quest": "Demonstrar habilidade em fazer furos, colocar fechos, fazer costura em uma sela e fazer 2 tipos de laços."
+          },
+          {
+            "id": "HM058-R3",
+            "quest": "Fazer uma bainha para uma machadinha, faca ou facão."
+          },
+          {
+            "id": "HM058-R4",
+            "quest": "Fazer e esculpir um cinto, criando uma ferramenta adequada para essa atividade."
+          },
+          {
+            "id": "HM058-R5",
+            "quest": "Desenhar, cortar o couro, furar e entrelaçar um dos modelos a seguir:",
+            "options": [
+              "Bolsa",
+              "Sacola",
+              "Pasta",
+              "Objeto de sua escolha"
+            ]
+          },
+          {
+            "id": "HM058-R6",
+            "quest": "Apresentar, pelo menos, 6 objetos em couro feitos por você."
+          }
+        ]
+      },
+      {
+        "id": "HM059",
+        "name": "Gravuras em Vidro",
+        "badge": "null",
+        "level": 2,
+        "year": 1997,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM059-R1",
+            "quest": "Liste as ferramentas e itens necessários para o trabalho de gravura em vidros."
+          },
+          {
+            "id": "HM059-R2",
+            "quest": "Quais são os passos para se fazer uma gravura em vidro?"
+          },
+          {
+            "id": "HM059-R3",
+            "quest": "Qual a técnica utilizada para a gravura aveludada?"
+          },
+          {
+            "id": "HM059-R4",
+            "quest": "Fazer um dos itens a seguir em vidro transparente:",
+            "options": [
+              "Verso bíblico",
+              "Flores, animais ou pessoas"
+            ]
+          },
+          {
+            "id": "HM059-R5",
+            "quest": "Fazer um trabalho em um espelho, com os seguintes itens:",
+            "options": [
+              "Letras, versos, flores, animais ou pessoas",
+              "Concluir o trabalho com enquadramento em torno do espelho com fita adesiva colorida."
+            ]
+          },
+          {
+            "id": "HM059-R6",
+            "quest": "Fazer um projeto em um copo, jarra, ou objeto oval."
+          }
+        ]
+      },
+      {
+        "id": "HM060",
+        "name": "Origami",
+        "badge": "null",
+        "level": 1,
+        "year": 1997,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "HM060-R1",
+            "quest": "Definir o que é um origami. Conhecer sua história e desenvolvimento em diferentes países."
+          },
+          {
+            "id": "HM060-R2",
+            "quest": "Definir quais são os principais usos do origami atualmente e qual a diferença em relação a como era usado no passado."
+          },
+          {
+            "id": "HM060-R3",
+            "quest": "Explicar a importância e utilidade dos diagramas. Conhecer os principais símbolos usados neles."
+          },
+          {
+            "id": "HM060-R4",
+            "quest": "Ser capaz de identificar os seguintes símbolos e executar o movimento correspondente, quando houver:",
+            "options": [
+              "Dobrar nessa direção",
+              "Dobrar e desdobrar",
+              "Dobrar para trás",
+              "Dobrar para dentro",
+              "Linha do vale",
+              "Linha da montanha",
+              "Frente",
+              "Verso",
+              "Vinco",
+              "Segurar aqui",
+              "Soprar",
+              "Abrir",
+              "Dobrar em cima da dobra",
+              "Girar"
+            ]
+          },
+          {
+            "id": "HM060-R5",
+            "quest": "Explicar a importância e utilidade das bases ou formas básicas. Demonstrar as seguintes:",
+            "options": [
+              "Base quadrada",
+              "Base de peixe",
+              "Base de balão",
+              "Base de pássaro",
+              "Base de sapo"
+            ]
+          },
+          {
+            "id": "HM060-R6",
+            "quest": "Dobrar os seguintes modelos a partir de diagramas ou escolher modelos semelhantes:",
+            "options": [
+              "Tsuru",
+              "Cachorro",
+              "Flor",
+              "Cigarra",
+              "Sapo que pula",
+              "Pombo correio",
+              "Barco à vela",
+              "Galinha",
+              "Folha",
+              "Pato",
+              "Borboleta",
+              "Pessoa"
+            ]
+          },
+          {
+            "id": "HM060-R7",
+            "quest": "Dobrar 2 modelos de sua escolha, de memória."
+          },
+          {
+            "id": "HM060-R8",
+            "quest": "Ilustrar uma história da Bíblia usando vários modelos de origami."
+          }
+        ]
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
