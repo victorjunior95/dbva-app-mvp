@@ -3478,6 +3478,691 @@
             "quest": "Ilustrar uma história da Bíblia usando vários modelos de origami."
           }
         ]
+      },
+      {
+        "id": "HM061",
+        "name": "Corrida de Carrinhos de Madeira",
+        "badge": "null",
+        "level": 1,
+        "year": 1999,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM061-R1",
+            "quest": "Mencionar os 4 componentes básicos para se construir um carrinho de madeira para corrida."
+          },
+          {
+            "id": "HM061-R2",
+            "quest": "Construir um carrinho de madeira com os seguintes requisitos como regras:",
+            "options": [
+              "Deverá ser feito durante o ano de atividades do clube de desbravadores.",
+              "A largura do carro não deve ultrapassar 70 mm",
+              "O comprimento do carro não deve ultrapassar 178 mm",
+              "O peso do carro não deve ultrapassar 142 gramas",
+              "A largura entre as rodas deve ser, no máximo, 44 mm",
+              "A altura máxima do carro não deve ultrapassar 10 mm",
+              "Use apenas eixos, rodas e madeiras fornecidas no kit.",
+              "Rolamentos, arruelas e buchas são proibidos."
+            ]
+          },
+          {
+            "id": "HM061-R3",
+            "quest": "Saber usar as seguintes ferramentas com segurança, para a construção do seu projeto.",
+            "options": [
+              "Serra",
+              "Grosa de madeira",
+              "Lixadeira",
+              "Lixa para acabamento",
+              "Plaina",
+              "Martelo",
+              "Formão"
+            ]
+          },
+          {
+            "id": "HM061-R4",
+            "quest": "Conhecer os passos básicos na construção de um carro:",
+            "options": [
+              "Projeto",
+              "Transferência do projeto",
+              "Construção do carro",
+              "Eixos e rodas",
+              "Adicionando peso",
+              "Lubrificação"
+            ]
+          },
+          {
+            "id": "HM061-R5",
+            "quest": "Projetar e construir um carro de madeira para corridas a partir de um kit básico, usando as instruções do kit, ou a partir das instruções do requisito 2."
+          },
+          {
+            "id": "HM061-R6",
+            "quest": "Participar de um evento em seu clube ou região usando o carro que você construiu no item 5."
+          },
+          {
+            "id": "HM061-R7",
+            "quest": "Definir o que é pratica desportiva e aplicar na sua vida como cristão."
+          }
+        ]
+      },
+      {
+        "id": "HM062",
+        "name": "Corrida de Carrinhos de Madeira Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 1999,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM062-R1",
+            "quest": "Ter a especialidade de Corrida de carrinhos de madeira."
+          },
+          {
+            "id": "HM062-R2",
+            "quest": "Conhecer as seguintes regras:",
+            "options": [
+              "Os carros não devem possuir nenhum tipo de mola de fricção",
+              "Não deve haver nenhum outro tipo de peça senão as que compõe o carro",
+              "O número oficial deve estar bem visível."
+            ]
+          },
+          {
+            "id": "HM062-R3",
+            "quest": "Rever o item 3 da especialidade de Corrida de carrinhos de madeira, quanto à segurança no uso das ferramentas."
+          },
+          {
+            "id": "HM062-R4",
+            "quest": "Conhecer as diversas maneiras de preparar e dar acabamento no seu carrinho:",
+            "options": [
+              "Acabamento com lixa de madeira",
+              "Saber como corrigir defeitos da madeira",
+              "Aplicar selador no carrinho",
+              "Pintar",
+              "Acabamento com verniz",
+              "Acabamento com tinta esmaltada",
+              "Tirar manchas da pintura",
+              "Dar acabamento com cera",
+              "Acabamento com tinta acrílica",
+              "Acabamento com tinta a base d’água",
+              "Acabamento em couro",
+              "Decoupage",
+              "Acabamento com folha de alumínio"
+            ]
+          },
+          {
+            "id": "HM062-R5",
+            "quest": "Saber porque o atrito pode afetar de forma positiva ou negativa o desempenho de seu carrinho."
+          },
+          {
+            "id": "HM062-R6",
+            "quest": "Conhecer e aplicar 3 formas de reduzir o atrito em seu carrinho:",
+            "options": [
+              "Manter os eixos lubrificados",
+              "Design aerodinâmico",
+              "Bom acabamento na madeira",
+              "Folga nas rodas e eixos adequados",
+              "Reduzir o balanço das rodas"
+            ]
+          },
+          {
+            "id": "HM062-R7",
+            "quest": "Conhecer as 3 teorias de distribuição de peso e como elas podem afetar o desempenho do seu carrinho."
+          },
+          {
+            "id": "HM062-R8",
+            "quest": "Projetar e construir um carrinho diferente do construído na especialidade de Corrida de carrinhos de madeira, usando um dos seguintes:",
+            "options": [
+              "Usar um kit básico com acabamento exterior",
+              "Usar um kit luxo com acabamento exterior e adesivos",
+              "Usar sua criatividade no acabamento de seu carrinho"
+            ]
+          },
+          {
+            "id": "HM062-R9",
+            "quest": "Ser criativo no seu projeto colocando volante, motorista, adesivos, etc., observando para que não exceda o comprimento máximo nem o peso máximo especificado."
+          },
+          {
+            "id": "HM062-R10",
+            "quest": "Organizar no seu clube, distrito ou região um campeonato de corrida de carrinhos de madeira, utilizando o projeto criado nesta especialidade."
+          },
+          {
+            "id": "HM062-R11",
+            "quest": "Definir desportivismo. Como ele pode e deve ajudar na sua caminhada cristã?"
+          }
+        ]
+      },
+      {
+        "id": "HM063",
+        "name": "Scrapbooking",
+        "badge": "null",
+        "level": 1,
+        "year": 2004,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM063-R1",
+            "quest": "Qual é a utilidade do scrapbook?"
+          },
+          {
+            "id": "HM063-R2",
+            "quest": "O que é journaling?"
+          },
+          {
+            "id": "HM063-R3",
+            "quest": "Quando as fotos devem ser recortadas e por quê?"
+          },
+          {
+            "id": "HM063-R4",
+            "quest": "Quais os diferentes tipos de álbum utilizados para scrapbook?"
+          },
+          {
+            "id": "HM063-R5",
+            "quest": "Por que deve-se utilizar materiais livre de acidez (acid-free)?"
+          },
+          {
+            "id": "HM063-R6",
+            "quest": "Descrever os diferentes tipos de adesivos acid-free disponíveis no mercado."
+          },
+          {
+            "id": "HM063-R7",
+            "quest": "Que ferramenta é utilizada para amolar tesouras e estiletes quando ficam cegos?"
+          },
+          {
+            "id": "HM063-R8",
+            "quest": "Citar 5 tipos diferentes de papéis acid-free utilizados para fazer scrapboking."
+          },
+          {
+            "id": "HM063-R9",
+            "quest": "Fazer um scrapbook de, no mínimo, 5 páginas (20X20 cm ou maior) sobre um dos seguintes temas, utilizando papeis coloridos, adesivos, tesouras decorativas, título e journaling:",
+            "options": [
+              "Ano escolar",
+              "Evento esportivo",
+              "Férias",
+              "Feriados",
+              "Projetos",
+              "Casamento",
+              "Festas de aniversário",
+              "Investidura",
+              "Campori",
+              "Tudo sobre mim (do nascimento até hoje)."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM064",
+        "name": "Scrapbooking Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 2004,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM064-R1",
+            "quest": "Ter a especialidade de Scrapbooking."
+          },
+          {
+            "id": "HM064-R2",
+            "quest": "O que é lignina? Por que ela é prejudicial?"
+          },
+          {
+            "id": "HM064-R3",
+            "quest": "Que tipo de plástico é seguro para ser utilizado em scrapbooks?"
+          },
+          {
+            "id": "HM064-R4",
+            "quest": "Que tipo de plástico não deve ser usado e por que não?"
+          },
+          {
+            "id": "HM064-R5",
+            "quest": "Como corrigir um erro escrito no trabalho final?"
+          },
+          {
+            "id": "HM064-R6",
+            "quest": "Completar um álbum com, no mínimo, 15 páginas (20x20 cm ou maior) usando as técnicas a seguir:",
+            "options": [
+              "Adicionar moldura em fotos",
+              "Adicionar moldura dupla",
+              "Designe de bordas",
+              "Caixa de texto",
+              "Papel colorido",
+              "Papel impresso",
+              "Layout com duas folhas de papel diferentes",
+              "Papel recortado (industrializado)",
+              "Papel recortado (feito por você mesmo)",
+              "Adesivos",
+              "Pockets",
+              "Tesouras decorativas",
+              "Templates",
+              "Fotos cortadas em círculo ou ovais"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM065",
+        "name": "Fotografia Digital",
+        "badge": "null",
+        "level": 2,
+        "year": 2006,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM065-R1",
+            "quest": "Explicar o seguinte:",
+            "options": [
+              "Os princípios de construção e como funciona uma câmera digital",
+              "O efeito da luz sobre o sensor de imagem e quais as principais diferenças entre o CCD e o CMOS",
+              "Como as imagens coloridas são criadas a partir da imagem do sensor? Explicar, ao menos, 2 maneiras pelas quais essa captura e conversão de cores é feita",
+              "O que a lente da câmera faz e o que significa a distância focal"
+            ]
+          },
+          {
+            "id": "HM065-R2",
+            "quest": "Como a abertura do diafragma e a velocidade do obturador estão relacionados?"
+          },
+          {
+            "id": "HM065-R3",
+            "quest": "Descreva e explique a relação entre pixels, resolução e tamanho da imagem."
+          },
+          {
+            "id": "HM065-R4",
+            "quest": "Quais são os dois tipos de compressão de imagem digital?"
+          },
+          {
+            "id": "HM065-R5",
+            "quest": "Nomear e descrever 3 formatos comuns de imagem."
+          },
+          {
+            "id": "HM065-R6",
+            "quest": "Liste os principais usos da fotografia."
+          },
+          {
+            "id": "HM065-R7",
+            "quest": "Tire fotos ilustrando, pelo menos, 8 das seguintes técnicas. Use imagens para ilustração de comparação:",
+            "options": [
+              "Enquadramento",
+              "Estabilidade da câmera",
+              "Direção da iluminação - frontal, lateral ou de fundo",
+              "Qualidade da luz - a luz solar, sombra, e hora do dia",
+              "Regra dos terços",
+              "Ângulo - nível dos olhos, alto e baixo",
+              "Nivelamento horizontal",
+              "Distância do objeto - preencher o quadro",
+              "Utilização de linhas guia",
+              "Exposição de luz – sub exposta, super exposta e corretamente exposta",
+              "Uso do flash - distância adequada e atenção a objetos reflexivos"
+            ]
+          },
+          {
+            "id": "HM065-R8",
+            "quest": "Identificar os vários símbolos e ícones presentes em câmeras digitais amadoras."
+          },
+          {
+            "id": "HM065-R9",
+            "quest": "Cite, ao menos, 3 dos modelos de cartão de memória mais comuns utilizados em câmeras digitais."
+          },
+          {
+            "id": "HM065-R10",
+            "quest": "Demonstrar habilidade na transferência de arquivos entre a câmera e um computador, utilizando cabos e conectores."
+          },
+          {
+            "id": "HM065-R11",
+            "quest": "Aprenda como colocar fotos em algum programa de criação/edição e exibição de apresentações gráficas. Em seguida, crie uma apresentação gráfica, exibindo as fotos e técnicas do requisito anterior."
+          },
+          {
+            "id": "HM065-R12",
+            "quest": "Utilizando um programa de edição em um computador, demonstrar habilidade em cortar, corrigir a cor, nitidez, e ajustar o brilho/contraste de algumas fotos."
+          },
+          {
+            "id": "HM065-R13",
+            "quest": "Complete, pelo menos, 3 projetos de criação fotográfica diferentes em um programa de edição de fotos, tais como uma capa de CD, capa/página de um álbum de fotos personalizado, montagens, página do livro de atos do clube, etc."
+          },
+          {
+            "id": "HM065-R14",
+            "quest": "Compreender as técnicas de organização de arquivos."
+          }
+        ]
+      },
+      {
+        "id": "HM066",
+        "name": "Genealogia",
+        "badge": "null",
+        "level": 3,
+        "year": 2006,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM066-R1",
+            "quest": "Defina as seguintes palavras:",
+            "options": [
+              "Genealogia",
+              "Ascendente",
+              "Descendente",
+              "Cônjuge",
+              "Irmão"
+            ]
+          },
+          {
+            "id": "HM066-R2",
+            "quest": "Leia a genealogia de Cristo:",
+            "options": [
+              "Ser capaz de dizer onde encontrá-la no Novo Testamento.",
+              "Escrever a genealogia de Cristo, iniciando com Adão."
+            ]
+          },
+          {
+            "id": "HM066-R3",
+            "quest": "Enumere cinco maneiras para obter informação da genealogia de uma família."
+          },
+          {
+            "id": "HM066-R4",
+            "quest": "Conheça, pessoalmente ou pela internet, pelo menos três instituições que ajudam com pesquisas genealógicas."
+          },
+          {
+            "id": "HM066-R5",
+            "quest": "Estude quatro passos importantes para pesquisas genealógicas."
+          },
+          {
+            "id": "HM066-R6",
+            "quest": "Qual é o propósito da documentação?"
+          },
+          {
+            "id": "HM066-R7",
+            "quest": "Defina uma fonte primária versus uma fonte secundária para a documentação."
+          },
+          {
+            "id": "HM066-R8",
+            "quest": "Prepare um gráfico da genealogia de sua família contendo quatro gerações, iniciando com você."
+          },
+          {
+            "id": "HM066-R9",
+            "quest": "Liste as maneiras usadas para registrar suas informações genealógicas."
+          },
+          {
+            "id": "HM066-R10",
+            "quest": "Pesquise a história de sua família através de palavras ou escritos com seus familiares mais velhos. Pergunte o seguinte:",
+            "options": [
+              "Qual a sua primeira memória?",
+              "Quando e onde você nasceu?",
+              "Qual a primeira igreja que você lembra ter frequentado?",
+              "Nome de escolas, e localização, que você frequentou?",
+              "Onde você vivia quando tinha dez e quatorze anos de idade?",
+              "De qual país seus ancestrais imigraram?",
+              "Quando e onde você estava quando se casou?",
+              "Se você tiver filhos, por favor, qual o nome deles, local e data de nascimento.",
+              "Escreva um agradecimento a seu parente pelo tempo e inclua uma foto sua e pergunte se eles estariam dispostos a compartilhar a cópia de uma foto antiga com você."
+            ]
+          },
+          {
+            "id": "HM066-R11",
+            "quest": "Faça um histórico de sua vida incluindo:",
+            "options": [
+              "Gráfico genealógico",
+              "Registros que pertençam à sua vida",
+              "Fotografias",
+              "Histórias",
+              "Compartilhe isto com seu grupo, clube e amigos de escola"
+            ]
+          },
+          {
+            "id": "HM066-R12",
+            "quest": "Ter a Cópia de pelo menos 7 registros civis (identidade, certidão de nascimento, casamento, óbito, etc.) de membros da sua família. Obs.: Os seus registros e os dos seus irmãos não contam."
+          },
+          {
+            "id": "HM066-R13",
+            "quest": "Visite um cemitério e leia o que foi copiado sobre a lápide:",
+            "options": [
+              "O nome de três diferentes famílias.",
+              "A data de nascimento e morte dos membros destas famílias.",
+              "A média de tempo de vida dos membros desta família."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM067",
+        "name": "Plástico Canvas",
+        "badge": "null",
+        "level": 1,
+        "year": 2006,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM067-R1",
+            "quest": "O que é plástico canvas?"
+          },
+          {
+            "id": "HM067-R2",
+            "quest": "Citar 4 tipos de plástico canvas e descrever brevemente a utilidade de cada um deles."
+          },
+          {
+            "id": "HM067-R3",
+            "quest": "Quais os tipos de fios mais adequados para bordar no plástico canvas?"
+          },
+          {
+            "id": "HM067-R4",
+            "quest": "Demonstrar como utilizar fios de diferentes espessuras."
+          },
+          {
+            "id": "HM067-R5",
+            "quest": "Qual o tipo de agulha utilizada para trabalhar com plástico canvas? Demonstrar qual tamanho de agulha se adapta a cada tipo de plástico canvas."
+          },
+          {
+            "id": "HM067-R6",
+            "quest": "Que instrumentos são utilizados para cortar o plástico canvas? Como deve ser feito o corte nos trabalhos?"
+          },
+          {
+            "id": "HM067-R7",
+            "quest": "Saber 10 tipos de pontos utilizados em trabalhos com plástico canvas e fazer uma amostra de cada um deles."
+          },
+          {
+            "id": "HM067-R8",
+            "quest": "Fazer 2 dos seguintes itens, utilizando 3 pontos diferentes.",
+            "options": [
+              "Marca páginas",
+              "Ímã de geladeira",
+              "Enfeite de natal",
+              "Moldura para quadro",
+              "Descanso para copos"
+            ]
+          },
+          {
+            "id": "HM067-R9",
+            "quest": "Fazer 1 dos seguintes itens, utilizando, ao menos, 4 pontos diferentes.",
+            "options": [
+              "Caixa",
+              "Tapete",
+              "Bolsa"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM068",
+        "name": "Quilling",
+        "badge": "null",
+        "level": 2,
+        "year": 2006,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM068-R1",
+            "quest": "Listar os materiais necessários para fazer quilling."
+          },
+          {
+            "id": "HM068-R2",
+            "quest": "Listar 3 tipos de papel usados para fazer quilling. Demonstrar para quais técnicas são mais adequados e mencionar suas vantagens e desvantagens."
+          },
+          {
+            "id": "HM068-R3",
+            "quest": "Executar corretamente cada um dos seguintes itens:",
+            "options": [
+              "Círculo apertado",
+              "Círculo solto",
+              "Gota",
+              "Chama",
+              "Folha",
+              "Variação de folha",
+              "Lua crescente",
+              "Quadrado",
+              "Retângulo",
+              "Triângulo",
+              "Orelha de coelho",
+              "Meio círculo",
+              "Seta",
+              "Azevinho"
+            ]
+          },
+          {
+            "id": "HM068-R4",
+            "quest": "Executar corretamente cada um dos seguintes itens:",
+            "options": [
+              "Rolinho aberto",
+              "Coração aberto",
+              "Letra V enrolada",
+              "Letra S enrolada",
+              "Letra C enrolada"
+            ]
+          },
+          {
+            "id": "HM068-R5",
+            "quest": "Fazer um quadro demonstrando todas as formas aprendidas."
+          },
+          {
+            "id": "HM068-R6",
+            "quest": "Fazer um motivo floral simples utilizando, ao menos, 1 dos 3 métodos acima."
+          },
+          {
+            "id": "HM068-R7",
+            "quest": "Fazer um cartão ornamentado com quilling."
+          }
+        ]
+      },
+      {
+        "id": "HM069",
+        "name": "Quilling Avançado",
+        "badge": "null",
+        "level": 1,
+        "year": 2006,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM069-R1",
+            "quest": "Ter a especialidade de Quilling."
+          },
+          {
+            "id": "HM069-R2",
+            "quest": "Executar corretamente cada uma das técnicas a seguir:",
+            "options": [
+              "Flor com franja",
+              "Rolo uva",
+              "Espiral",
+              "Técnica Husking",
+              "Técnica frame",
+              "Rosa dobrada (Curled Flowers)",
+              "Rosa curvada (Folded Roses)",
+              "Rosa espiral (spiral rose)",
+              "Tulipa (duck leg)",
+              "Tiras trançadas (Weaving Paper)"
+            ]
+          },
+          {
+            "id": "HM069-R3",
+            "quest": "Demonstrar como usar corretamente:",
+            "options": [
+              "Gabarito de círculos",
+              "Papel milimetrado",
+              "Gráfico polar"
+            ]
+          },
+          {
+            "id": "HM069-R4",
+            "quest": "Demonstrar como impermeabilizar um trabalho em quilling e mencionar os cuidados para a conservação do trabalho."
+          },
+          {
+            "id": "HM069-R5",
+            "quest": "Fazer 3 formas diferentes mesclando as cores."
+          },
+          {
+            "id": "HM069-R6",
+            "quest": "Fazer uma ferramenta artesanal para quilling e utilizá-la no cumprimento dos requisitos abaixo."
+          },
+          {
+            "id": "HM069-R7",
+            "quest": "Representar 4 dos seguintes animais usando as técnicas de sua preferência:",
+            "options": [
+              "Coelho",
+              "Abelha",
+              "Tucano",
+              "Gato",
+              "Urso",
+              "Cachorro",
+              "Leão",
+              "Cisne",
+              "Borboleta"
+            ]
+          },
+          {
+            "id": "HM069-R8",
+            "quest": "Fazer os seguintes trabalhos em quilling:",
+            "options": [
+              "Cartão",
+              "Personalizar uma capa de caderno",
+              "Decorar a tam pa de uma caixa",
+              "Porta retrato"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM070",
+        "name": "Tie-dye",
+        "badge": "null",
+        "level": 1,
+        "year": 2006,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM070-R1",
+            "quest": "Saber quais são os melhores tipos de materiais para se trabalhar com tie-dye. Saber como prepará-los para se iniciar os trabalhos."
+          },
+          {
+            "id": "HM070-R2",
+            "quest": "Qual a função da soda cáustica no tie-dye? Por quanto tempo o tecido deve ficar de molho?"
+          },
+          {
+            "id": "HM070-R3",
+            "quest": "Saber a função da ureia usada no corante."
+          },
+          {
+            "id": "HM070-R4",
+            "quest": "Quais equipamentos de segurança devem ser usados enquanto se tinge uma peça? Por quê?"
+          },
+          {
+            "id": "HM070-R5",
+            "quest": "Quais são as 3 cores primárias?"
+          },
+          {
+            "id": "HM070-R6",
+            "quest": "Descrever quais cores primárias de corante devem ser misturadas para dar origem às cores secundárias a seguir: laranja, verde e roxo."
+          },
+          {
+            "id": "HM070-R7",
+            "quest": "Descrever o resultado de se misturar 2 cores secundárias."
+          },
+          {
+            "id": "HM070-R8",
+            "quest": "Usando um lenço de tecido e um marcador colorido, demonstrar 2 tipos diferentes de estampa que podem ser feitos em uma camiseta."
+          },
+          {
+            "id": "HM070-R9",
+            "quest": "Depois de ver os resultados de diferentes combinações de cores no tecido, amarrar e tingir uma das seguintes peças: bandana, camiseta, capa de almofada, etc. Lembrar-se que não há 2 colorações idênticas, cada uma será única."
+          },
+          {
+            "id": "HM070-R10",
+            "quest": "Demonstrar os itens tingidos ao seu instrutor."
+          }
+        ]
       }
     ]
   }
@@ -3549,294 +4234,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
- 
- 
-
- 
- 
-
-
- 
- 
-
- 
- 
-
-
-
- 
- 
-
- 
- 
-
- 
- 
 
 
 
