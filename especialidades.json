@@ -4163,125 +4163,596 @@
             "quest": "Demonstrar os itens tingidos ao seu instrutor."
           }
         ]
+      },
+      {
+        "id": "HM071",
+        "name": "Apitos",
+        "badge": "null",
+        "level": 1,
+        "year": 2007,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM071-R1",
+            "quest": "Relatar brevemente a história dos apitos e dizer por que eles foram inventados."
+          },
+          {
+            "id": "HM071-R2",
+            "quest": "Explicar a importância da conservação ambiental durante a fabricação de um apito"
+          },
+          {
+            "id": "HM071-R3",
+            "quest": "Relacionar o uso sustentável de madeiras protegidas pela lei e a fabricação de apitos."
+          },
+          {
+            "id": "HM071-R4",
+            "quest": "Listar cinco árvores de onde podem ser tiradas boas madeiras para a fabricação de um apito e por que."
+          },
+          {
+            "id": "HM071-R5",
+            "quest": "Fazer uma breve descrição sobre os seguintes estilos de apitos:",
+            "options": [
+              "Apitos de tubo",
+              "Flauta pan",
+              "Flauta",
+              "Pífaro."
+            ]
+          },
+          {
+            "id": "HM071-R6",
+            "quest": "Nomear 5 tipos de apitos modernos e seus usos."
+          },
+          {
+            "id": "HM071-R7",
+            "quest": "Qual instrumento musical moderno é um apito sofisticado?"
+          },
+          {
+            "id": "HM071-R8",
+            "quest": "Como um apito funciona?"
+          },
+          {
+            "id": "HM071-R9",
+            "quest": "Qual o equipamento mais comum usado para a fabricação de apitos?"
+          },
+          {
+            "id": "HM071-R10",
+            "quest": "Explicar a importância da grã da madeira ao talhar um apito."
+          },
+          {
+            "id": "HM071-R11",
+            "quest": "Por que o tamanho dos buracos e da câmara de ar têm que ser proporcionais ao fluxo de ar?"
+          },
+          {
+            "id": "HM071-R12",
+            "quest": "Como afinar um apito?"
+          },
+          {
+            "id": "HM071-R13",
+            "quest": "Demonstrar como apitar usando as duas mãos e um pedaço de grama."
+          },
+          {
+            "id": "HM071-R14",
+            "quest": "Demonstrar a técnica e assobiar usando apenas as mãos."
+          },
+          {
+            "id": "HM071-R15",
+            "quest": "Revisar e demonstrar os primeiros socorros e as regras de segurança para o uso de uma faca ou canivete."
+          },
+          {
+            "id": "HM071-R16",
+            "quest": "Saber como afiar um canivete usando uma pedra de amolar."
+          },
+          {
+            "id": "HM071-R17",
+            "quest": "Faça dois dos seguintes apitos:",
+            "options": [
+              "Flauta pan ou apito de tubo",
+              "Flauta",
+              "Pífaro"
+            ]
+          },
+          {
+            "id": "HM071-R18",
+            "quest": "Aprender como tocar uma música simples em algum apito que você fabricou."
+          }
+        ]
+      },
+      {
+        "id": "HM072",
+        "name": "Apitos Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 2007,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM072-R1",
+            "quest": "Ter a especialidade de Apitos."
+          },
+          {
+            "id": "HM072-R2",
+            "quest": "O que é um apito de êmbolo e quem criou este tipo de apito?"
+          },
+          {
+            "id": "HM072-R3",
+            "quest": "O que acontece quando o galho para fabricação com apito de êmbolo é muito grande ou muito pequeno?"
+          },
+          {
+            "id": "HM072-R4",
+            "quest": "O que é uma flauta doce?"
+          },
+          {
+            "id": "HM072-R5",
+            "quest": "Fazer os seguintes apitos:",
+            "options": [
+              "Apito de êmbolo",
+              "Flauta doce"
+            ]
+          },
+          {
+            "id": "HM072-R6",
+            "quest": "Demonstrar sua habilidade no uso correto de cada um dos apitos que você fabricou."
+          }
+        ]
+      },
+      {
+        "id": "HM073",
+        "name": "Faróis",
+        "badge": "null",
+        "level": 1,
+        "year": 2007,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM073-R1",
+            "quest": "Responda as seguintes questões relacionadas a faróis:",
+            "options": [
+              "Qual a função de um farol?",
+              "Quais os primeiros faróis construídos de que se tem registro?",
+              "Qual o nome do farol mais famoso do mundo antigo?",
+              "Como é chamada a pessoa que estuda faróis?",
+              "Todos os faróis têm um zelador? Se não, como eles funcionam de forma autônoma?"
+            ]
+          },
+          {
+            "id": "HM073-R2",
+            "quest": "Faça uma pesquisa sobre a estrutura e funcionamento das lentes de Fresnel e explique por que são tão eficazes."
+          },
+          {
+            "id": "HM073-R3",
+            "quest": "Quais combustíveis têm sido usados em faróis no decorrer da história?"
+          },
+          {
+            "id": "HM073-R4",
+            "quest": "Todos os faróis ficam localizados próximos das costas oceânicas? Se não, liste outras localidades onde os faróis podem ser encontrados."
+          },
+          {
+            "id": "HM073-R5",
+            "quest": "Como é chamado o indivíduo que trabalha em faróis no seu país? Qual órgão do governo é responsável pela manutenção e fiscalização dos faróis em seu país?"
+          },
+          {
+            "id": "HM073-R6",
+            "quest": "Os faróis que são visíveis no mar durante o dia possuem uma pintura específica em sua construção. Como essa pintura é chamada?"
+          },
+          {
+            "id": "HM073-R7",
+            "quest": "O que é um dispositivo de aviso sonoro de nevoeiro? Por que são usados em faróis? Quais são as 3 coisas que interferem em quão longe o aviso sonoro pode ser ouvido?"
+          },
+          {
+            "id": "HM073-R8",
+            "quest": "Uma vez que os faróis são comumente identificados por uma luz, pesquise o significado de Luz na Bíblia completando o seguinte:",
+            "options": [
+              "Encontre o tema 'Luz' numa concordância bíblica, leia os textos relacionados e participe de uma discussão sobre o significado da luz na Bíblia",
+              "Explique por que a palavra de Deus pode ser comparada a um farol",
+              "Memorize e explique o significado de João 8:12"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM074",
+        "name": "Faróis Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 2007,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM074-R1",
+            "quest": "Ter a especialidade de Faróis."
+          },
+          {
+            "id": "HM074-R2",
+            "quest": "Fazer um scrapbook, incluindo o seguinte:",
+            "options": [
+              "Fotos, impressões, cartões postais ou desenhos de 25 faróis com uma legenda contendo a localização, ano de construção, se ativo ou não ativo e a ordem das lentes. Pelo menos 5 das fotos devem ser tiradas por você.",
+              "Um resumo da história de cada um dos faróis.",
+              "Desenhos, fotos e as respostas de todos os requisitos desta especialidade."
+            ]
+          },
+          {
+            "id": "HM074-R3",
+            "quest": "Qual o nome do inventor da lente de Fresnel? Em que país e ano ela foi desenvolvida?"
+          },
+          {
+            "id": "HM074-R4",
+            "quest": "Demonstrar em um desenho:",
+            "options": [
+              "Como os prismas das lentes de Fresnel são usados para concentrar a luz",
+              "O formato de uma lente olho de boi e descrever o seu propósito"
+            ]
+          },
+          {
+            "id": "HM074-R5",
+            "quest": "Fazer um gráfico listando todos os tipos de lente de Fresnel, indicando:",
+            "options": [
+              "Ordem e classificação por tamanho",
+              "O nome de, pelo menos, 1 farol que usa cada tipo de lente"
+            ]
+          },
+          {
+            "id": "HM074-R6",
+            "quest": "Pesquise e descreva a história do mecanismo de rotação das lâmpadas."
+          },
+          {
+            "id": "HM074-R7",
+            "quest": "Faça uma representação gráfica de 6 faróis, demonstrando as características de sua Luz noturna e diurna."
+          },
+          {
+            "id": "HM074-R8",
+            "quest": "O que é um barco-farol? Por que e quando um barco farol é necessário?"
+          },
+          {
+            "id": "HM074-R9",
+            "quest": "Leia sobre faroleiros e liste alguns dos perigos que eles enfrentam para cumprir suas tarefas."
+          },
+          {
+            "id": "HM074-R10",
+            "quest": "Procure citações de Ellen White que mencionem faróis e participe de uma discussão em grupo sobre o significado desses textos. Inclua uma cópia dessas citações no scrapbook que você criou o requisito 2."
+          },
+          {
+            "id": "HM074-R11",
+            "quest": "Construa um modelo em miniatura de um farol verdadeiro, feito em madeira ou outro material resistente. Saiba o nome, localidade e a data em que o verdadeiro farol foi originalmente construído."
+          }
+        ]
+      },
+      {
+        "id": "HM075",
+        "name": "Balões de Ar Quente",
+        "badge": "null",
+        "level": 2,
+        "year": 2008,
+        "originatingInstitution": "Divisão Norte Americana",
+        "requirements": [
+          {
+            "id": "HM075-R1",
+            "quest": "Descreva o papel que cada uma das personalidades abaixo teve no desenvolvimento de balões voadores:",
+            "options": [
+              "Joseph Michel Montgolfier e Jacques-Etienne Montgolfier",
+              "Jean Francois Pilatre de Rozier e Francois Laurent Marquis d’Arlandes",
+              "Jacques Alexandre Cesar Charles e Nicolas Louis Robert",
+              "Ben L. Abruzzo, Maxie L. Anderson e Larry Newman",
+              "Bertrand Piccard e Brian Jones",
+              "(Os brasileiros) padre Bartolomeu de Gusmão e Alberto Santos Dumont"
+            ]
+          },
+          {
+            "id": "HM075-R2",
+            "quest": "Cite o princípio de Arquimedes e descreva sucintamente como esse princípio se aplica às seguintes situações:",
+            "options": [
+              "Um pedaço de cortiça flutuando num recipiente com água",
+              "Um barco flutuando no oceano",
+              "Um balão de ar quente flutuando na atmosfera"
+            ]
+          },
+          {
+            "id": "HM075-R3",
+            "quest": "Desenhar uma tabela que demonstre a composição do ar com informações de peso e volume."
+          },
+          {
+            "id": "HM075-R4",
+            "quest": "Desenhar uma tabela que demonstre a comparação do número atômico, peso atômico e densidade dos componentes:",
+            "options": [
+              "Hidrogênio",
+              "Hélio",
+              "Oxigênio"
+            ]
+          },
+          {
+            "id": "HM075-R5",
+            "quest": "Cite os 2 gases que são usados em balões a gás."
+          },
+          {
+            "id": "HM075-R6",
+            "quest": "Explique como calor/temperatura afetam a densidade do ar e como isso faz com que os balões de ar quente voem."
+          },
+          {
+            "id": "HM075-R7",
+            "quest": "Explique o a função de cada um dos itens abaixo na estrutura e no vôo de um balão de ar quente:",
+            "options": [
+              "Envelope de balão",
+              "Maçarico",
+              "Cesto",
+              "Cilindro",
+              "Ventoinha"
+            ]
+          },
+          {
+            "id": "HM075-R8",
+            "quest": "Cite 2 materiais que podem ser usados na confecção do envelope de um balão de ar quente e compare as vantagens e desvantagens entre eles, devido a suas propriedades físicas."
+          },
+          {
+            "id": "HM075-R9",
+            "quest": "Descreva como balões voadores foram úteis em:",
+            "options": [
+              "Campanhas militares",
+              "Pesquisas científicas"
+            ]
+          },
+          {
+            "id": "HM075-R10",
+            "quest": "A que horas do dia costumam acontecer os voos de balões esportivos? Explique o porquê."
+          },
+          {
+            "id": "HM075-R11",
+            "quest": "Descreva como o piloto controla os movimentos verticais dos seguintes balões:",
+            "options": [
+              "Balão de ar quente",
+              "Balão a gás"
+            ]
+          },
+          {
+            "id": "HM075-R12",
+            "quest": "Descreva como o piloto controla os movimentos horizontais de um balão."
+          },
+          {
+            "id": "HM075-R13",
+            "quest": "Faça uma pesquisa de, no mínimo, 250 palavras sobre a legislação para balões não tripulados em seu país."
+          }
+        ]
+      },
+      {
+        "id": "HM076",
+        "name": "Origami Avançado",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM076-R1",
+            "quest": "Ter a especialidade de Origami."
+          },
+          {
+            "id": "HM076-R2",
+            "quest": "Definir quais os são os principais tipos de origami e a diferença entre eles."
+          },
+          {
+            "id": "HM076-R3",
+            "quest": "Dobrar 2 origamis diferentes pra cada uma das categorias a seguir:",
+            "options": [
+              "Origami Modular",
+              "Kusudama",
+              "Block Folding",
+              "Origami Tesselation"
+            ]
+          },
+          {
+            "id": "HM076-R4",
+            "quest": "Definir o que é Crease Pattern e como se dobra um origami a partir dele."
+          },
+          {
+            "id": "HM076-R5",
+            "quest": "Organizar uma exposição com os seus origamis e oferecer uma oficina básica de origami para o seu Clube ou Igreja."
+          }
+        ]
+      },
+      {
+        "id": "HM077",
+        "name": "Embalagem",
+        "badge": "null",
+        "level": 1,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM077-R1",
+            "quest": "Quando, onde e como surgiram as primeiras ideias a respeito de embalagem?"
+          },
+          {
+            "id": "HM077-R2",
+            "quest": "Defina o que é embalagem? Cite algumas matérias-primas que podemos usar para se fazer uma embalagem bonita e criativa?"
+          },
+          {
+            "id": "HM077-R3",
+            "quest": "Qual a importância da embalagem para a nossa vida cotidiana?"
+          },
+          {
+            "id": "HM077-R4",
+            "quest": "O que é reciclagem? Como a embalagem se relaciona com a reciclagem?"
+          },
+          {
+            "id": "HM077-R5",
+            "quest": "Cite alguns equipamentos necessários para uma boa embalagem?"
+          },
+          {
+            "id": "HM077-R6",
+            "quest": "Fazer três embalagens com os objetos a seguir, usando métodos e formas diferentes para cada um:",
+            "options": [
+              "Papel Cartão, Jornal, Presente, Misto, Laminado, etc.",
+              "Papelão",
+              "Plástico",
+              "TNT",
+              "Tecido",
+              "Couro",
+              "Material de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM078",
+        "name": "E.V.A.",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM078-R1",
+            "quest": "O que é E.V.A.?"
+          },
+          {
+            "id": "HM078-R2",
+            "quest": "Quais são as principais características e utilidades do E.V.A.?"
+          },
+          {
+            "id": "HM078-R3",
+            "quest": "Quais os materiais utilizados para cortar e colar E.V.A.?"
+          },
+          {
+            "id": "HM078-R4",
+            "quest": "Qual ferramenta é mais adequada para se desenhar em um E.V.A.?"
+          },
+          {
+            "id": "HM078-R5",
+            "quest": "Explicar qual o procedimento de transferir moldes para o E.V.A."
+          },
+          {
+            "id": "HM078-R6",
+            "quest": "Quais são as vantagens e desvantagens que o E.V.A. pode trazer para o meio ambiente?"
+          },
+          {
+            "id": "HM078-R7",
+            "quest": "Fazer 3 objetos confeccionados com E.V.A. e utilizá-los em algum departamento da igreja."
+          },
+          {
+            "id": "HM078-R8",
+            "quest": "Escolher e fazer uma sugestão citada abaixo diferente da questão anterior, fazendo a junção do E.V.A. com um material reciclável:",
+            "options": [
+              "Flor ornamental",
+              "Porta canetas",
+              "Capa para livros",
+              "Imã de geladeira",
+              "Porta toalhas",
+              "Chaveiro",
+              "Porta retrato",
+              "Objeto de sua escolha"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM079",
+        "name": "Desenho Vetorial",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM079-R1",
+            "quest": "O que é desenho vetorial?"
+          },
+          {
+            "id": "HM079-R2",
+            "quest": "Cite 3 programas especializados em desenho vetorial."
+          },
+          {
+            "id": "HM079-R3",
+            "quest": "Cite os 5 formatos mais comuns de imagens vetoriais."
+          },
+          {
+            "id": "HM079-R4",
+            "quest": "Quais as diferenças entre desenho vetorial e raster?"
+          },
+          {
+            "id": "HM079-R5",
+            "quest": "Explique como o desenho vetorial pode manter a qualidade quando ampliado."
+          },
+          {
+            "id": "HM079-R6",
+            "quest": "O que é Curva de Bézier? Qual sua importância para a estrutura de desenho vetorial?"
+          },
+          {
+            "id": "HM079-R7",
+            "quest": "Quais as principais diferenças entre um editor de imagem bitmaps e um editor de imagem vetorial? Cite 2 exemplos de cada tipo de editor."
+          },
+          {
+            "id": "HM079-R8",
+            "quest": "Escolher um programa de desenho vetorial, explicar o porquê de tê-lo escolhido e, em seguida, demonstrar ao seu instrutor:",
+            "options": [
+              "5 ou mais atalhos de mouse e/ou teclado, dentro do programa escolhido",
+              "Apresentar e demonstrar o uso de, pelo menos, 20 ferramentas diferentes."
+            ]
+          },
+          {
+            "id": "HM079-R9",
+            "quest": "Completar os seguintes desenhos:",
+            "options": [
+              "O emblema Dl do Clube de Desbravadores, mostrando o uso de linhas guia e régua",
+              "Um desenho de sua escolha, mostrando o uso da ferramenta 'mãos livres'",
+              "Um animal, mostrando o uso de detalhes",
+              "Um banner, faixa ou cartaz de divulgação de algum evento de seu Clube ou Igreja",
+              "Transformar uma foto de um rosto em um desenho vetorial, utilizando as ferramentas necessárias como rastreador de bitmap, filtro de transparência, etc."
+            ]
+          },
+          {
+            "id": "HM079-R10",
+            "quest": "Submeter os desenhos feitos no cumprimento dessa especialidade à avaliação de profissionais da área, visitando um especialista, ou publicando os trabalhos em uma rede social ou fórum especializado. Após o cumprimento da atividade, apresentar a seu instrutor os comentários, avaliações e propostas feitas pelos profissionais de alteração em seu desenho."
+          }
+        ]
+      },
+      {
+        "id": "HM080",
+        "name": "Fuxico",
+        "badge": "null",
+        "level": 1,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM080-R1",
+            "quest": "Defina o que é fuxico? Qual a origem desta arte?"
+          },
+          {
+            "id": "HM080-R2",
+            "quest": "Qual o principal objetivo da arte do fuxico?"
+          },
+          {
+            "id": "HM080-R3",
+            "quest": "Explique as etapas da técnica do fuxico."
+          },
+          {
+            "id": "HM080-R4",
+            "quest": "Que materiais e equipamentos são necessários para a realização do fuxico?"
+          },
+          {
+            "id": "HM080-R5",
+            "quest": "Demonstrar e exemplificar as seguintes bases do fuxico?",
+            "options": [
+              "Base Tradicional",
+              "Base de Bico",
+              "Base Invertida"
+            ]
+          },
+          {
+            "id": "HM080-R6",
+            "quest": "Escolher 2 dos objetos a seguir, colocando em prática as bases citadas no item 5 desta especialidade:",
+            "options": [
+              "Elástico para cabelo ou presilha",
+              "Tapete",
+              "Chaveiro",
+              "Imã de geladeira",
+              "Bolsa",
+              "Chinelo ou sandália",
+              "Objeto de sua escolha"
+            ]
+          }
+        ]
       }
     ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
