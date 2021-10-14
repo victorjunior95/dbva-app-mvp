@@ -4750,9 +4750,495 @@
             ]
           }
         ]
+      },
+      {
+        "id": "HM081",
+        "name": "História em Quadrinhos",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM081-R1",
+            "quest": "Escrever um relatório sobre história em quadrinhos, contendo seus principais fatos históricos, características e personagens, explicando porque ela é considerada a Nona Arte."
+          },
+          {
+            "id": "HM081-R2",
+            "quest": "O que é uma tirin ha/tira?"
+          },
+          {
+            "id": "HM081-R3",
+            "quest": "Descrever como elaborar um roteiro de uma história para HQ, citando e explicando quais seus principais passos e técnicas."
+          },
+          {
+            "id": "HM081-R4",
+            "quest": "Montar um banco de imagens mostrando, no mínimo, 5 diferentes estudos e/ou traços de anatomia das personagens. Escolher um deles para apresentar uma série de diferentes posições desenhadas por você mesmo, utilizando personagens masculinos e femininos."
+          },
+          {
+            "id": "HM081-R5",
+            "quest": "Explicar e dar exemplos desenhados a próprio punho dos seguintes itens:",
+            "options": [
+              "Pré-produção, produção e pós-produção.",
+              "Composição: design de página, quadro, cena, adequação narrativa.",
+              "Elementos gráficos de texto: recordatórios, balões, onomatopeias, 'letreiramento', tipologia.",
+              "Arte-final: tradicional, tratamentos especiais, técnicas mistas."
+            ]
+          },
+          {
+            "id": "HM081-R6",
+            "quest": "Criar uma personagem que será um dos 12 discípulos e escrever uma história de, pelo menos, 30 quadros sobre sua viagem missionária."
+          },
+          {
+            "id": "HM081-R7",
+            "quest": "Montar uma HQ contando a história da Turma do Nosso Amiguinho, contendo autor, personagens e outras informações pertinentes."
+          },
+          {
+            "id": "HM081-R8",
+            "quest": "Desenhar uma tirinha sobre um fato engraçado ocorrido no seu Clube ou unidade."
+          },
+          {
+            "id": "HM081-R9",
+            "quest": "Criar uma capa colorida em tamanho A3 na linguagem HQ para o livro missionário do ano."
+          }
+        ]
+      },
+      {
+        "id": "HM082",
+        "name": "Ornamentação",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM082-R1",
+            "quest": "Debater com o seu grupo sobre a importância de ornamentar ambientes onde serão realizados eventos especiais e como esse costume se relaciona com a valorização das pessoas convidadas para a programação."
+          },
+          {
+            "id": "HM082-R2",
+            "quest": "Listar e explicar as várias formas de utilizar em ornamentação os seguintes itens:",
+            "options": [
+              "5 espécies de plantas ornamentais",
+              "3 maneiras diferentes de expor fotografias do Clube",
+              "5 diferentes tipos de artesanato/habilidades que podem ser feitos pelo Clube",
+              "5 coleções distintas",
+              "Banners e painéis",
+              "4 diferentes modelos de balões (bexigas)",
+              "Tecidos, TNT, emborrachados, etc."
+            ]
+          },
+          {
+            "id": "HM082-R3",
+            "quest": "Durante o cumprimento desta especialidade, observar, ao menos, 5 ornamentações em programações promovidas por diferentes departamentos de sua Igreja ou Campo. Apresentar ao seu instrutor um relatório de suas observações (se possível, com fotografias), analisando os pontos positivos e negativos de cada uma e como poderiam ser melhoradas."
+          },
+          {
+            "id": "HM082-R4",
+            "quest": "Ter um caderno com desenhos de ornamentação. Para cada desenho, fazer uma lista de todos os materiais necessários, orçamento, tempo estimado, etc. O caderno deverá ter, ao menos, 7 dos seguintes motivos de orna mentação:",
+            "options": [
+              "Em sua Igreja - Programa regular, noturno, realizado pelos desbravadores",
+              "Em sua Igreja - Programa especial de investidura",
+              "Em sua Igreja - Batismo de desbravadores",
+              "Em sua Igreja - Patriótico (independência, bandeira, etc.)",
+              "Em sua Igreja - Dia dos Desbravadores",
+              "Na sede (escola, ginásio, etc.) do seu Clube - Programa de abertura do ano letivo",
+              "Na sede (escola, ginásio, etc.) do seu Clube - Gincana ou dia esportivo",
+              "Na sede (escola, ginásio, etc.) do seu Clube - Programa de recepção dos pais",
+              "Na sede (escola, ginásio, etc.) do seu Clube - Programa pré-acampamento",
+              "Na sede (escola, ginásio, etc.) do seu Clube - Um programa/evento de sua escolha, aprovado pelo instrutor"
+            ]
+          },
+          {
+            "id": "HM082-R5",
+            "quest": "Realizar, ao menos, 4 das ornamentações contidas no caderno de desenhos pedido no requisito anterior. Apresentar fotografias dessas ornamentações ao instrutor. Informar quais as possíveis diferenças entre o projeto de desenho e a ornamentação real e os motivos dessa ocorrência."
+          }
+        ]
+      },
+      {
+        "id": "HM083",
+        "name": "Papercraft",
+        "badge": "null",
+        "level": 1,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM083-R1",
+            "quest": "Definir papercraft ou papel modelismo."
+          },
+          {
+            "id": "HM083-R2",
+            "quest": "Listar, ao menos, 5 modalidades de papercraft."
+          },
+          {
+            "id": "HM083-R3",
+            "quest": "Quais são os materiais necessários para fazer os modelos de papel?"
+          },
+          {
+            "id": "HM083-R4",
+            "quest": "Quais são as gramaturas mais indicadas para imprimir/desenhar os modelos? Por que papel couchê ou fotográfico não devem ser utilizados?"
+          },
+          {
+            "id": "HM083-R5",
+            "quest": "Quais são os melhores tipos de impressora/estilo de impressão para que os modelos tenham alta qualidade?"
+          },
+          {
+            "id": "HM083-R6",
+            "quest": "Definir os seguintes termos:",
+            "options": [
+              "Tabs ou flaps",
+              "Fold lines",
+              "Laminação"
+            ]
+          },
+          {
+            "id": "HM083-R7",
+            "quest": "Construir um personagem bíblico em forma de cubos, fazendo seu próprio desenho."
+          },
+          {
+            "id": "HM083-R8",
+            "quest": "Construir 2 dos modelos a seguir:",
+            "options": [
+              "Meio de transporte (carro, avião, navio, etc.)",
+              "Construção (casa, prédio, ponte, etc.)",
+              "Animal",
+              "Pessoa ou personagem",
+              "Instrumentos musicais"
+            ]
+          },
+          {
+            "id": "HM083-R9",
+            "quest": "Construir um cenário bíblico ou um cenário para um história/estória com fundo moral (pode ser de criação sua ou adquirido em revistas ou na internet). Utilizar os modelos para apresentar um devocional para sua unidade ou classe da escola sabatina."
+          }
+        ]
+      },
+      {
+        "id": "HM084",
+        "name": "Papel Machê",
+        "badge": "null",
+        "level": 1,
+        "year": 0,
+        "originatingInstitution": "Divisão Centro-Oeste Africana",
+        "requirements": [
+          {
+            "id": "HM084-R1",
+            "quest": "Defina o que é a técnica do papel maché, onde teve origem essa arte."
+          },
+          {
+            "id": "HM084-R2",
+            "quest": "O que é Papietagem? Como a papietagem se relaciona ao papel machê?"
+          },
+          {
+            "id": "HM084-R3",
+            "quest": "Dê o nome de algumas bases que podem ser feitas no papel machê."
+          },
+          {
+            "id": "HM084-R4",
+            "quest": "Cite 2 tipos de papel machê e saber como prepará-los."
+          },
+          {
+            "id": "HM084-R5",
+            "quest": "Saber quais ingredientes são utilizados para a fabricação do papel machê."
+          },
+          {
+            "id": "HM084-R6",
+            "quest": "Como conservar a massa e a polpa do papel machê?"
+          },
+          {
+            "id": "HM084-R7",
+            "quest": "Que materiais são utilizados para dar formas aos objetos feitos com papel machê?"
+          },
+          {
+            "id": "HM084-R8",
+            "quest": "Observação: As fabricações feitas devem ser acompanhadas por um instrutor. Fazer 2 objetos usando as técnicas do papel machê. Pintar e envernizar os mesmos."
+          }
+        ]
+      },
+      {
+        "id": "HM085",
+        "name": "Pirografia",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM085-R1",
+            "quest": "Definir o que é pirografia. Qual a origem dessa arte milenar?"
+          },
+          {
+            "id": "HM085-R2",
+            "quest": "Que ferramentas e equipamentos são necessários para a pirografia?"
+          },
+          {
+            "id": "HM085-R3",
+            "quest": "Descrever, passo a passo, os procedimentos adequados para trabalhos em pirografia."
+          },
+          {
+            "id": "HM085-R4",
+            "quest": "Citar 2 materiais onde a técnica da pirog rafia pode ser usada."
+          },
+          {
+            "id": "HM085-R5",
+            "quest": "Explicar como a temperatura pode influenciar no bom andamento do trabalho na pirografia."
+          },
+          {
+            "id": "HM085-R6",
+            "quest": "Que cuidados e precauções devem ser tomados ao trabalhar com pirografia?"
+          },
+          {
+            "id": "HM085-R7",
+            "quest": "Fazer um desenho para cada uma das áreas abaixo, em qualquer material de sua escolha:",
+            "options": [
+              "Animal",
+              "Flor",
+              "Paisagem"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM086",
+        "name": "Plastimodelismo",
+        "badge": "null",
+        "level": 3,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM086-R1",
+            "quest": "Saber explicar e seguir um mapa de montagem de um kit de plastimodelismo."
+          },
+          {
+            "id": "HM086-R2",
+            "quest": "Escolher e montar um kit de plastimodelismo. Ex: aviões, navios, carros, etc. Esse kit não poderá ser usado em outras especialidades de modelismo (ferreomodelismo, automodelismo, etc.)."
+          },
+          {
+            "id": "HM086-R3",
+            "quest": "Saber usar ferramentas para auxílio na montagem de um kit (lixas, pinças, lupas, pincéis apropriados, colas, etc.)."
+          },
+          {
+            "id": "HM086-R4",
+            "quest": "Colorir corretamente seu modelo, segundo o padrão original ou cores indicadas pelo fabricante."
+          },
+          {
+            "id": "HM086-R5",
+            "quest": "Saber adesivar corretamente seu kit."
+          },
+          {
+            "id": "HM086-R6",
+            "quest": "Faça uma pesquisa sobre o original do modelo que montou, responda o seguinte:",
+            "options": [
+              "Ano em que o original foi fabricado",
+              "País fabricante ou originário",
+              "Usos principais do veículo e história",
+              "Curiosidades, se houver",
+              "Significado das cores e símbolos, se houver"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "HM087",
+        "name": "Violão",
+        "badge": "null",
+        "level": 2,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM087-R1",
+            "quest": "Pesquisar sobre a história do violão e como ele chegou ao seu país?"
+          },
+          {
+            "id": "HM087-R2",
+            "quest": "Saber as diferenças entre melodia, harmonia e ritmo."
+          },
+          {
+            "id": "HM087-R3",
+            "quest": "Diferenciar 3 tipos de violão, conforme cada grupo abaixo:",
+            "options": [
+              "Acústicos",
+              "Elétricos",
+              "Mais de 6 cordas"
+            ]
+          },
+          {
+            "id": "HM087-R4",
+            "quest": "Conhecer as 3 divisões do violão e identificar 15 diferentes partes, explicando a função de cada uma."
+          },
+          {
+            "id": "HM087-R5",
+            "quest": "Qual a postura correta para a prática do violão? Qual a importância de manter essa postura?"
+          },
+          {
+            "id": "HM087-R6",
+            "quest": "Saber os nomes dos dedos, cordas e posição das mãos."
+          },
+          {
+            "id": "HM087-R7",
+            "quest": "O que são cifras e como são construídas? Escrever, de memória, uma lista contendo todos os acordes maiores e menores e suas determinadas cifras."
+          },
+          {
+            "id": "HM087-R8",
+            "quest": "Os que são bemol e sustenido? Qual a diferença entre eles e como são representados em cifra?"
+          },
+          {
+            "id": "HM087-R9",
+            "quest": "Explicar o que são acordes. Demonstrar habilidade em executar de memória os acordes maiores e menores."
+          },
+          {
+            "id": "HM087-R10",
+            "quest": "Definir a diferença entre cordas de náilon e aço e explicar a sua preferência por uma delas."
+          },
+          {
+            "id": "HM087-R11",
+            "quest": "Executar uma música utilizando uma técnica de batida e outra utilizando um dedilhado."
+          },
+          {
+            "id": "HM087-R12",
+            "quest": "Selecionar 3 músicas adventistas de cifras simples e tocá-las em uma reunião oficial do Clube ou unidade."
+          }
+        ]
+      },
+      {
+        "id": "HM088",
+        "name": "Violão Avançado",
+        "badge": "null",
+        "level": 3,
+        "year": 2012,
+        "originatingInstitution": "Divisão Sul Americana",
+        "requirements": [
+          {
+            "id": "HM088-R1",
+            "quest": "Ter a especialidade de Violão."
+          },
+          {
+            "id": "HM088-R2",
+            "quest": "Explique o que são e como são formadas as tríades."
+          },
+          {
+            "id": "HM088-R3",
+            "quest": "Saber montar notas derivadas a partir das tríades das notas maiores."
+          },
+          {
+            "id": "HM088-R4",
+            "quest": "Explicar como realizar 2 diferentes métodos de afinação de violões."
+          },
+          {
+            "id": "HM088-R5",
+            "quest": "O que é tablatura e como se lê uma?"
+          },
+          {
+            "id": "HM088-R6",
+            "quest": "Identificar os seguintes sinais utilizados em cifras:",
+            "options": [
+              "#",
+              "B",
+              "6, 7, etc.",
+              "9m, 7m, etc.",
+              "5+, 11+, etc.",
+              "dim (º)"
+            ]
+          },
+          {
+            "id": "HM088-R7",
+            "quest": "Escolher 5 músicas do hinário que apresentem sinais do requisito anterior e tocá-las em um culto, reunião do Clube ou unidade, pequeno grupo ou JA."
+          },
+          {
+            "id": "HM088-R8",
+            "quest": "Demonstrar como subir o tom (fazer a transposição de tonalidade) de uma música para adaptá-la ao alcance vocal do cantor."
+          },
+          {
+            "id": "HM088-R9",
+            "quest": "Por que não existem as cifras Mi# e Si#?"
+          },
+          {
+            "id": "HM088-R10",
+            "quest": "O que são e qual a diferença entre acordes consonantes e dissonantes?"
+          },
+          {
+            "id": "HM088-R11",
+            "quest": "Conhecer, pelo menos, 2 escalas para solo (ex. pentatônica) e demonstrá-las no violão."
+          },
+          {
+            "id": "HM088-R12",
+            "quest": "Montar uma pasta com mais de 30 músicas adventistas cifradas."
+          }
+        ]
       }
     ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
