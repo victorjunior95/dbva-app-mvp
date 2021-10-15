@@ -5962,224 +5962,454 @@
             ]
           }
         ]
+      },
+      {
+        "id": "AA011",
+        "name": "Criação de Cavalos",
+        "badge": "null",
+        "level": 1,
+        "year": 1944,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA011-R1",
+            "quest": "Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de cavalos e especificar a aptidão desses."
+          },
+          {
+            "id": "AA011-R2",
+            "quest": "Quais são as instalações necessárias para a criação de cavalos?"
+          },
+          {
+            "id": "AA011-R3",
+            "quest": "Qual a alimentação necessária a ser utilizada para os seguintes períodos da vida dos animais?",
+            "options": [
+              "Primeiro mês",
+              "Primeiro ano",
+              "Gestação",
+              "Fêmea com filhote",
+              "Animal adulto"
+            ]
+          },
+          {
+            "id": "AA011-R4",
+            "quest": "Qual é a melhor idade para desmamar os potros?"
+          },
+          {
+            "id": "AA011-R5",
+            "quest": "Quando os filhotes devem ser apartados de suas mães e por quê?"
+          },
+          {
+            "id": "AA011-R6",
+            "quest": "Citar 2 linhas de lucro que são determinadas pelo uso de éguas especialmente selecionadas."
+          },
+          {
+            "id": "AA011-R7",
+            "quest": "Por que é preferível criar potros de puro sangue ao invés de espécies comuns?"
+          },
+          {
+            "id": "AA011-R8",
+            "quest": "Citar, pelo menos, 5 características que devem ser consideradas ao se escolher um cavalo."
+          },
+          {
+            "id": "AA011-R9",
+            "quest": "Que espécie de adestramento ajudará os potros a se desenvolverem de forma a tornarem-se cavalos mansos e dóceis?"
+          },
+          {
+            "id": "AA011-R10",
+            "quest": "Conhecer as partes do cabresto, rédeas, arreios e cela."
+          },
+          {
+            "id": "AA011-R11",
+            "quest": "Saber e demonstrar aos avaliadores como colocar de maneira correta um cabresto, rédeas e cela no cavalo."
+          },
+          {
+            "id": "AA011-R12",
+            "quest": "Saber como cuidar adequadamente dos cascos de um cavalo."
+          },
+          {
+            "id": "AA011-R13",
+            "quest": "Cuidar de um ou mais potros ou cavalos por um período de, pelo menos, 3 meses."
+          },
+          {
+            "id": "AA011-R14",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem os cavalos, apontando os principais sinais e sintomas, bem como prevenir e/ou tratá-los."
+          },
+          {
+            "id": "AA011-R15",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da equinocultura e referir suas principais características."
+          },
+          {
+            "id": "AA011-R16",
+            "quest": "Visitar uma propriedade rural onde se pratica a criação de cavalos e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA012",
+        "name": "Criação de Pombos",
+        "badge": "null",
+        "level": 2,
+        "year": 1944,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA012-R1",
+            "quest": "Identificar, ao vivo ou a partir de fotos, pelo menos, 3 espécies de pombos, referindo sua respectiva aptidão (pombo-correio ou ornamentação)."
+          },
+          {
+            "id": "AA012-R2",
+            "quest": "Descrever e identificar, por meio de fotografias, as seguintes instalações e equipamentos necessários para a criação de Pombos:",
+            "options": [
+              "Pombal",
+              "Poleiros",
+              "Alçapão",
+              "Ninho em caixa",
+              "Bebedouros",
+              "Comedouros"
+            ]
+          },
+          {
+            "id": "AA012-R3",
+            "quest": "Quais características devem ser levadas em conta ao se escolher uma espécie de pombo?"
+          },
+          {
+            "id": "AA012-R4",
+            "quest": "Qual o tamanho mínimo ideal do plantel para um criador inexperiente iniciar a atividade na criação pombos?"
+          },
+          {
+            "id": "AA012-R5",
+            "quest": "Descrever um programa de alimentação para aves domésticas, desde a eclosão dos ovos até a fase adulta."
+          },
+          {
+            "id": "AA012-R6",
+            "quest": "Saber e apresentar uma boa fórmula de sementes, grãos e alimentos triturados para serem utilizados na alimentação dos pombos e em que proporções eles devem ser misturados e administrados? Por que deve-se usar menos milho em climas quentes?"
+          },
+          {
+            "id": "AA012-R7",
+            "quest": "Citar as principais partes de um pombo. Referir e demonstrar, por meio de fotografias, as partes da asa do pombo, bem como a importância dessa estrutura."
+          },
+          {
+            "id": "AA012-R8",
+            "quest": "Qual a importância de uma correta mudança de penas? Como se pode controlar este período?"
+          },
+          {
+            "id": "AA012-R9",
+            "quest": "Criar, pelo menos, 2 pares de pombos. Se forem pombos-correios, ensiná-los a voltar ao pombal de uma distância de 40 quilômetros. Se forem pombos ornamentais, prepará-los para exposições."
+          },
+          {
+            "id": "AA012-R10",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem as aves, apontando os sintomas e sinais, bem como prevenir e/ou tratá-los."
+          },
+          {
+            "id": "AA012-R11",
+            "quest": "Visitar uma propriedade onde se pratica a criação de pombos e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA013",
+        "name": "Criação de Ovelhas",
+        "badge": "null",
+        "level": 1,
+        "year": 1944,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA013-R1",
+            "quest": "Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de ovinos e especificar se esses animais são criados para produção de leite, carne, pele ou lã."
+          },
+          {
+            "id": "AA013-R2",
+            "quest": "Quais são as instalações necessárias para a criação de ovelhas?"
+          },
+          {
+            "id": "AA013-R3",
+            "quest": "Quais os cuidados básicos devem ser providos para a criação de ovelhas?"
+          },
+          {
+            "id": "AA013-R4",
+            "quest": "Qual é o espaçamento necessário para a criação de ovelhas nas situações a seguir",
+            "options": [
+              "Ovelhas adultas soltas em um estábulo",
+              "Ovelhas adultas soltas ao ar livre",
+              "Filhotes soltos em um estábulo",
+              "Pastagem para gestantes",
+              "Cocho para ovelhas adultas",
+              "Cocho para gestantes",
+              "Parto"
+            ]
+          },
+          {
+            "id": "AA013-R5",
+            "quest": "Qual a alimentação necessária a ser utilizada para os seguintes períodos da vida dos animais?",
+            "options": [
+              "Primeiro mês",
+              "Terceiro mês",
+              "Gestação",
+              "Fêmea com filhote pequeno",
+              "Animal adulto"
+            ]
+          },
+          {
+            "id": "AA013-R6",
+            "quest": "Em que tipo de regiões as ovelhas costumam habitam?"
+          },
+          {
+            "id": "AA013-R7",
+            "quest": "Qual período do ano é mais favorável para iniciar a criação de ovelhas?"
+          },
+          {
+            "id": "AA013-R8",
+            "quest": "Quais características devem ser levadas em conta ao se escolher uma determinada variedade de raça?"
+          },
+          {
+            "id": "AA013-R9",
+            "quest": "Qual é a melhor idade para desmamar os burregos?"
+          },
+          {
+            "id": "AA013-R10",
+            "quest": "Quando os filhotes devem ser apartados de suas mães e por quê?"
+          },
+          {
+            "id": "AA013-R11",
+            "quest": "Citar e apresentar, por meio de fotografias, pelo menos 6 objetos oriundos da criação de ovelhas."
+          },
+          {
+            "id": "AA013-R12",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem os ovinos, apontando os principais sinais e sintomas, bem como prevenir e/ou tratá-los."
+          },
+          {
+            "id": "AA013-R13",
+            "quest": "Qual o tamanho mínimo ideal do rebanho para um criador inexperiente iniciar a atividade na criação ovelhas?"
+          },
+          {
+            "id": "AA013-R14",
+            "quest": "Conhecer o significado dos seguintes termos:",
+            "options": [
+              "Castração",
+              "Comercialização",
+              "Concentrado",
+              "Cruzar",
+              "Ovelha",
+              "Purgante ou Lavagem",
+              "Forragens",
+              "Volumosos",
+              "Ganhar ou Parir",
+              "Gestação",
+              "Peso de gordura",
+              "Lactação",
+              "Mocho",
+              "De raça pura",
+              "Carneiro",
+              "Ração",
+              "Registrado",
+              "Castrado",
+              "Raça híbrida",
+              "Cio",
+              "Burregos"
+            ]
+          },
+          {
+            "id": "AA013-R15",
+            "quest": "Quais pontos devem ser levados em consideração ao se escolher um bom cordeiro?"
+          },
+          {
+            "id": "AA013-R16",
+            "quest": "Cuidar de 2 ou mais cordeiros até a comercialização ou até 6 meses de idade."
+          },
+          {
+            "id": "AA013-R17",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da ovinocultura e referir suas principais características."
+          },
+          {
+            "id": "AA013-R18",
+            "quest": "Visitar uma propriedade rural onde se pratica a criação de ovelhas e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA014",
+        "name": "Pecuária",
+        "badge": "null",
+        "level": 2,
+        "year": 1944,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA014-R1",
+            "quest": "Citar, pelo menos, 4 características que se deve observar para a escolha de um bom novilho."
+          },
+          {
+            "id": "AA014-R2",
+            "quest": "Mencionar pelo menos, 25 partes de um boi."
+          },
+          {
+            "id": "AA014-R3",
+            "quest": "Conhecer o significado dos seguintes termos:",
+            "options": [
+              "Forragem",
+              "Arroba",
+              "Curral",
+              "Cruzar",
+              "Brete",
+              "Ferro de marcação",
+              "Garrote",
+              "Novilho",
+              "Brachiara",
+              "Napiêr",
+              "Quicuio",
+              "Prenhez",
+              "Ordenha",
+              "Mocho",
+              "De raça pura",
+              "Lactação",
+              "Pasto",
+              "Cerca",
+              "Ração",
+              "Área",
+              "Cio"
+            ]
+          },
+          {
+            "id": "AA014-R4",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem os bovinos, apontando os sintomas e sinais, bem como preveni-los e tratá-los."
+          },
+          {
+            "id": "AA014-R5",
+            "quest": "O que é castração e qual o seu propósito?"
+          },
+          {
+            "id": "AA014-R6",
+            "quest": "O que é descorna? Por que os chifres são extraídos? Qual a melhor idade para a realização deste procedimento?"
+          },
+          {
+            "id": "AA014-R7",
+            "quest": "Qual o melhor período para o desmame dos bezerros?"
+          },
+          {
+            "id": "AA014-R8",
+            "quest": "Quais são as instalações necessárias para a criação de gado?"
+          },
+          {
+            "id": "AA014-R9",
+            "quest": "Por que é melhor colocar alimento e água em lados opostos do estábulo?"
+          },
+          {
+            "id": "AA014-R10",
+            "quest": "Identificar, ao vivo ou por meio de imagens, 3 raças de bovinos de corte e 3 raças de gado leiteiro."
+          },
+          {
+            "id": "AA014-R11",
+            "quest": "Relatar os cuidados, manejo e tipo de alimentação necessária para o gado nas seguintes situações:",
+            "options": [
+              "Primeiros 90 dias",
+              "De 90 a 180 dias",
+              "De 180 dias até o momento da venda"
+            ]
+          },
+          {
+            "id": "AA014-R12",
+            "quest": "Como uma novilha pode ser treinada de maneira que se torne uma vaca mansa?"
+          },
+          {
+            "id": "AA014-R13",
+            "quest": "Cuidar de 1 ou mais bezerros por um período mínimo de 6 meses."
+          },
+          {
+            "id": "AA014-R14",
+            "quest": "Visitar uma propriedade rural onde se pratica a pecuária e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especial idade."
+          }
+        ]
+      },
+      {
+        "id": "AA015",
+        "name": "Criação de Cabras",
+        "badge": "null",
+        "level": 2,
+        "year": 1986,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA015-R1",
+            "quest": "Identificar, ao vivo ou a partir de fotografias, pelo menos 4 raças de caprinos e especificar se esses animais são criadas para produção de leite, carne ou lã."
+          },
+          {
+            "id": "AA015-R2",
+            "quest": "Quais são as instalações necessárias para a criação de cabras?"
+          },
+          {
+            "id": "AA015-R3",
+            "quest": "Qual a alimentação necessária a ser utilizada para os seguintes períodos da vida dos animais?",
+            "options": [
+              "Primeiro mês",
+              "Segundo mês",
+              "Gestação",
+              "Fêmea com filhote pequeno",
+              "Animal adulto"
+            ]
+          },
+          {
+            "id": "AA015-R4",
+            "quest": "Nomear e apresentar, por meio de fotos, 3 plantas venenosas para as cabras."
+          },
+          {
+            "id": "AA015-R5",
+            "quest": "Qual é a melhor idade para desmamar os cabritos?"
+          },
+          {
+            "id": "AA015-R6",
+            "quest": "Quando os filhotes devem ser apartados de suas mães e por quê?"
+          },
+          {
+            "id": "AA015-R7",
+            "quest": "Como os cascos das cabras devem ser aparados e por quê?"
+          },
+          {
+            "id": "AA015-R8",
+            "quest": "Por que as cabras são boas para limpar o mato?"
+          },
+          {
+            "id": "AA015-R9",
+            "quest": "Citar e apresentar, por meio de fotografias, pelo menos 6 objetos feitos de peles de cabra."
+          },
+          {
+            "id": "AA015-R10",
+            "quest": "O que é barbilhões?"
+          },
+          {
+            "id": "AA015-R11",
+            "quest": "Cuidar de 2 cabras por, pelo menos, 3 meses."
+          },
+          {
+            "id": "AA015-R12",
+            "quest": "Sobre cabras leiteiras, responder às seguintes perguntas:",
+            "options": [
+              "Quais os pontos devem ser levados em consideração ao se escolher uma boa cabra leiteira?",
+              "Como é feita a pasteurização do leite e qual seu objetivo?"
+            ]
+          },
+          {
+            "id": "AA015-R13",
+            "quest": "Fazer o seguinte:",
+            "options": [
+              "Ordenhar uma cabra de manhã ou à tarde, durante, pelo menos, 3 meses.",
+              "Manter um registro diário da produção de leite."
+            ]
+          },
+          {
+            "id": "AA015-R14",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem os caprinos, apontando os principais sinais e sintomas, bem como prevenir e/ou tratá-los."
+          },
+          {
+            "id": "AA015-R15",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da caprinocultura e referir suas principais características."
+          },
+          {
+            "id": "AA015-R16",
+            "quest": "Visitar uma propriedade rural onde se pratica a criação de caprinos e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
       }
     ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
