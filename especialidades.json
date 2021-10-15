@@ -5168,8 +5168,949 @@
         ]
       }
     ]
+  },
+  {
+    "id": "AA",
+    "name": "Atividades Agrícolas e Afins",
+    "honors": [
+      {
+        "id": "AA001",
+        "name": "Avicultura",
+        "badge": "null",
+        "level": 2,
+        "year": 1928,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA001-R1",
+            "quest": "Ter a especialidade de Aves domésticas."
+          },
+          {
+            "id": "AA001-R2",
+            "quest": "Identificar, por meio de imagens, e conhecer de forma geral o uso de:",
+            "options": [
+              "Incubadoras",
+              "Poleiros",
+              "Aviários",
+              "Bebedouros",
+              "Comedouros",
+              "Ninhos"
+            ]
+          },
+          {
+            "id": "AA001-R3",
+            "quest": "Identificar ao vivo ou a partir de fotos, pelo menos, 2 raças das seguintes espécies, destacando sua respectiva aptidão (carne, ovos, penas e ou pele):",
+            "options": [
+              "Pato",
+              "Frango",
+              "Ganso",
+              "Codorna",
+              "Peru",
+              "Avestruz"
+            ]
+          },
+          {
+            "id": "AA001-R4",
+            "quest": "Descrever um programa de alimentação para aves domésticas, desde a eclosão dos ovos até a fase adulta."
+          },
+          {
+            "id": "AA001-R5",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem as aves, apontando os sintomas e sinais, bem como preveni-los e tratá-los."
+          },
+          {
+            "id": "AA001-R6",
+            "quest": "Qual a temperatura, umidade e número de dias necessários para chocar os seguintes ovos:",
+            "options": [
+              "Pato",
+              "Frango",
+              "Ganso",
+              "Codorna",
+              "Peru",
+              "Avestruz"
+            ]
+          },
+          {
+            "id": "AA001-R7",
+            "quest": "Ser capaz de examinar, testar e acondicionar ovos para o mercado e/ou para o consumo doméstico, descrever como discernir ovos podres dos ovos bons e saber como são classificados."
+          },
+          {
+            "id": "AA001-R8",
+            "quest": "Criar, até seu completo desenvolvimento, uma ninhada de, pelo menos, 6 aves de sua escolha."
+          },
+          {
+            "id": "AA001-R9",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras, ou oral de 5 minutos sobre a importância da avicultura e referir suas principais características."
+          },
+          {
+            "id": "AA001-R10",
+            "quest": "Visitar uma propriedade rural onde se pratica a criação de aves para uso próprio ou comércio e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiencia vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA002",
+        "name": "Jardinagem e Horticultura",
+        "badge": "null",
+        "level": 1,
+        "year": 1928,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA002-R1",
+            "quest": "Preparar o solo, fertilizar e plantar num lote de terra de, pelo menos, 30 metros quadrados. Cultivar, pelo menos, seis plantas diferentes: trés a partir de sementes e três a partir de mudas."
+          },
+          {
+            "id": "AA002-R2",
+            "quest": "Relacionar formas de controlar insetos e outras pragas em sua horta ou jardim. Saber quando usar inseticidas e fungicidas e as regras de segurança que devem ser seguidas no manejo."
+          },
+          {
+            "id": "AA002-R3",
+            "quest": "Por que e em que situações usa-se a palha ou terra para cobrir certos tipos de vegetação?"
+          },
+          {
+            "id": "AA002-R4",
+            "quest": "O que é uma planta resistente? Que plantas são consideradas resistentes em sua região?"
+          },
+          {
+            "id": "AA002-R5",
+            "quest": "Completar uma das alternativas a seguir:",
+            "options": [
+              "Testar a germinação de 100 sementes do mesmo tipo",
+              "Fazer e usar um viveiro ou estufa",
+              "Cultivar três verduras ou legumes, de sua escolha, para serem vendidos",
+              "Fazer e usar um cesto ou tulha para guardar os vegetais."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "AA003",
+        "name": "Agricultura Familiar de Subsistência",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "AA003-R1",
+            "quest": "Participar na elaboração de uma horta com área de, pelo menos, 10 metros quadrados, cumprindo os seguintes requisitos.",
+            "options": [
+              "Escolha do local",
+              "Limpeza da área, incluindo a eliminação das ervas daninhas",
+              "Preparo do solo para o cultivo",
+              "Realizar o plantio e o cultivo de alguma variedade de planta."
+            ]
+          },
+          {
+            "id": "AA003-R2",
+            "quest": "Relacionar as ferramentas básicas a serem utilizadas para os trabalhos na agricultura familiar de subsistência e descrever os principais cuidados que devemos ter ao manipular essas ferramentas."
+          },
+          {
+            "id": "AA003-R3",
+            "quest": "Apresentar um relatório demonstrando e explanando os tipos de adubo, relatando ainda as principais características de cada material identificado."
+          },
+          {
+            "id": "AA003-R4",
+            "quest": "Demonstrar, através de uma atividade prática, o processo de adubação orgânica de sua horta."
+          },
+          {
+            "id": "AA003-R5",
+            "quest": "Relacionar quais das seguintes famílias de plantas você cultivará em sua horta, citar pelo menos 3 espécies de cada uma das famílias abaixo relacionadas e mencionar a melhor época do ano para o cultivo.",
+            "options": [
+              "Tubérculos",
+              "Gramíneas",
+              "Legumes",
+              "Verduras",
+              "Frutos"
+            ]
+          },
+          {
+            "id": "AA003-R6",
+            "quest": "Demonstrar de maneira prática, e por meio de um desenho, como você organizará sua horta para o cultivo das plantas de sua escolha."
+          },
+          {
+            "id": "AA003-R7",
+            "quest": "Após a limpeza da área destinada ao plantio, quais plantas podem crescer melhor no local onde foram queimados tocos e troncos?"
+          },
+          {
+            "id": "AA003-R8",
+            "quest": "Apresentar um relatório demonstrando as principais pragas, doenças e ervas daninhas comuns às hortas. Demonstrar e explicar de que maneira você poderá controlar a incidência desses males."
+          },
+          {
+            "id": "AA003-R9",
+            "quest": "Através de um planejamento de plantio, explicar de quais formas pode-se obter um fornecimento contínuo de alimentos."
+          },
+          {
+            "id": "AA003-R10",
+            "quest": "Demonstrar como fazer a colheita para uso da família e para a comercialização."
+          },
+          {
+            "id": "AA003-R11",
+            "quest": "O que é rotação de culturas e qual a importância dela para o cultivo na agricultura familiar de subsistência?"
+          },
+          {
+            "id": "AA003-R12",
+            "quest": "Apresentar através de um desenho, ou por meio prático, um programa em que você realizará a rotatividade do plantio cultivado, bem como do sistema de colheita."
+          },
+          {
+            "id": "AA003-R13",
+            "quest": "Explicar o que você pode fazer com a área de sua horta após vários anos de cultivo."
+          },
+          {
+            "id": "AA003-R14",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras, ou oral de 5 minutos sobre a importância da agricultura familiar de subsistência, referindo suas principais características."
+          },
+          {
+            "id": "AA003-R15",
+            "quest": "Visitar uma propriedade rural onde uma família sobrevive da produção agrícola e elaborar relatório destacando as principais atividades ali desenvolvidas."
+          }
+        ]
+      },
+      {
+        "id": "AA004",
+        "name": "Apicultura",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA004-R1",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 500 palavras, ou oral de 5 minutos sobre a história da apicultura."
+          },
+          {
+            "id": "AA004-R2",
+            "quest": "Relacione 5 produtos da Apicultura que são consumidos pelo homem e enumere, ao menos, 3 utilidades de cada um."
+          },
+          {
+            "id": "AA004-R3",
+            "quest": "Qual a importância das abelhas para a agricultura? Nomear 10 alimentos que seriam muito difíceis de cultivar se não houvessem abelhas."
+          },
+          {
+            "id": "AA004-R4",
+            "quest": "O que significam os termos a seguir:",
+            "options": [
+              "Caixas criatórias",
+              "Favo atravessado",
+              "Infestação",
+              "Melgueira"
+            ]
+          },
+          {
+            "id": "AA004-R5",
+            "quest": "O que é um fumegador? Que materiais produzem melhor combustível para o fumegador?"
+          },
+          {
+            "id": "AA004-R6",
+            "quest": "Descreva as diferenças físicas entre o zangão, as operárias e a abelha rainha e relacione os deveres específicos de cada um."
+          },
+          {
+            "id": "AA004-R7",
+            "quest": "Explique:",
+            "options": [
+              "O processo pelo qual as abelhas constroem os favos e como organizam a colméia",
+              "Por que a colméia fica escura com o tempo?",
+              "O que é espaço-abelha e qual a sua medida em milímetros?",
+              "Por que é importante evitar a passagem da abelha rainha entre a câmara de cria e as melgueiras? Como isso pode ser feito?"
+            ]
+          },
+          {
+            "id": "AA004-R8",
+            "quest": "Que pontos devem ser considerados ao escolher um local para as colméias?"
+          },
+          {
+            "id": "AA004-R9",
+            "quest": "Como as doenças em abelhas podem espalhar-se de uma colméia para outra?"
+          },
+          {
+            "id": "AA004-R10",
+            "quest": "O que é pilhagem? Descreva o que faz uma abelha ladra."
+          },
+          {
+            "id": "AA004-R11",
+            "quest": "Mencionar 4 maneiras de ajudar a prevenir a infestação nas colméias. Explique por que ela deve ser evitada."
+          },
+          {
+            "id": "AA004-R12",
+            "quest": "Que 3 exigências devem ser cumpridas para que uma colônia possa suportar as intempéries com sucesso?"
+          },
+          {
+            "id": "AA004-R13",
+            "quest": "Cite 3 modelos populares de colméias. Quais as vantagens de usar uma colméia tipo Americana?"
+          },
+          {
+            "id": "AA004-R14",
+            "quest": "Como se sabe quando o quadro está pronto para a extração do mel?"
+          },
+          {
+            "id": "AA004-R15",
+            "quest": "Realizar as seguintes tarefas que acontecem num bom apiário:",
+            "options": [
+              "Demonstrar a técnica apropriada de fixação da placa de cera alveolada no quadro",
+              "Estimular a produção da ninhada através da alimentação",
+              "Evitar a infestação da colméia por meio das técnicas apropriadas",
+              "Realizar a colheita do mel com total aproveitamento",
+              "Realizar a colheita do própolis com total aproveitamento"
+            ]
+          },
+          {
+            "id": "AA004-R16",
+            "quest": "Memorizar Provérbios 16:2 e explicar a relação entre o mel e as boas palavras navida do cristão."
+          }
+        ]
+      },
+      {
+        "id": "AA005",
+        "name": "Agricultura",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA005-R1",
+            "quest": "Fazer uma lista dos componentes do solo. Por que o solo é importante para as plantas?"
+          },
+          {
+            "id": "AA005-R2",
+            "quest": "Explicar como as plantas obtém nutrientes e os convertem em alimento. Explicar a diferença entre nutrientes primários, secundários e micronutrientes."
+          },
+          {
+            "id": "AA005-R3",
+            "quest": "Conhecer e apresentar um relatório dos modos em que podemos manter a terra fértil através da adubação com fertilizantes químicos e naturais, rotação de culturas e quando utilizá-los."
+          },
+          {
+            "id": "AA005-R4",
+            "quest": "Explicar a diferença entre solos argilosos, arenosos e barrentos. Mencionar 3 tipos de plantas que se desenvolvem bem em cada um deles."
+          },
+          {
+            "id": "AA005-R5",
+            "quest": "O que é erosão? Como pode ser prevenida?"
+          },
+          {
+            "id": "AA005-R6",
+            "quest": "Conhecer e apresentar um relatório acerca do manejo dos seguintes instrumentos de trabalho na agricultura: pá, enxada, ancinho e regador."
+          },
+          {
+            "id": "AA005-R7",
+            "quest": "Identificar por meio de imagens e conhecer de forma geral as máquinas agrícolas, tradicionais e modernas, utilizadas no processo de produção agrícola."
+          },
+          {
+            "id": "AA005-R8",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da agricultura, referindo suas principais características."
+          },
+          {
+            "id": "AA005-R9",
+            "quest": "Testar a germinação de 3 variedades de sementes — 100 sementes de cada variedade. Anotar a porcentagem após o 3°, 5° e 7° dia."
+          },
+          {
+            "id": "AA005-R10",
+            "quest": "Identificar e nomear, pelo menos, 10 ervas daninhas comuns em sua região e explicar a melhor forma de eliminá-las usando métodos naturais ou químicos."
+          },
+          {
+            "id": "AA005-R11",
+            "quest": "Identificar 6 pragas (insetos) e 6 doenças comuns às plantações. Especificar quais plantas elas geralmente atacam, relatando a melhor maneira para prevenir e eliminar sua ocorrência."
+          },
+          {
+            "id": "AA005-R12",
+            "quest": "Localizar, pelo menos, 2 fontes de informação em meteorologia e explicar como este método de informação pode ser útil ao agricultor?"
+          },
+          {
+            "id": "AA005-R13",
+            "quest": "Conhecer o propósito das seguintes atividades:",
+            "options": [
+              "Arar",
+              "Gradear",
+              "Drenar",
+              "Capinar",
+              "Cultivar",
+              "Irrigar",
+              "Ceifar (Colher)"
+            ]
+          },
+          {
+            "id": "AA005-R14",
+            "quest": "Relacionar e identificar, através de fotografias ou imagens, pelo menos, 10 aves comuns em sua região e explicar a sua importância para o agricultor."
+          },
+          {
+            "id": "AA005-R15",
+            "quest": "Auxiliar no plantio, cultivo e colheita de, pelo menos, 4 diferentes culturas, mantendo um relatório do trabalho realizado, bem como os problemas encontrados."
+          },
+          {
+            "id": "AA005-R16",
+            "quest": "Visitar uma cooperativa em sua localidade ou instituição de apoio aos fazendeiros e descobrir como estes órgãos ajudam o agricultor. Escrever um relatório sobre sua visita."
+          },
+          {
+            "id": "AA005-R17",
+            "quest": "Visitar uma propriedade rural onde se pratica a agricultura e elaborar relatório destacando as principais atividades ali desenvolvidas."
+          }
+        ]
+      },
+      {
+        "id": "AA006",
+        "name": "Pescaria",
+        "badge": "null",
+        "level": 2,
+        "year": 0,
+        "originatingInstitution": "Divisão do Sul do Pacífico",
+        "requirements": [
+          {
+            "id": "AA006-R1",
+            "quest": "Qual a diferença entre pesca e pescaria?"
+          },
+          {
+            "id": "AA006-R2",
+            "quest": "Explique as seguintes modalidades:",
+            "options": [
+              "Pesca de subsistência",
+              "Pesca esportiva"
+            ]
+          },
+          {
+            "id": "AA006-R3",
+            "quest": "Listar 5 diferentes métodos de pesca e demonstrar, ao menos, 2 a seu instrutor."
+          },
+          {
+            "id": "AA006-R4",
+            "quest": "Qual a melhor maré para a pesca? Qual a relação entre a lua e os diferentes tipos de maré?"
+          },
+          {
+            "id": "AA006-R5",
+            "quest": "Fazer um quadro usando figuras, fotos ou desenhos das iscas e anzóis mais comuns em sua região, explicando as variações e indicações de cada um."
+          },
+          {
+            "id": "AA006-R6",
+            "quest": "Participar de uma viagem ou passeio de pesca e pescar, ao menos, 2 peixes, cada um utilizando um método diferente, dentre os listados no requisito 3."
+          },
+          {
+            "id": "AA006-R7",
+            "quest": "Fazer o seguinte:",
+            "options": [
+              "Uma coleção de fotos de 30 peixes comuns em sua região, identificando seus nomes, local de habitação, dieta, etc.",
+              "Uma coleção de fotos de 10 peixes venenosos, tendo, no mínimo, 5 nativos de sua região ou país."
+            ]
+          },
+          {
+            "id": "AA006-R8",
+            "quest": "Ler Deuteronômio 14:9 e l0. Após a leitura, separar os peixes do requisito 7 entre puros e impuros, explicando a importância de saber separá-los."
+          },
+          {
+            "id": "AA006-R9",
+            "quest": "Ler Lucas 5:1 a 10. Em seguida, fazer uma lista apresentando, ao menos, 10 diferentes formas de demonstrar em sua vida como ser um 'Pescador de Homens'."
+          }
+        ]
+      },
+      {
+        "id": "AA007",
+        "name": "Criação de Gado Leiteiro",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA007-R1",
+            "quest": "Quais pontos devem ser levados em consideração ao escolher uma vaca para a produção de leite?"
+          },
+          {
+            "id": "AA007-R2",
+            "quest": "Mencionar, pelo menos, 25 partes de uma vaca leiteira."
+          },
+          {
+            "id": "AA007-R3",
+            "quest": "Identificar, ao vivo ou por meio de imagens, 3 raças de bovinos de corte e 3 raças de gado leiteiro."
+          },
+          {
+            "id": "AA007-R4",
+            "quest": "Quais são as instalações necessárias para a criação de gado leiteiro?"
+          },
+          {
+            "id": "AA007-R5",
+            "quest": "Como urna novilha pode ser treinada de maneira que se torne uma vaca mansa?"
+          },
+          {
+            "id": "AA007-R6",
+            "quest": "Conhecer os cuidados, tratamento e alimentação para o gado leiteiro em cada um dos seguintes estágios:",
+            "options": [
+              "Bezerro",
+              "Do desmame até os 6 meses de vida",
+              "Dos 6 meses até os 15 meses de vida",
+              "Dos 15 meses até a gestação",
+              "Lactação",
+              "Período seco"
+            ]
+          },
+          {
+            "id": "AA007-R7",
+            "quest": "Saber como o leite é produzido na vaca."
+          },
+          {
+            "id": "AA007-R8",
+            "quest": "Conhecer os passos necessários para ordenhar uma vaca tanto de maneira manual como mecânica."
+          },
+          {
+            "id": "AA007-R9",
+            "quest": "Conhecer as principais partes de uma ordenhadeira mecânica."
+          },
+          {
+            "id": "AA007-R10",
+            "quest": "O que é mastite? Quais medidas podem ser tomadas para prevenir a mastite?"
+          },
+          {
+            "id": "AA007-R11",
+            "quest": "Apresentar um relatório destacando os principais problemas de saúde que atingem o gado leiteiro, apontando os sintomas e sinais, bem como prevenir e/ou tratá-los."
+          },
+          {
+            "id": "AA007-R12",
+            "quest": "Conhecer o significado dos seguintes termos:",
+            "options": [
+              "Concentrados",
+              "Proteína bruta",
+              "Seleção",
+              "Período seco",
+              "Lactação",
+              "Ciclo ou período de lactação",
+              "Ocitocina",
+              "Cio"
+            ]
+          },
+          {
+            "id": "AA007-R13",
+            "quest": "Explicar a pasteurização do leite e os cuidados necessários com os utensílios e equipamentos usados nos laticínios."
+          },
+          {
+            "id": "AA007-R14",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da pecuária leiteira e referir suas principais características."
+          },
+          {
+            "id": "AA007-R15",
+            "quest": "Auxiliar no cuidado e ordenha de um rebanho de vacas leiteiras por um período de, pelo menos, 3 meses."
+          },
+          {
+            "id": "AA007-R16",
+            "quest": "Visitar uma propriedade rural onde se pratica a criação de gado leiteiro e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA008",
+        "name": "Pomicultura",
+        "badge": "null",
+        "level": 2,
+        "year": 1929,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA008-R1",
+            "quest": "Qual a diferença entre um viveiro e uma estufa?"
+          },
+          {
+            "id": "AA008-R2",
+            "quest": "Citar, pelo menos, 5 características que devem ser consideradas para se realizar a produção de mudas, bem como as principais necessidades a se levar em conta ao escolher uma determinada variedade de planta frutífera."
+          },
+          {
+            "id": "AA008-R3",
+            "quest": "Apresentar um relatório demonstrando os cuidados necessários para o plantio e cultivo de, pelo menos, 2 árvores frutíferas de sua escolha, apontando as técnicas básicas de preparo do solo, espaçamento, período do ano mais favorável para o plantio e esquema de adubação."
+          },
+          {
+            "id": "AA008-R4",
+            "quest": "Por meio de um relatório escrito (o relatório deve conter fotos das plantas adultas e dos frutos), apontar as condições de local, solo e época do ano mais adequado para se cultivar, pelo menos, 3 das seguintes variedades:",
+            "options": [
+              "Abacateiro",
+              "Ameixeira",
+              "Bananeira",
+              "Cajazeira",
+              "Coqueiro",
+              "Goiabeira",
+              "Laranjeira",
+              "Limoeiro",
+              "Macieira",
+              "Mamoeiro",
+              "Mangueira",
+              "Pereira",
+              "Outra variedade frutífera da sua escolha"
+            ]
+          },
+          {
+            "id": "AA008-R5",
+            "quest": "Fazer um pequeno viveiro para a produção de mudas."
+          },
+          {
+            "id": "AA008-R6",
+            "quest": "Apresentar, por meio de um relatório, o nome de, pelo menos, 3 tipos de fertilizantes, demonstrando a importância, necessidade e sugerir a melhor maneira de uso para cada um."
+          },
+          {
+            "id": "AA008-R7",
+            "quest": "O que é uma árvore frutifera anã? Como chegou a este tamanho?"
+          },
+          {
+            "id": "AA008-R8",
+            "quest": "O que é enxertia? Por que se faz enxerto em árvores frutíferas?"
+          },
+          {
+            "id": "AA008-R9",
+            "quest": "O que é resistência? Oque isso significa? Citar, pelo menos, 3 plantas que são consideradas resistentes em sua região?"
+          },
+          {
+            "id": "AA008-R10",
+            "quest": "Na presença do avaliador, demonstrar habilidade em plantar, podar e tratar de, pelo menos, 2 árvores frutíferas, por um período de, pelo menos, 2 estações, ou cuidar de uma árvore existente pelo mesmo período."
+          },
+          {
+            "id": "AA008-R11",
+            "quest": "Responder as perguntas a seguir:",
+            "options": [
+              "O que é polinização? Como esse processo acontece?",
+              "O que é um polinizador? Citar por meio de um relatório, apresentando fotos ou ao vivo, pelo menos um agente responsável pela polinização.",
+              "Citar, pelo menos, 3 plantas frutíferas que necessitam de um agente polinizador."
+            ]
+          },
+          {
+            "id": "AA008-R12",
+            "quest": "Apresentar um relatório identificando, através de fotografias ou imagens, as principais pragas, doenças e ervas daninhas comuns aos pomares em sua região. Especificar quais plantas elas geralmente atacam, relatando a melhor maneira para prevenir e/ou eliminar sua ocorrência."
+          },
+          {
+            "id": "AA008-R13",
+            "quest": "Demonstrar como fazer a colheita dos frutos para uso da família ou para comercialização. Apresentar aos examinadores uma amostra dos frutos colhidos e comparar as qualidades de sabor, textura e aparência de 2 variedades diferentes da mesma fruta."
+          },
+          {
+            "id": "AA008-R14",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da Fruticultura (produção de frutos exigidos nos requisitos dessa especialidade) e referir suas principais características."
+          },
+          {
+            "id": "AA008-R15",
+            "quest": "Visitar uma propriedade rural onde se pratica a fruticultura e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA009",
+        "name": "Pomicultura II - Frutas Pequenas",
+        "badge": "null",
+        "level": 2,
+        "year": 1928,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA009-R1",
+            "quest": "Qual a diferença entre um viveiro e uma estufa?"
+          },
+          {
+            "id": "AA009-R2",
+            "quest": "Fazer um pequeno viveiro para a produção de mudas."
+          },
+          {
+            "id": "AA009-R3",
+            "quest": "Citar, pelo menos, 5 características que devem ser consideradas ao se realizar a produção de mudas, bem como as principais necessidades a serem levadas em conta ao se escolher uma determinada variedade de planta frutífera."
+          },
+          {
+            "id": "AA009-R4",
+            "quest": "Apresentar um relatório demonstrando os cuidados necessários para o plantio e cultivo de, pelo menos, 4 variedades de plantas de sua escolha, apontando as técnicas básicas de preparo do solo, espaçamento, período do ano mais favorável para o plantio e esquema de adubação."
+          },
+          {
+            "id": "AA009-R5",
+            "quest": "Por meio de um relatório escrito (o relatório deve conter fotos das plantas adultas e dos frutos), apontar as condições de local, solo e época do ano mais adequados para se cultivar, pelo menos, 3 variedades de frutas pequenas das citadas abaixo ou que crescem em sua região:",
+            "options": [
+              "Abacaxizeiros",
+              "Aceroleiras",
+              "Amoreiras",
+              "Cerejeiras",
+              "Figueiras",
+              "Framboeseiras",
+              "Gravioleiras",
+              "Maracujazeiros",
+              "Morangueiros",
+              "Pitangueiras",
+              "Romanzeiras",
+              "Umbuzeiros",
+              "Vinhas",
+              "Outra variedade frutífera da sua escolha"
+            ]
+          },
+          {
+            "id": "AA009-R6",
+            "quest": "Escrever um relatório de 1 página referindo como cultivar as frutas selecionadas no requisito anterior. Neste relatório, incluir o seguinte:",
+            "options": [
+              "Variedade de seleção",
+              "Preparo do solo",
+              "Técnicas de plantio",
+              "Fertilização",
+              "Poda",
+              "Irrigação",
+              "Controle de pragas",
+              "Colheita"
+            ]
+          },
+          {
+            "id": "AA009-R7",
+            "quest": "Apresentar, por meio de fotos ou imagens, as variedades de frutas pequenas que nascem com facilidade ou existem na região em que você vive."
+          },
+          {
+            "id": "AA009-R8",
+            "quest": "Demonstrar ao avaliador a maneira adequada de podar, pelo menos, 2 arbustos ou vinhas de pequenas frutas em alguma horta ou pomar."
+          },
+          {
+            "id": "AA009-R9",
+            "quest": "O que é uma cultura perecível?"
+          },
+          {
+            "id": "AA009-R10",
+            "quest": "Por quanto tempo as frutas mencionadas no requisito 5 podem ser guardadas?"
+          },
+          {
+            "id": "AA009-R11",
+            "quest": "Apresentar um relatório identificando, através de fotografias ou imagens, as principais pragas, doenças e ervas daninhas comuns aos pomares em sua região. Especificar quais plantas elas geralmente atacam e referir a melhor maneira para prevenir e/ou eliminar sua ocorrência."
+          },
+          {
+            "id": "AA009-R12",
+            "quest": "Apresentar, por meio de um relatório, o nome de, pelo menos, 3 tipos de fertilizantes, demonstrando a importância, necessidade e sugerir a melhor maneira de uso para cada um."
+          },
+          {
+            "id": "AA009-R13",
+            "quest": "Fazer um teste do solo de um pomar e determinar quais frutos poderão crescer ali. Pedir recomendações de fertilizantes para as culturas escolhidas para serem plantadas e determinar o custo do fertilizante necessário para 6 fileiras de 10 metros."
+          },
+          {
+            "id": "AA009-R14",
+            "quest": "Qual é o propósito do teste de solo?"
+          },
+          {
+            "id": "AA009-R15",
+            "quest": "O que é drenagem? Qual a sua importância? Como se faz a drenagem?"
+          },
+          {
+            "id": "AA009-R16",
+            "quest": "O que é resistência? O que isso significa? Citar, pelo menos, 3 plantas que são consideradas resistentes em sua região?"
+          },
+          {
+            "id": "AA009-R17",
+            "quest": "Responder as perguntas a seguir:",
+            "options": [
+              "O que é polinização? Como esse processo acontece?",
+              "O que é um polinizador? Citar por meio de um relatório, apresentando fotos ou ao vivo, pelo menos um agente responsável pela polinização.",
+              "Citar, pelo menos, 3 plantas frutíferas que necessitam de um agente polinizador."
+            ]
+          },
+          {
+            "id": "AA009-R18",
+            "quest": "Demonstrar como fazer a colheita dos frutos para uso da família ou para comercialização. Apresentar aos examinadores uma amostra dos frutos colhidos e comparar as qualidades de sabor, textura e aparência de 2 variedades diferentes da mesma fruta."
+          },
+          {
+            "id": "AA009-R19",
+            "quest": "Apresentar um relatório escrito de, no mínimo, 300 palavras ou oral de 5 minutos sobre a importância da fruticultura (produção de frutos exigidos nos requisitos dessa especialidade) e referir suas principais características."
+          },
+          {
+            "id": "AA009-R20",
+            "quest": "Visitar uma propriedade rural onde se pratica a fruticultura e elaborar um relatório de, pelo menos, 300 palavras destacando as principais atividades ali desenvolvidas, bem como sobre a sua experiência vivida para o cumprimento dos requisitos desta especialidade."
+          }
+        ]
+      },
+      {
+        "id": "AA010",
+        "name": "Floricultura",
+        "badge": "null",
+        "level": 1,
+        "year": 1938,
+        "originatingInstitution": "Associação Geral",
+        "requirements": [
+          {
+            "id": "AA010-R1",
+            "quest": "O que são flores perenes? Anuais? Bienais? Dê um exemplo de cada."
+          },
+          {
+            "id": "AA010-R2",
+            "quest": "Apresentar as instruções para fazer um viveiro. Qual a diferença entre um viveiro e uma estufa?"
+          },
+          {
+            "id": "AA010-R3",
+            "quest": "O que é drenagem e qual a sua importância? Como se faz a drenagem?"
+          },
+          {
+            "id": "AA010-R4",
+            "quest": "Liste três pragas que atingem as plantas em sua região, descreva os danos causados por cada uma e explique como controlá-las."
+          },
+          {
+            "id": "AA010-R5",
+            "quest": "Descrever as instruções para fazer uma floreira e especificar seu uso."
+          },
+          {
+            "id": "AA010-R6",
+            "quest": "Dar o nome de três tipos de fertilizantes e sugerir o melhor uso para cada um."
+          },
+          {
+            "id": "AA010-R7",
+            "quest": "Preparar o solo, plantar e cultivar até a maturidade, três tipos distintos de flores anuais."
+          },
+          {
+            "id": "AA010-R8",
+            "quest": "Quais são os três nutrientes de plantas mais importantes para a floração?"
+          },
+          {
+            "id": "AA010-R9",
+            "quest": "Cultivar duas ou mais flores perenes em um canteiro ao ar livre, durante uma estação. Manter um relatório escrito com registro semanal do trabalho feito."
+          },
+          {
+            "id": "AA010-R10",
+            "quest": "Qual é o propósito do teste de solo?"
+          },
+          {
+            "id": "AA010-R11",
+            "quest": "Mencionar três flores que melhor se adaptam a cada uma das condições a seguir:",
+            "options": [
+              "Sombra",
+              "Solo seco",
+              "Luz solar direta",
+              "Solo úmido"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
